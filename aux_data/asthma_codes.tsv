@@ -1,0 +1,430 @@
+Id	Code	Name	Concept Class Id	Domain	Vocabulary	Invalid Reason	Standard Concept
+252341	91340006	Extrinsic asthma with status asthmaticus	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+252658	12428000	Intrinsic asthma without status asthmaticus	Clinical Finding	Condition	SNOMED	Valid	Standard
+252942	233691007	Asthmatic pulmonary eosinophilia	Clinical Finding	Condition	SNOMED	Valid	Standard
+252946	29422001	Coal workers' pneumoconiosis	Clinical Finding	Condition	SNOMED	Valid	Standard
+254980	233685005	Intrinsic asthma with asthma attack	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+256448	195949008	Chronic asthmatic bronchitis	Clinical Finding	Condition	SNOMED	Valid	Standard
+256716	57546000	Asthma with status asthmaticus	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+257581	281239006	Exacerbation of asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+259055	233681001	Extrinsic asthma with asthma attack	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+261048	59327009	Intrinsic asthma with status asthmaticus	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+312950	424643009	IgE-mediated allergic asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+313236	409663006	Cough variant asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+314754	56018004	Wheezing	Clinical Finding	Condition	SNOMED	Valid	Standard
+317009	195967001	Asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+35609846	1086701000000102	Life threatening acute exacerbation of extrinsic asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+35609847	1086711000000100	Life threatening acute exacerbation of non-allergic asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+35621821	763077003	Asthma Control Questionnaire score	Observable Entity	Observation	SNOMED	Valid	Standard
+35621931	763221007	Asthma monitoring refused	Context-dependent	Observation	SNOMED	Valid	Standard
+35622291	763695004	Mini AQLQ (Asthma Quality of Life Questionnaire) score	Observable Entity	Observation	SNOMED	Valid	Standard
+36674599	782559003	Asthma never causes night symptoms	Clinical Finding	Condition	SNOMED	Valid	Standard
+36684328	782513000	Acute severe exacerbation of allergic asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+36684335	782520007	Exacerbation of allergic asthma due to infection	Clinical Finding	Condition	SNOMED	Valid	Standard
+36713252	4431000175103	Asthma medication not prescribed	Context-dependent	Observation	SNOMED	Valid	Standard
+37108580	10675391000119101	Severe controlled persistent asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+37108581	10675751000119107	Severe uncontrolled persistent asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+37109103	16584951000119101	Oral steroid-dependent asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+37116845	733858005	Acute severe refractory exacerbation of asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+37395612	4451000175106	Asthma action plan not done	Context-dependent	Observation	SNOMED	Valid	Standard
+37395677	715191006	Telehealth asthma monitoring	Procedure	Observation	SNOMED	Valid	Standard
+4002903	11944003	Feather-pickers' disease	Clinical Finding	Condition	SNOMED	Valid	Standard
+4015819	170633004	Asthma disturbs sleep weekly	Clinical Finding	Condition	SNOMED	Valid	Standard
+4015947	170632009	Asthma causing night waking	Clinical Finding	Condition	SNOMED	Valid	Standard
+4015948	170637003	Asthma limiting activities	Clinical Finding	Observation	SNOMED	Valid	Standard
+4015951	170655007	Asthma restricts exercise	Clinical Finding	Observation	SNOMED	Valid	Standard
+4017025	170631002	Asthma disturbing sleep	Clinical Finding	Condition	SNOMED	Valid	Standard
+4017026	170638008	Asthma not limiting activities	Clinical Finding	Condition	SNOMED	Valid	Standard
+4017182	170634005	Asthma disturbs sleep frequently	Clinical Finding	Condition	SNOMED	Valid	Standard
+4017183	170635006	Asthma not disturbing sleep	Clinical Finding	Condition	SNOMED	Valid	Standard
+4017184	170636007	Asthma never disturbs sleep	Clinical Finding	Condition	SNOMED	Valid	Standard
+4017188	170642006	Asthma severity	Procedure	Observation	SNOMED	Valid	Standard
+4017189	170647000	Asthma prophylactic medication used	Procedure	Observation	SNOMED	Valid	Standard
+4017191	170656008	Asthma sometimes restricts exercise	Clinical Finding	Observation	SNOMED	Valid	Standard
+4017192	170657004	Asthma severely restricts exercise	Clinical Finding	Observation	SNOMED	Valid	Standard
+4017293	170658009	Asthma never restricts exercise	Clinical Finding	Condition	SNOMED	Valid	Standard
+4022592	11641008	Millers' asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+4025172	196147002	Pulmonary eosinophilia NOS	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+4027669	13151001	Flax-dressers' disease	Clinical Finding	Condition	SNOMED	Valid	Standard
+40297860	134384007	Asthma daytime symptoms	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40298013	137774002	FH: Asthma	Context-dependent	Observation	SNOMED	Invalid	Non-standard
+40300394	138412007	Asthma society member	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40302112	138796005	H/O: asthma	Context-dependent	Observation	SNOMED	Invalid	Non-standard
+40303860	139202009	Exercise-induced asthma	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40307535	147877003	Asthma disturbing sleep	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40307536	147878008	Asthma not disturbing sleep	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40307537	147879000	Asthma limiting activities	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40307538	147880002	Asthma not limiting activities	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40307553	147893007	Asthma restricts exercise	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40307554	147894001	Asthma never restricts exercise	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40307556	147896004	Asthma - currently dormant	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40307557	147897008	Asthma - currently active	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40316543	155574008	Asthma	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40316544	155575009	Pollen asthma	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40316545	155576005	LOA - late onset asthma	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40316546	155577001	Status asthmaticus	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40316547	155578006	Asthma attack NOS	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40316548	155579003	Asthma attack	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40316559	155589004	Pleural plaque disease	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40316560	155590008	Silicosis	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40316598	155623005	Pulmonary eosinophilia	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40317530	153910002	Asthma monitoring call first letter	Undefined	Observation	SNOMED	Invalid	Non-standard
+40317532	153911003	Asthma monitoring call second letter	Undefined	Observation	SNOMED	Invalid	Non-standard
+40317533	153912005	Asthma monitoring call third letter	Undefined	Observation	SNOMED	Invalid	Non-standard
+40317534	153913000	Asthma monitoring call verbal invite	Undefined	Observation	SNOMED	Invalid	Non-standard
+40317535	153914006	Asthma monitoring call telephone invite	Undefined	Observation	SNOMED	Invalid	Non-standard
+40318547	154115000	Patient in asthma study	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40322619	151370005	Asthma leaflet given	Context-dependent	Observation	SNOMED	Invalid	Non-standard
+40323849	153445004	Seen in asthma clinic	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40336554	16862005	Extrinsic asthma	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40337152	170664002	Asthma - currently dormant	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40337153	170665001	Asthma - currently active	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40345716	266358007	Allergic atopic asthma	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40345717	266359004	Extrinsic asthma without status asthmaticus	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40345719	266360009	Extrinsic asthma with status asthmaticus	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40345721	266362001	Intrinsic asthma with status asthmaticus	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40345758	266396008	Atopic asthma	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40345759	266397004	Asthma: [intrinsic] or [late onset]	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40345760	266398009	Asthma attack	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40345762	266400008	Byssinosis	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40362681	278517007	Asthmatic bronchitis	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+4036799	162660004	Asthma resolved	Clinical Finding	Condition	SNOMED	Valid	Standard
+40380713	185738006	Asthma monitored	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40381380	187687003	Asthma	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40389375	1945002	Allergic asthma with stated cause	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40392299	195113008	Impaired left ventricular func	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40395457	195864007	Subglottic stenosis	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40395540	195939005	Asthmatic bronchitis	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40395874	195968006	Asthma: [extrinsic - atopic] or [allergic] or [pollen] or [childhood] or [with hay fever]	Undefined	Observation	SNOMED	Invalid	Non-standard
+40395876	195970002	Extrinsic asthma without status asthmaticus	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40395878	195971003	Extrinsic asthma with asthma attack	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40395880	195973000	Late onset asthma	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40395881	195974006	Intrinsic asthma without status asthmaticus	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40395882	195975007	Intrinsic asthma with: [asthma attack] or [status asthmaticus]	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40395885	195978009	Exacerbation of asthma	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40395887	195980003	Status asthmaticus NOS	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40395889	195981004	Asthma attack NOS	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40395890	195982006	Late onset asthma	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40395891	195983001	Allergic asthma NEC	Undefined	Observation	SNOMED	Invalid	Non-standard
+40395927	196014009	Flax-dressers' disease	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40396476	196145005	Pulmonary eosinophilia	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40410639	21341004	Asthma	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40421675	219040006	Adverse reaction to theophylline - asthma	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40436408	233680000	Allergic asthma	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40436413	233684009	Allergic non-atopic asthma	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40480107	443117005	Asthma control test score	Observable Entity	Observation	SNOMED	Valid	Standard
+40481763	442025000	Acute exacerbation of chronic asthmatic bronchitis	Clinical Finding	Condition	SNOMED	Valid	Standard
+40483397	445427006	Seasonal asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+40487546	448003001	Royal College of Physicians 3 questions score	Observable Entity	Observation	SNOMED	Valid	Standard
+4050564	23315001	Sequoiosis	Clinical Finding	Condition	SNOMED	Valid	Standard
+4051241	160377001	Family history of asthma	Context-dependent	Observation	SNOMED	Valid	Standard
+4051466	233678006	Childhood asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+40521592	320636008	Asthma prophylaxis	Pharma/Biol Product	Observation	SNOMED	Invalid	Non-standard
+40521909	316835004	[X]Family history of asthma and other chronic lower respiratory diseases	Context-dependent	Observation	SNOMED	Invalid	Non-standard
+4052339	161105008	Asthma society member	Clinical Finding	Observation	SNOMED	Valid	Standard
+40524344	315823007	[V]Family history of asthma	Context-dependent	Observation	SNOMED	Invalid	Non-standard
+40544275	36979006	Status asthmaticus	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40545246	366787009	Asthma treatment compliance satisfactory	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40545247	366788004	Asthma treatment compliance unsatisfactory	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40545248	366789007	Asthma causes night symptoms 1 to 2 times per month	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40545249	366790003	Asthma never causes daytime symptoms	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40545251	366791004	Asthma causes daytime symptoms 1 to 2 times per month	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40545252	366792006	Asthma causes daytime symptoms 1 to 2 times per week	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40545253	366793001	Asthma causes daytime symptoms most days	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40545254	366794007	Asthma limits walking up hills or stairs	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40545255	366795008	Asthma limits walking on the flat	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40545256	366796009	Number of asthma exacerbations in past year	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40545662	366865006	Asthma treatment compliance satisfactory	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40545663	366866007	Asthma treatment compliance unsatisfactory	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40545664	366867003	Asthma causes night symptoms 1 to 2 times per month	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40545665	366868008	Asthma never causes daytime symptoms	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40545666	366869000	Asthma causes daytime symptoms 1 to 2 times per month	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40545667	366870004	Asthma causes daytime symptoms 1 to 2 times per week	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40545669	366871000	Asthma causes daytime symptoms most days	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40545670	366872007	Asthma limits walking up hills or stairs	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40545671	366873002	Asthma limits walking on the flat	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40545672	366874008	Number of asthma exacerbations in past year	Observable Entity	Observation	SNOMED	Valid	Standard
+40546155	367039004	Asthma daytime symptoms	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40546234	367110001	Exacerbation of asthma	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40547144	367268006	Asthma daytime symptoms	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40547227	367342002	Family history of asthma	Context-dependent	Observation	SNOMED	Invalid	Non-standard
+40560107	390592005	Absent from work or school due to asthma	Context-dependent	Observation	SNOMED	Invalid	Non-standard
+40561392	392739007	Suspected asthma	Context-dependent	Observation	SNOMED	Invalid	Non-standard
+40561687	389146007	Extrinsic asthma	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40563020	393036002	Asthma night-time symptoms	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40564969	389860006	Absent from work or school due to asthma	Context-dependent	Observation	SNOMED	Invalid	Non-standard
+40564972	389862003	Asthma monitoring due	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40566169	393992004	Asthma night-time symptoms	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+4056816	182724005	Further asthma - drug prevention	Procedure	Observation	SNOMED	Valid	Standard
+40572458	393694000	Suspected asthma	Context-dependent	Observation	SNOMED	Invalid	Non-standard
+4057863	18197001	Asthmatoid wheeze	Clinical Finding	Condition	SNOMED	Valid	Standard
+4057952	19849005	Meat-wrappers' asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+4059321	161527007	H/O: asthma	Context-dependent	Observation	SNOMED	Valid	Standard
+40595784	416601004	Work aggravated asthma	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40617826	71435009	Chronic obstructive bronchitis	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40628141	73849000	Cheese-washers' lung	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40629792	80374003	Platinosis	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40640771	8312004	Intrinsic asthma	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40641134	87641005	Feline allergic bronchitis	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40646797	91053000	Pulmonary eosinophilia	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+4075237	225057002	Brittle asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+4077802	275908000	Asthma monitoring	Procedure	Observation	SNOMED	Valid	Standard
+4079383	183099005	Asthma leaflet given	Procedure	Observation	SNOMED	Valid	Standard
+4080516	18041002	Printers' asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+4083422	185242005	Seen in asthma clinic	Clinical Finding	Observation	SNOMED	Valid	Standard
+4084667	183478001	Emergency hospital admission for asthma	Procedure	Observation	SNOMED	Valid	Standard
+4085315	185728001	Attends asthma monitoring	Clinical Finding	Observation	SNOMED	Valid	Standard
+4085316	185732007	Asthma monitoring call second letter	Procedure	Observation	SNOMED	Valid	Standard
+4085318	185734008	Asthma monitoring call third letter	Procedure	Observation	SNOMED	Valid	Standard
+4086119	185731000	Asthma monitoring call first letter	Procedure	Observation	SNOMED	Valid	Standard
+4086120	185737001	Asthma monitoring deleted	Clinical Finding	Observation	SNOMED	Valid	Standard
+4086436	241758002	Poisoning by herbal asthma mixture	Clinical Finding	Condition	SNOMED	Valid	Standard
+4088882	185729009	Refuses asthma monitoring	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+4088883	185730004	Asthma monitor offer default	Clinical Finding	Observation	SNOMED	Valid	Standard
+4090381	185940009	Patient in asthma study	Clinical Finding	Observation	SNOMED	Valid	Standard
+4090836	185735009	Asthma monitoring call verbal invite	Procedure	Observation	SNOMED	Valid	Standard
+4090837	185736005	Asthma monitoring call telephone invite	Procedure	Observation	SNOMED	Valid	Standard
+4110051	195977004	Mixed asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+4112669	195976008	Intrinsic asthma NOS	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+4112670	195979001	Hyperreactive airways disease	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+4112831	195972005	Extrinsic asthma NOS	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+4119298	233679003	Late onset asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+4119299	233682008	Allergic asthma NEC	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+4119300	233687002	Colophony asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+4120260	233686006	Aspirin-sensitive asthma with nasal polyps	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+4120261	233688007	Sulfite-induced asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+4123253	233683003	Hay fever with asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+4123254	233690008	Factitious asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+4125022	304527002	Acute asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+4136456	412775002	Asthma clinical management plan	Qualifier Value	Observation	SNOMED	Invalid	Non-standard
+4138760	425969006	Exacerbation of intermittent asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+4141621	266364000	Asthma attack	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+4141622	266365004	Asthma NOS	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+4141978	427603009	Intermittent asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+4142738	427295004	Moderate persistent asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+4143474	34015007	Bakers' asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+4143828	426979002	Mild persistent asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+4144104	266363006	Status asthmaticus NOS	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+4144757	427354000	Exacerbation of persistent asthma	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+4145356	426656000	Severe persistent asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+4145497	266361008	Intrinsic asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+4146581	427679007	Mild intermittent asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+4147509	30352005	Allergic-infective asthma	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+4148757	270442000	Asthma monitoring check done	Clinical Finding	Observation	SNOMED	Valid	Standard
+4152292	370205009	Asthma causes night symptoms 1 to 2 times per month	Clinical Finding	Condition	SNOMED	Valid	Standard
+4152417	370207001	Asthma limits walking up hills or stairs	Clinical Finding	Observation	SNOMED	Valid	Standard
+4152418	370208006	Asthma never causes daytime symptoms	Clinical Finding	Condition	SNOMED	Valid	Standard
+4152420	370225008	Asthma treatment compliance unsatisfactory	Clinical Finding	Condition	SNOMED	Valid	Standard
+4152911	370204008	Asthma causes daytime symptoms most days	Clinical Finding	Condition	SNOMED	Valid	Standard
+4152912	370210008	Number of asthma exacerbations in past year	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+4152913	370221004	Severe asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+4155464	370203002	Asthma causes daytime symptoms 1 to 2 times per week	Clinical Finding	Observation	SNOMED	Valid	Standard
+4155465	370206005	Asthma limits walking on the flat	Clinical Finding	Observation	SNOMED	Valid	Standard
+4155468	370218001	Mild asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+4155469	370219009	Moderate asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+4155470	370220003	Occasional asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+4155473	370226009	Asthma treatment compliance satisfactory	Clinical Finding	Condition	SNOMED	Valid	Standard
+4156136	370202007	Asthma causes daytime symptoms 1 to 2 times per month	Clinical Finding	Condition	SNOMED	Valid	Standard
+4157218	291368008	Poisoning by herbal asthma mixture of undetermined intent	Clinical Finding	Condition	SNOMED	Valid	Standard
+4160262	291366007	Accidental poisoning by herbal asthma mixture	Clinical Finding	Condition	SNOMED	Valid	Standard
+4160263	291367003	Intentional poisoning by herbal asthma mixture	Clinical Finding	Condition	SNOMED	Valid	Standard
+4161595	373899003	Asthma daytime symptoms	Clinical Finding	Condition	SNOMED	Valid	Standard
+4170623	274105009	Asthma attack NOS	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+4170900	41997000	Asthmatic pulmonary alveolitis	Clinical Finding	Condition	SNOMED	Valid	Standard
+4190879	390877003	Step up change in asthma management plan	Procedure	Observation	SNOMED	Valid	Standard
+4191479	389145006	Allergic asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+4191827	395022009	Asthma night-time symptoms	Clinical Finding	Condition	SNOMED	Valid	Standard
+4192890	394967008	Suspected asthma	Context-dependent	Observation	SNOMED	Valid	Standard
+4193019	390921001	Absent from work or school due to asthma	Clinical Finding	Observation	SNOMED	Valid	Standard
+4193023	390940007	Asthma monitoring due	Clinical Finding	Observation	SNOMED	Valid	Standard
+4194289	312453004	Asthma - currently active	Clinical Finding	Condition	SNOMED	Valid	Standard
+4202191	308501009	Asthma monitoring status	Clinical Finding	Observation	SNOMED	Valid	Standard
+4203281	308500005	Asthma monitoring call	Procedure	Observation	SNOMED	Valid	Standard
+4206340	55570000	Asthma without status asthmaticus	Clinical Finding	Condition	SNOMED	Valid	Standard
+4207298	440666007	Knowledge level about asthma management	Observable Entity	Observation	SNOMED	Valid	Standard
+4207479	312454005	Asthma - currently dormant	Clinical Finding	Condition	SNOMED	Valid	Standard
+4211530	56968009	Wood asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+4212099	57607007	Occupational asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+4213782	415265005	Referral to asthma clinic	Procedure	Observation	SNOMED	Valid	Standard
+4214588	394700004	Asthma annual review	Procedure	Observation	SNOMED	Valid	Standard
+4214589	394701000	Asthma follow-up	Procedure	Observation	SNOMED	Valid	Standard
+4215802	71892000	Cardiac asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+4217558	41553006	Detergent asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+4225553	404806001	Cheese-makers' asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+4225554	404808000	Isocyanate induced asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+4225719	405010009	Asthma self-management behavior	Observable Entity	Observation	SNOMED	Valid	Standard
+4232595	404804003	Platinum asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+4233784	405944004	Asthmatic bronchitis	Clinical Finding	Condition	SNOMED	Valid	Standard
+4235703	406162001	Asthma management	Procedure	Observation	SNOMED	Valid	Standard
+4244339	93432008	Drug-induced asthma	Clinical Finding	Observation	SNOMED	Valid	Standard
+4245676	92807009	Chemical-induced asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+4247524	61233003	Silo-fillers' disease	Clinical Finding	Condition	SNOMED	Valid	Standard
+4250128	407674008	Aspirin-induced asthma	Clinical Finding	Observation	SNOMED	Valid	Standard
+42535716	72301000119103	Asthma in pregnancy	Clinical Finding	Condition	SNOMED	Valid	Standard
+42535849	734346005	Use of asthma symptom diary	Procedure	Observation	SNOMED	Valid	Standard
+42536207	734904007	Life threatening acute exacerbation of asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+42536208	734905008	Moderate acute exacerbation of asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+42536648	735587000	Acute severe exacerbation of asthma co-occurrent and due to allergic asthma	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+42536649	735589002	Uncomplicated non-allergic asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+42538744	762521001	Exacerbation of allergic asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+42539549	735588005	Uncomplicated allergic asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+4265861	397579009	Asthma trigger finding	Clinical Finding	Condition	SNOMED	Valid	Standard
+4268284	400987003	Asthma trigger	Observable Entity	Observation	SNOMED	Valid	Standard
+42689544	1065181000000104	Use of asthma symptom diary	Procedure	Observation	SNOMED	Invalid	Non-standard
+42690582	1064811000000103	Moderate acute exacerbation of asthma	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+42690663	1064821000000109	Life threatening acute exacerbation of asthma	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+4271333	63088003	Extrinsic asthma without status asthmaticus	Clinical Finding	Condition	SNOMED	Valid	Standard
+4279553	367542003	Eosinophilic asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+4283362	67415000	Hay asthma	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+4293732	401182001	Asthma monitoring by nurse	Procedure	Observation	SNOMED	Valid	Standard
+4293733	401183006	Asthma monitoring by doctor	Procedure	Observation	SNOMED	Valid	Standard
+4293734	401193004	Asthma confirmed	Context-dependent	Observation	SNOMED	Valid	Standard
+4301938	418395004	Tea-makers' asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+43021747	473391009	Asthma never causes night symptoms	Context-dependent	Observation	SNOMED	Invalid	Non-standard
+4305736	390872009	Change in asthma management plan	Procedure	Observation	SNOMED	Valid	Standard
+4308356	390798007	Asthma finding	Clinical Finding	Condition	SNOMED	Valid	Standard
+4308378	390878008	Step down change in asthma management plan	Procedure	Observation	SNOMED	Valid	Standard
+4309833	423889005	Non-IgE mediated allergic asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+4311814	85761009	Byssinosis	Clinical Finding	Condition	SNOMED	Valid	Standard
+4312524	424199006	Substance induced asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+4325853	429258006	History of aspirin exacerbated respiratory disease	Context-dependent	Observation	SNOMED	Valid	Standard
+43530693	1751000119100	Acute exacerbation of chronic obstructive airways disease with asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+43530700	1761000119103	Chronic obstructive airway disease with asthma	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+43530745	401000119107	Asthma with irreversible airway obstruction	Clinical Finding	Condition	SNOMED	Valid	Standard
+443801	31387002	Exercise-induced asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+44783144	699191007	Did not attend asthma review	Clinical Finding	Observation	SNOMED	Valid	Standard
+44783610	699728000	Asthma self management	Procedure	Observation	SNOMED	Valid	Standard
+44784373	698509001	Under care of asthma specialist nurse	Clinical Finding	Observation	SNOMED	Valid	Standard
+44788435	176711000000100	Does not have asthma management plan	Clinical Finding	Observation	SNOMED	Valid	Standard
+44788779	201031000000108	Asthma trigger - respiratory infection	Clinical Finding	Condition	SNOMED	Valid	Standard
+44788780	201041000000104	Asthma trigger - seasonal	Clinical Finding	Condition	SNOMED	Valid	Standard
+44788781	201051000000101	Asthma trigger - animal	Clinical Finding	Condition	SNOMED	Valid	Standard
+44788789	201191000000108	Asthma trigger - cold air	Clinical Finding	Condition	SNOMED	Valid	Standard
+44788824	201201000000105	Asthma trigger - damp	Clinical Finding	Condition	SNOMED	Valid	Standard
+44788825	201211000000107	Asthma trigger - emotion	Clinical Finding	Condition	SNOMED	Valid	Standard
+44789217	202571000000105	Nocturnal asthma	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+44792262	340891000000106	Asthma trigger - airborne dust	Clinical Finding	Condition	SNOMED	Valid	Standard
+44792263	340901000000107	Asthma trigger - exercise	Clinical Finding	Condition	SNOMED	Valid	Standard
+44792264	340911000000109	Asthma trigger - pollen	Clinical Finding	Condition	SNOMED	Valid	Standard
+44792265	340931000000101	Asthma trigger - warm air	Clinical Finding	Condition	SNOMED	Valid	Standard
+44795595	412351000000109	[V]Family history of asthma	Context-dependent	Observation	SNOMED	Invalid	Non-standard
+44797404	431481000000106	[X]Family history of asthma and other chronic lower respiratory diseases	Context-dependent	Observation	SNOMED	Invalid	Non-standard
+44799960	340921000000103	Asthma trigger - tobacco smoke	Clinical Finding	Condition	SNOMED	Valid	Standard
+44802254	513551000000103	No family history of asthma	Context-dependent	Observation	SNOMED	Invalid	Non-standard
+44802475	527171000000103	Patient has a written asthma personal action plan	Clinical Finding	Observation	SNOMED	Valid	Standard
+44803641	715801000000103	Exception reporting - asthma quality indicators	Clinical Finding	Observation	SNOMED	Valid	Standard
+44803764	716491000000100	Excepted from asthma quality indicators - informed dissent	Clinical Finding	Observation	SNOMED	Valid	Standard
+44805087	771901000000100	Asthma causes night time symptoms 1 to 2 times per week	Clinical Finding	Condition	SNOMED	Valid	Standard
+44805089	771941000000102	Asthma causes symptoms most nights	Clinical Finding	Condition	SNOMED	Valid	Standard
+44805091	771981000000105	Asthma limits activities 1 to 2 times per month	Clinical Finding	Observation	SNOMED	Valid	Standard
+44805092	772011000000107	Asthma limits activities 1 to 2 times per week	Clinical Finding	Observation	SNOMED	Valid	Standard
+44805093	772051000000106	Asthma limits activities most days	Clinical Finding	Observation	SNOMED	Valid	Standard
+44805095	772091000000103	Royal College of Physicians asthma assessment three questions score	Observable Entity	Observation	SNOMED	Invalid	Non-standard
+44805526	754061000000100	Asthma review using Royal College of Physicians three questions	Procedure	Observation	SNOMED	Valid	Standard
+44806236	811151000000105	Number of days absent from school due to asthma in past 6 months	Observable Entity	Observation	SNOMED	Valid	Standard
+44806313	791401000000104	Seen in school asthma clinic	Clinical Finding	Observation	SNOMED	Valid	Standard
+44806367	811921000000103	Asthma self-management plan agreed	Clinical Finding	Observation	SNOMED	Valid	Standard
+44807084	804621000000108	Asthma monitoring due date	Observable Entity	Observation	SNOMED	Valid	Standard
+44807127	815631000000106	Asthma trigger - wind	Clinical Finding	Condition	SNOMED	Valid	Standard
+44807446	796291000000102	Acute asthma control management	Procedure	Observation	SNOMED	Invalid	Non-standard
+44807733	818161000000104	Asthma trigger - perfume	Clinical Finding	Condition	SNOMED	Valid	Standard
+44809985	89581000000109	DNA - Did not attend asthma clinic	Clinical Finding	Observation	SNOMED	Valid	Standard
+44810117	866881000000101	Chronic asthma with fixed airflow obstruction	Clinical Finding	Condition	SNOMED	Valid	Standard
+44810131	867171000000106	No asthma trigger identified by subject	Clinical Finding	Condition	SNOMED	Valid	Standard
+44811196	892301000000100	Asthma management plan declined	Context-dependent	Observation	SNOMED	Valid	Standard
+44811607	905301000000103	Childhood Asthma Control Test score	Observable Entity	Observation	SNOMED	Valid	Standard
+44813771	717291000000103	Excepted from asthma quality indicators - patient unsuitable	Clinical Finding	Observation	SNOMED	Valid	Standard
+44820889	493.21	Chronic obstructive asthma with status asthmaticus	5-dig billing code	Condition	ICD9CM	Valid	Non-standard
+44821987	493	Asthma	3-dig nonbill code	Condition	ICD9CM	Valid	Non-standard
+44821988	493.90	Asthma, unspecified type, unspecified	5-dig billing code	Condition	ICD9CM	Valid	Non-standard
+44823144	493.92	Asthma, unspecified type, with (acute) exacerbation	5-dig billing code	Condition	ICD9CM	Valid	Non-standard
+44824287	493.00	Extrinsic asthma, unspecified	5-dig billing code	Condition	ICD9CM	Valid	Non-standard
+44824288	493.01	Extrinsic asthma with status asthmaticus	5-dig billing code	Condition	ICD9CM	Valid	Non-standard
+44824289	493.10	Intrinsic asthma, unspecified	5-dig billing code	Condition	ICD9CM	Valid	Non-standard
+44826679	493.9	Asthma, unspecified	4-dig nonbill code	Condition	ICD9CM	Valid	Non-standard
+44828510	V17.5	Family history of asthma	4-dig billing V code	Observation	ICD9CM	Valid	Non-standard
+44829012	493.2	Chronic obstructive asthma	4-dig nonbill code	Condition	ICD9CM	Valid	Non-standard
+44830115	493.8	Other forms of asthma	4-dig nonbill code	Condition	ICD9CM	Valid	Non-standard
+44831278	493.02	Extrinsic asthma with (acute) exacerbation	5-dig billing code	Condition	ICD9CM	Valid	Non-standard
+44831279	493.1	Intrinsic asthma	4-dig nonbill code	Condition	ICD9CM	Valid	Non-standard
+44831280	493.20	Chronic obstructive asthma, unspecified	5-dig billing code	Condition	ICD9CM	Valid	Non-standard
+44832423	493.0	Extrinsic asthma	4-dig nonbill code	Condition	ICD9CM	Valid	Non-standard
+44832424	493.91	Asthma, unspecified type, with status asthmaticus	5-dig billing code	Condition	ICD9CM	Valid	Non-standard
+44833611	493.82	Cough variant asthma	5-dig billing code	Condition	ICD9CM	Valid	Non-standard
+44834769	493.11	Intrinsic asthma with status asthmaticus	5-dig billing code	Condition	ICD9CM	Valid	Non-standard
+44837135	493.12	Intrinsic asthma with (acute) exacerbation	5-dig billing code	Condition	ICD9CM	Valid	Non-standard
+44837136	493.22	Chronic obstructive asthma with (acute) exacerbation	5-dig billing code	Condition	ICD9CM	Valid	Non-standard
+45766727	703953004	Allergic asthma due to Dermatophagoides pteronyssinus	Clinical Finding	Condition	SNOMED	Valid	Standard
+45766728	703954005	Allergic asthma due to Dermatophagoides farinae	Clinical Finding	Condition	SNOMED	Valid	Standard
+45766769	704008007	No family history of asthma	Context-dependent	Observation	SNOMED	Valid	Standard
+45768910	707444001	Uncomplicated asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+45768911	707445000	Exacerbation of mild persistent asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+45768912	707447008	Exacerbation of severe persistent asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+45768963	707511009	Uncomplicated mild persistent asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+45768964	707512002	Uncomplicated moderate persistent asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+45768965	707513007	Uncomplicated severe persistent asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+45769350	707979007	Acute severe exacerbation of severe persistent asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+45769351	707980005	Acute severe exacerbation of moderate persistent asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+45769352	707981009	Acute severe exacerbation of mild persistent asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+45769438	708090002	Acute severe exacerbation of asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+45769441	708093000	Acute exacerbation of allergic asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+45769442	708095007	Acute severe exacerbation of allergic asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+45769443	708096008	Acute severe exacerbation of intrinsic asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+45769660	708358003	Emergency asthma admission since last encounter	Context-dependent	Observation	SNOMED	Valid	Standard
+45769673	708373002	Emergency asthma patient visit since last encounter	Context-dependent	Observation	SNOMED	Valid	Standard
+45770425	928451000000107	Asthma monitoring invitation short message service text message	Procedure	Observation	SNOMED	Valid	Standard
+45770428	928511000000107	Asthma monitoring invitation email	Procedure	Observation	SNOMED	Valid	Standard
+45770434	928691000000102	At risk of asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+45771045	708038006	Acute exacerbation of asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+45772073	10742121000119104	Asthma in mother complicating childbirth	Clinical Finding	Condition	SNOMED	Valid	Standard
+45772937	707446004	Exacerbation of moderate persistent asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+45773005	708094006	Acute exacerbation of intrinsic asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+46269767	10674711000119105	Acute severe exacerbation of asthma co-occurrent with allergic rhinitis	Clinical Finding	Condition	SNOMED	Valid	Standard
+46269770	10675431000119106	Severe persistent allergic asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+46269771	10675551000119104	Acute severe exacerbation of severe persistent asthma co-occurrent with allergic rhinitis	Clinical Finding	Condition	SNOMED	Valid	Standard
+46269772	10675591000119109	Severe persistent allergic asthma controlled	Clinical Finding	Condition	SNOMED	Valid	Standard
+46269773	10675631000119109	Severe persistent asthma controlled co-occurrent with allergic rhinitis	Clinical Finding	Condition	SNOMED	Valid	Standard
+46269774	10675671000119107	Severe persistent allergic asthma uncontrolled	Clinical Finding	Condition	SNOMED	Valid	Standard
+46269775	10675711000119106	Severe persistent asthma uncontrolled co-occurrent with allergic rhinitis	Clinical Finding	Condition	SNOMED	Valid	Standard
+46269776	10675871000119106	Mild persistent allergic asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+46269777	10675991000119100	Acute severe exacerbation of mild persistent allergic asthma co-occurrent with allergic rhinitis	Clinical Finding	Condition	SNOMED	Valid	Standard
+46269778	10676071000119109	Mild persistent asthma controlled	Clinical Finding	Condition	SNOMED	Valid	Standard
+46269779	10676111000119102	Mild persistent asthma controlled co-occurrent with allergic rhinitis	Clinical Finding	Condition	SNOMED	Valid	Standard
+46269780	10676151000119101	Mild persistent allergic asthma uncontrolled	Clinical Finding	Condition	SNOMED	Valid	Standard
+46269781	10676191000119106	Mild persistent asthma uncontrolled	Clinical Finding	Condition	SNOMED	Valid	Standard
+46269782	10676231000119102	Mild persistent asthma uncontrolled co-occurrent with allergic rhinitis	Clinical Finding	Condition	SNOMED	Valid	Standard
+46269783	10676351000119103	Moderate persistent asthma controlled	Clinical Finding	Condition	SNOMED	Valid	Standard
+46269784	10676391000119108	Moderate persistent allergic asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+46269785	10676511000119109	Acute severe exacerbation of moderate persistent asthma co-occurrent with allergic rhinitis	Clinical Finding	Condition	SNOMED	Valid	Standard
+46269786	10676551000119105	Moderate persistent allergic asthma controlled	Clinical Finding	Condition	SNOMED	Valid	Standard
+46269787	10676591000119100	Moderate persistent controlled asthma co-occurrent with allergic rhinitis	Clinical Finding	Condition	SNOMED	Valid	Standard
+46269788	10676631000119100	Moderate persistent allergic asthma uncontrolled	Clinical Finding	Condition	SNOMED	Valid	Standard
+46269789	10676671000119102	Moderate persistent asthma uncontrolled co-occurrent with allergic rhinitis	Clinical Finding	Condition	SNOMED	Valid	Standard
+46269790	10676711000119103	Moderate persistent asthma uncontrolled	Clinical Finding	Condition	SNOMED	Valid	Standard
+46269802	10692721000119102	Chronic obstructive asthma co-occurrent with acute exacerbation of asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+46270028	124991000119109	Severe persistent asthma co-occurrent with allergic rhinitis	Clinical Finding	Condition	SNOMED	Valid	Standard
+46270029	125011000119100	Mild persistent asthma co-occurrent with allergic rhinitis	Clinical Finding	Condition	SNOMED	Valid	Standard
+46270030	125021000119107	Intermittent asthma co-occurrent with allergic rhinitis	Clinical Finding	Condition	SNOMED	Valid	Standard
+46270082	135181000119109	Acute exacerbation of mild persistent asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+46270322	1741000119102	Intermittent asthma uncontrolled	Clinical Finding	Condition	SNOMED	Valid	Standard
+46270573	641000119106	Intermittent asthma well controlled	Clinical Finding	Condition	SNOMED	Valid	Standard
+46272979	711442001	Recent asthma management	Context-dependent	Observation	SNOMED	Valid	Standard
+46273452	99031000119107	Acute exacerbation of asthma co-occurrent with allergic rhinitis	Clinical Finding	Condition	SNOMED	Valid	Standard
+46273454	125001000119103	Moderate persistent asthma co-occurrent with allergic rhinitis	Clinical Finding	Condition	SNOMED	Valid	Standard
+46273462	10676431000119103	Acute severe exacerbation of moderate persistent allergic asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+46273487	135171000119106	Acute exacerbation of moderate persistent asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+46273635	2360001000004109	Steroid dependent asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+46274059	10675471000119109	Acute severe exacerbation of severe persistent allergic asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+46274060	10676031000119106	Mild persistent allergic asthma controlled	Clinical Finding	Condition	SNOMED	Valid	Standard
+46274062	10692761000119107	Asthma-chronic obstructive pulmonary disease overlap syndrome	Clinical Finding	Condition	SNOMED	Valid	Standard
+46274124	10675911000119109	Acute severe exacerbation of mild persistent allergic asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+46284991	959401000000101	Asthma monitoring SMS (short message service) text message first invitation	Procedure	Observation	SNOMED	Valid	Standard
+46284992	959441000000103	Asthma monitoring SMS (short message service) text message third invitation	Procedure	Observation	SNOMED	Valid	Standard
+46286983	948091000000109	Telehealth asthma monitoring	Procedure	Observation	SNOMED	Invalid	Non-standard
+46287045	959421000000105	Asthma monitoring SMS (short message service) text message second invitation	Procedure	Observation	SNOMED	Valid	Standard
+46287068	966011000000109	At risk of severe asthma exacerbation	Clinical Finding	Condition	SNOMED	Valid	Standard
+761844	16055311000119107	Inhaled steroid-dependent asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+764331	453601000124105	Referral for management of asthma	Procedure	Observation	SNOMED	Valid	Standard
+764677	5281000124103	Persistent asthma	Clinical Finding	Condition	SNOMED	Valid	Standard
+764949	901000119100	Persistent asthma, well controlled	Clinical Finding	Condition	SNOMED	Valid	Standard
+765844	432961000124106	Documentation of asthma medication action plan	Procedure	Observation	SNOMED	Valid	Standard
