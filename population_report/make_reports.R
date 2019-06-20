@@ -2,11 +2,10 @@
 
 library(tidyverse)
 
-# Constants (TODO: Replace with reading from config)
-hegiht_concept_id <- 3036277
-weight_concept_id <- 3025315
-database_file <- NA
-asthma_conditions_file <- 'aux_data/asthma_codes.tsv'
+# Constants
+config_file <- "population_report/config.yml"
+database_file <- config::get("database")
+asthma_conditions_file <- config::get("asthma_conditions_file", file=config_file)
 
 # Load files
 asthma_codes <- read_tsv(asthma_conditions_file)
