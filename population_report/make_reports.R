@@ -4,7 +4,7 @@ library(tidyverse)
 
 # Constants
 config_file <- "population_report/config.yml"
-database_file <- config::get("database")
+database_file <- config::get("database", file=config_file)
 asthma_conditions_file <- config::get("asthma_conditions_file", file=config_file)
 
 # Load files
