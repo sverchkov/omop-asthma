@@ -32,7 +32,7 @@ asthma_observations <- asthma_codes %>% filter(Domain == "Observation") %>% pull
 
 # Find the asthma codes in the EHR
 ehr_asthma_conditions <- condition_occurrence %>% filter(condition_concept_id %in% asthma_conditions)
-ehr_asthma_observations <- observation %>% filter(observation %in% asthma_observations)
+ehr_asthma_observations <- observation %>% filter(observation_concept_id %in% asthma_observations)
 
 # Merge into one list
 asthma_records <- union_all(
