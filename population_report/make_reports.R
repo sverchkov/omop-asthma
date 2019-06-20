@@ -7,6 +7,12 @@ Sys.setenv(R_CONFIG_FILE="population_report/config.yml")
 database_file <- config::get("database")
 asthma_conditions_file <- config::get("asthma_conditions_file")
 query_limit <- config::get("query_limit")
+output <- config::get("output")
+
+# Validate required configuration parameters
+if (is.null(database_file)) stop("Did you specify a database in the config file?")
+if (is.null(asthma_conditions_file)) stop("Did you specify an asthma conditions file in the config file?")
+if (is.null(output$concept_counts)) stop("Did you specify a concept counts output file in the config file?")
 
 # Load files
 asthma_codes <- read_tsv(asthma_conditions_file)
@@ -42,6 +48,6 @@ asthma_records <- union_all(
 
 # Count unique concepts
 asthma_concept_counts <- asthma_records %>% group_by(concept_id) %>% summarize(count=n()) %>% ungroup() %>% collect()
-write_csv(inner_join(asthma_concept_counts, asthma_concept_names, by='concept_id'), path='population_report/concept_counts.csv')
+write_csv(inner_join(asthma_concept_counts, asthma_concept_names, by='concept_id'), path=concept_counts_file)
 
 # Find the first occurrence for each observation type for each patient
