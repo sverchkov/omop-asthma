@@ -13,6 +13,7 @@ output <- config::get("output")
 if (is.null(database_file)) stop("Did you specify a database in the config file?")
 if (is.null(asthma_conditions_file)) stop("Did you specify an asthma conditions file in the config file?")
 if (is.null(output$concept_counts)) stop("Did you specify a concept counts output file in the config file?")
+if (is.null(output$first_concept_counts)) stop("Did you specify a first concept counts output file in the config file?")
 
 # Load files
 asthma_codes <- read_tsv(asthma_conditions_file)
@@ -44,10 +45,16 @@ ehr_asthma_observations <- observation %>% filter(observation_concept_id %in% as
 asthma_records <- union_all(
   ehr_asthma_conditions %>% select(person_id, concept_id=condition_concept_id, the_date=condition_start_date),
   ehr_asthma_observations %>% select(person_id, concept_id=observation_concept_id, the_date=observation_date)
-)
+) %>% collect()
 
 # Count unique concepts
-asthma_concept_counts <- asthma_records %>% group_by(concept_id) %>% summarize(count=n()) %>% ungroup() %>% collect()
-write_csv(inner_join(asthma_concept_counts, asthma_concept_names, by='concept_id'), path=concept_counts_file)
+asthma_concept_counts <- asthma_records %>% group_by(concept_id) %>% summarize(count=n()) %>% ungroup()
+sorted_named_concept_counts <- inner_join(asthma_concept_counts, asthma_concept_names, by='concept_id') %>%
+  arrange( desc(count) )
+write_csv(sorted_named_concept_counts, path=output$concept_counts)
 
-# Find the first occurrence for each observation type for each patient
+# Find and count the first occurrence for each observation type for each patient
+first_asthma_records <- asthma_records %>% group_by(person_id) %>% first(the_date)
+sorted_named_first_concept_counts <- inner_join(first_asthma_counts, asthma_concept_names, by='concept_id') %>%
+  arrange( desc(count) )
+write_csv(sorted_named_first_concept_counts, path=output$first_concept_counts)
