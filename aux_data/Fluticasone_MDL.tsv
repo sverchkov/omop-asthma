@@ -1,0 +1,209 @@
+Id	Code	Name	Concept Class Id	Domain	Vocabulary	Invalid Reason	Standard Concept
+1137541	744612	120 ACTUAT fluticasone 0.115 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+1137563	744783	120 ACTUAT fluticasone 0.23 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler [Advair HFA]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+1137565	745623	120 ACTUAT fluticasone 0.045 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+1137566	745625	120 ACTUAT fluticasone 0.045 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler [Advair HFA]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+1149606	746413	120 ACTUAT fluticasone 0.11 MG/ACTUAT Metered Dose Inhaler [Flovent]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+1149607	746414	60 ACTUAT fluticasone 0.11 MG/ACTUAT Metered Dose Inhaler	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+1149608	746417	60 ACTUAT fluticasone 0.22 MG/ACTUAT Metered Dose Inhaler	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+1149609	746418	60 ACTUAT fluticasone 0.22 MG/ACTUAT Metered Dose Inhaler [Flovent]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+1149610	746419	120 ACTUAT fluticasone 0.22 MG/ACTUAT Metered Dose Inhaler	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+1149642	746422	120 ACTUAT fluticasone 0.044 MG/ACTUAT Metered Dose Inhaler	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+1149643	746423	120 ACTUAT fluticasone 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+1149644	746424	60 ACTUAT fluticasone 0.044 MG/ACTUAT Metered Dose Inhaler	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+1149645	746425	60 ACTUAT fluticasone 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19127562	744780	120 ACTUAT fluticasone 0.23 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19127565	744801	120 ACTUAT fluticasone 0.115 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler [Advair HFA]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19127699	746404	120 ACTUAT fluticasone 0.11 MG/ACTUAT Metered Dose Inhaler	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19127701	746415	60 ACTUAT fluticasone 0.11 MG/ACTUAT Metered Dose Inhaler [Flovent]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19127702	746420	120 ACTUAT fluticasone 0.22 MG/ACTUAT Metered Dose Inhaler [Flovent]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+35524505	53002131001	120 ACTUAT Fluticasone propionate 0.11 MG/ACTUAT Metered Dose Inhaler [Flovent]	11-digit NDC	Drug	NDC	Valid	Non-standard
+40144024	744485	fluticasone / salmeterol Metered Dose Inhaler	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40144025	744782	fluticasone / salmeterol Metered Dose Inhaler [Advair HFA]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40144037	746403	fluticasone Metered Dose Inhaler	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40144038	746412	fluticasone Metered Dose Inhaler [Flovent]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40169216	895994	120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+40169217	895996	120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+40169218	896236	120 ACTUAT Fluticasone propionate 0.045 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+40169219	896237	120 ACTUAT Fluticasone propionate 0.045 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler [Advair]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+40169230	895999	120 ACTUAT Fluticasone propionate 0.11 MG/ACTUAT Metered Dose Inhaler	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+40169231	896001	120 ACTUAT Fluticasone propionate 0.11 MG/ACTUAT Metered Dose Inhaler [Flovent]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+40169232	896244	120 ACTUAT Fluticasone propionate 0.115 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+40169233	896245	120 ACTUAT Fluticasone propionate 0.115 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler [Advair]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+40169234	896004	120 ACTUAT Fluticasone propionate 0.22 MG/ACTUAT Metered Dose Inhaler	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+40169235	896006	120 ACTUAT Fluticasone propionate 0.22 MG/ACTUAT Metered Dose Inhaler [Flovent]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+40169236	896272	120 ACTUAT Fluticasone propionate 0.23 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+40169237	896273	120 ACTUAT Fluticasone propionate 0.23 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler [Advair]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+40169260	896008	60 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+40169261	896009	60 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+40169262	896231	60 ACTUAT Fluticasone propionate 0.045 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+40169263	896235	60 ACTUAT Fluticasone propionate 0.045 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler [Advair]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+40169273	896010	60 ACTUAT Fluticasone propionate 0.11 MG/ACTUAT Metered Dose Inhaler	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+40169274	896011	60 ACTUAT Fluticasone propionate 0.11 MG/ACTUAT Metered Dose Inhaler [Flovent]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+40169275	896239	60 ACTUAT Fluticasone propionate 0.115 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+40169276	896243	60 ACTUAT Fluticasone propionate 0.115 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler [Advair]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+40169277	896012	60 ACTUAT Fluticasone propionate 0.22 MG/ACTUAT Metered Dose Inhaler	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+40169278	896013	60 ACTUAT Fluticasone propionate 0.22 MG/ACTUAT Metered Dose Inhaler [Flovent]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+40169279	896267	60 ACTUAT Fluticasone propionate 0.23 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+40169280	896271	60 ACTUAT Fluticasone propionate 0.23 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler [Advair]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+40170636	896242	fluticasone / salmeterol Metered Dose Inhaler [Advair 115/21]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40170637	896270	fluticasone / salmeterol Metered Dose Inhaler [Advair]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40170638	896234	fluticasone / salmeterol Metered Dose Inhaler [Advair 45/21]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40711694	OMOP4745503	120 ACTUAT fluticasone 0.0275 MG/ACTUAT Metered Dose Inhaler	Quant Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+40711695	OMOP4745502	120 ACTUAT fluticasone 0.0275 MG/ACTUAT Metered Dose Inhaler [Flixotide] by Glaxosmithkline	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40711696	OMOP4745501	120 ACTUAT fluticasone 0.0275 MG/ACTUAT Metered Dose Inhaler [Flixotide] by Waymade	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40711697	OMOP4745500	120 ACTUAT fluticasone 0.0275 MG/ACTUAT Metered Dose Inhaler [Flixotide]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+40755173	OMOP4701756	fluticasone Metered Dose Inhaler [Flixotide]	Branded Drug Form	Drug	RxNorm Extension	Valid	Standard
+40755817	OMOP4701897	fluticasone 0.0275 MG/ACTUAT Metered Dose Inhaler [Flixotide] by Glaxosmithkline	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40755818	OMOP4701896	fluticasone 0.0275 MG/ACTUAT Metered Dose Inhaler [Flixotide] by Waymade	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40755819	OMOP4701895	fluticasone 0.0275 MG/ACTUAT Metered Dose Inhaler [Flixotide]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+40832383	OMOP2030345	fluticasone Metered Dose Inhaler [Flutihexal]	Branded Drug Form	Drug	RxNorm Extension	Valid	Standard
+40846027	OMOP2043989	fluticasone 0.11 MG/ACTUAT Metered Dose Inhaler [Flixotide]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+40929526	OMOP2127488	fluticasone 0.11 MG/ACTUAT Metered Dose Inhaler Box of 120	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+40970501	OMOP2168463	fluticasone 0.1 MG/ACTUAT Metered Dose Inhaler [Flixotide]	Branded Drug	Drug	RxNorm Extension	Invalid	Non-standard
+41019222	OMOP2217184	fluticasone Metered Dose Inhaler [Flutide]	Branded Drug Form	Drug	RxNorm Extension	Valid	Standard
+41095644	OMOP2293606	fluticasone 0.11 MG/ACTUAT Metered Dose Inhaler [Flutihexal]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41113247	OMOP2311209	fluticasone Metered Dose Inhaler [Atemur]	Branded Drug Form	Drug	RxNorm Extension	Valid	Standard
+41126898	OMOP2324860	fluticasone 0.11 MG/ACTUAT Metered Dose Inhaler [Fluticason Cipla]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41158352	OMOP2356314	fluticasone 0.11 MG/ACTUAT Metered Dose Inhaler [Flutihexal] Box of 120	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41189500	OMOP2387462	fluticasone 0.11 MG/ACTUAT Metered Dose Inhaler [Flutide]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41189512	OMOP2387474	fluticasone 0.1 MG/ACTUAT Metered Dose Inhaler [Flutide]	Branded Drug	Drug	RxNorm Extension	Invalid	Non-standard
+41189513	OMOP2387475	fluticasone 0.1 MG/ACTUAT Metered Dose Inhaler [Atemur]	Branded Drug	Drug	RxNorm Extension	Invalid	Non-standard
+41238266	OMOP2436228	fluticasone Metered Dose Inhaler [Flixotide]	Branded Drug Form	Drug	RxNorm Extension	Valid	Standard
+41282555	OMOP2480517	fluticasone 0.11 MG/ACTUAT Metered Dose Inhaler [Atemur]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41300203	OMOP2498165	fluticasone Metered Dose Inhaler [Fluticason Cipla]	Branded Drug Form	Drug	RxNorm Extension	Valid	Standard
+41521477	OMOP2719439	60 ACTUAT fluticasone 0.11 MG/ACTUAT Metered Dose Inhaler [Flutide]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41521583	OMOP2719545	60 ACTUAT fluticasone 0.11 MG/ACTUAT Metered Dose Inhaler [Atemur]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41521598	OMOP2719560	60 ACTUAT fluticasone 0.11 MG/ACTUAT Metered Dose Inhaler [Flixotide]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41522302	OMOP2720264	120 ACTUAT fluticasone 0.11 MG/ACTUAT Metered Dose Inhaler [Flixotide]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41522303	OMOP2720265	120 ACTUAT fluticasone 0.11 MG/ACTUAT Metered Dose Inhaler [Atemur]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41522319	OMOP2720281	120 ACTUAT fluticasone 0.115 MG/ACTUAT Metered Dose Inhaler	Quant Clinical Drug	Drug	RxNorm Extension	Invalid	Non-standard
+41522378	OMOP2720340	120 ACTUAT fluticasone 0.11 MG/ACTUAT Metered Dose Inhaler [Flutihexal]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41522385	OMOP2720347	120 ACTUAT fluticasone 0.11 MG/ACTUAT Metered Dose Inhaler [Flutihexal] by Novartis	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41522418	OMOP2720380	120 ACTUAT fluticasone 0.11 MG/ACTUAT Metered Dose Inhaler [Flixotide] by Eurim-Pharm	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41522442	OMOP2720404	120 ACTUAT fluticasone 0.11 MG/ACTUAT Metered Dose Inhaler [Flutihexal] Box of 120 by Novartis	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41522483	OMOP2720445	120 ACTUAT fluticasone 0.11 MG/ACTUAT Metered Dose Inhaler [Flutihexal] Box of 120	Quant Branded Box	Drug	RxNorm Extension	Valid	Standard
+41522498	OMOP2720460	120 ACTUAT fluticasone 0.11 MG/ACTUAT Metered Dose Inhaler Box of 120	Quant Clinical Box	Drug	RxNorm Extension	Valid	Standard
+41522503	OMOP2720465	120 ACTUAT fluticasone 0.11 MG/ACTUAT Metered Dose Inhaler [Flutide]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41522521	OMOP2720483	120 ACTUAT fluticasone 0.11 MG/ACTUAT Metered Dose Inhaler [Fluticason Cipla]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+42711260	OMOP2730463	fluticasone 0.1 MG/ACTUAT Metered Dose Inhaler	Clinical Drug	Drug	RxNorm Extension	Invalid	Non-standard
+42731525	OMOP2730484	60 ACTUAT fluticasone 0.1 MG/ACTUAT Metered Dose Inhaler	Quant Clinical Drug	Drug	RxNorm Extension	Invalid	Non-standard
+42902351	1359464	Fluticasone propionate 0.045 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler [Advair]	Branded Drug	Drug	RxNorm	Valid	Standard
+42902500	1359613	Fluticasone propionate 0.22 MG/ACTUAT Metered Dose Inhaler [Flovent]	Branded Drug	Drug	RxNorm	Valid	Standard
+42902547	1359660	Fluticasone propionate 0.115 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler	Clinical Drug	Drug	RxNorm	Valid	Standard
+42902601	1359714	Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler [Advair]	Branded Drug	Drug	RxNorm	Valid	Standard
+42902635	1359748	Fluticasone propionate 0.11 MG/ACTUAT Metered Dose Inhaler [Flovent]	Branded Drug	Drug	RxNorm	Valid	Standard
+42902702	1359815	Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler	Clinical Drug	Drug	RxNorm	Valid	Standard
+42902703	1359816	Fluticasone propionate 0.23 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler	Clinical Drug	Drug	RxNorm	Valid	Standard
+42902745	1359858	Fluticasone propionate 0.5 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler	Clinical Drug	Drug	RxNorm	Valid	Standard
+42902807	1359920	Fluticasone propionate 0.045 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler	Clinical Drug	Drug	RxNorm	Valid	Standard
+42902808	1359921	Fluticasone propionate 0.115 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler [Advair]	Branded Drug	Drug	RxNorm	Valid	Standard
+42902951	1360064	Fluticasone propionate 0.23 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler [Advair]	Branded Drug	Drug	RxNorm	Valid	Standard
+42902960	1360073	Fluticasone propionate 0.22 MG/ACTUAT Metered Dose Inhaler	Clinical Drug	Drug	RxNorm	Valid	Standard
+42903180	1360293	Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]	Branded Drug	Drug	RxNorm	Valid	Standard
+42903220	1360333	Fluticasone propionate 0.11 MG/ACTUAT Metered Dose Inhaler	Clinical Drug	Drug	RxNorm	Valid	Standard
+42919195	OMOP4646066	120 ACTUAT fluticasone 0.0500000000000000028 MG/ACTUAT Metered Dose Inhaler	Quant Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+42919196	OMOP4646067	120 ACTUAT fluticasone 0.0500000000000000028 MG/ACTUAT Metered Dose Inhaler [FLIXONASE AQUEOUS]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+42920029	OMOP4646887	30 ACTUAT fluticasone 0.100000000000000006 MG/ACTUAT Metered Dose Inhaler [Arnuity]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+42920030	OMOP4646888	30 ACTUAT fluticasone 0.100000000000000006 MG/ACTUAT Metered Dose Inhaler	Quant Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+42920031	OMOP4646889	30 ACTUAT fluticasone 0.200000000000000011 MG/ACTUAT Metered Dose Inhaler [Arnuity]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+42920032	OMOP4646890	30 ACTUAT fluticasone 0.200000000000000011 MG/ACTUAT Metered Dose Inhaler	Quant Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+42925082	OMOP4651913	fluticasone 0.0500000000000000028 MG/ACTUAT Metered Dose Inhaler [FLIXONASE AQUEOUS]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+42925086	OMOP4651917	fluticasone 0.100000000000000006 MG/ACTUAT Metered Dose Inhaler [Arnuity]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+42925087	OMOP4651918	fluticasone 0.100000000000000006 MG/ACTUAT Metered Dose Inhaler	Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+42925099	OMOP4651930	fluticasone 0.200000000000000011 MG/ACTUAT Metered Dose Inhaler [Arnuity]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+42925100	OMOP4651931	fluticasone 0.200000000000000011 MG/ACTUAT Metered Dose Inhaler	Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+42925105	OMOP4651936	fluticasone Metered Dose Inhaler [Arnuity]	Branded Drug Form	Drug	RxNorm Extension	Valid	Standard
+42925106	OMOP4651937	fluticasone Metered Dose Inhaler [FLIXONASE AQUEOUS]	Branded Drug Form	Drug	RxNorm Extension	Valid	Standard
+44032705	OMOP1027336	fluticasone 0.25 MG / salmeterol 0.025 MG Metered Dose Inhaler	Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+44034618	OMOP1029249	fluticasone 0.125 MG / salmeterol 0.025 MG Metered Dose Inhaler [Advair]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+44034619	OMOP1029250	fluticasone 0.25 MG/ACTUAT Metered Dose Inhaler [Flovent]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+44037455	OMOP1032086	fluticasone 0.05 MG/ACTUAT Metered Dose Inhaler [Flovent] by Glaxosmithkline	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44045687	OMOP1040318	fluticasone 0.25 MG/ACTUAT Metered Dose Inhaler	Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+44045688	OMOP1040319	fluticasone 0.05 MG/ACTUAT Metered Dose Inhaler	Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+44047641	OMOP1042272	fluticasone 0.25 MG / salmeterol 0.025 MG Metered Dose Inhaler [Advair]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+44060678	OMOP1055309	fluticasone 0.115 MG/ACTUAT Metered Dose Inhaler [Flovent]	Branded Drug	Drug	RxNorm Extension	Invalid	Non-standard
+44063663	OMOP1058294	fluticasone 0.25 MG / salmeterol 0.025 MG Metered Dose Inhaler [Advair] by Glaxosmithkline	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44063664	OMOP1058295	fluticasone 0.125 MG / salmeterol 0.025 MG Metered Dose Inhaler [Advair] by Glaxosmithkline	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44063665	OMOP1058296	fluticasone 0.25 MG/ACTUAT Metered Dose Inhaler [Flovent] by Glaxo Canada	Marketed Product	Drug	RxNorm Extension	Invalid	Non-standard
+44063666	OMOP1058297	fluticasone 0.0275 MG/ACTUAT Metered Dose Inhaler [Flovent] by Glaxosmithkline	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44063667	OMOP1058298	fluticasone 0.11 MG/ACTUAT Metered Dose Inhaler [Flovent] by Glaxosmithkline	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44063668	OMOP1058299	fluticasone 0.05 MG/ACTUAT Metered Dose Inhaler [Flovent] by Glaxo Canada	Marketed Product	Drug	RxNorm Extension	Invalid	Non-standard
+44073469	OMOP1068100	fluticasone 0.05 MG/ACTUAT Metered Dose Inhaler [Flovent]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+44084425	OMOP1079056	fluticasone 0.115 MG/ACTUAT Metered Dose Inhaler	Clinical Drug	Drug	RxNorm Extension	Invalid	Non-standard
+44089238	OMOP1083869	fluticasone 0.25 MG/ACTUAT Metered Dose Inhaler [Flovent] by Glaxosmithkline	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44102244	OMOP1096875	fluticasone 0.0275 MG/ACTUAT Metered Dose Inhaler [Flovent] by Glaxo Canada	Marketed Product	Drug	RxNorm Extension	Invalid	Non-standard
+44123365	OMOP1117996	fluticasone 0.125 MG / salmeterol 0.025 MG Metered Dose Inhaler	Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+44123366	OMOP1117997	fluticasone 0.0275 MG/ACTUAT Metered Dose Inhaler	Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+44125284	OMOP1119915	fluticasone 0.0275 MG/ACTUAT Metered Dose Inhaler [Flovent]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+44128211	OMOP1122842	fluticasone 0.115 MG/ACTUAT Metered Dose Inhaler [Flovent] by Glaxo Canada	Marketed Product	Drug	RxNorm Extension	Invalid	Non-standard
+44438876	70518031000	120 ACTUAT Fluticasone propionate 0.22 MG/ACTUAT Metered Dose Inhaler [Flovent]	11-digit NDC	Drug	NDC	Valid	Non-standard
+44446929	68788692601	120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]	11-digit NDC	Drug	NDC	Valid	Non-standard
+44463944	50090091600	120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]	11-digit NDC	Drug	NDC	Valid	Non-standard
+44463947	50090093400	120 ACTUAT Fluticasone propionate 0.22 MG/ACTUAT Metered Dose Inhaler [Flovent]	11-digit NDC	Drug	NDC	Valid	Non-standard
+44466420	49349074621	120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+44466505	50090091000	120 ACTUAT Fluticasone propionate 0.11 MG/ACTUAT Metered Dose Inhaler [Flovent]	11-digit NDC	Drug	NDC	Valid	Non-standard
+44856342	00173049400	120 ACTUAT Fluticasone propionate 0.11 MG/ACTUAT Metered Dose Inhaler [Flovent]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+44856347	00173071800	120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+44881349	49349074601	120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+44883975	54868563700	120 ACTUAT Fluticasone propionate 0.22 MG/ACTUAT Metered Dose Inhaler [Flovent]	11-digit NDC	Drug	NDC	Valid	Non-standard
+44890521	00173071900	120 ACTUAT Fluticasone propionate 0.11 MG/ACTUAT Metered Dose Inhaler [Flovent]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+44903625	60937072000	120 ACTUAT Fluticasone propionate 0.22 MG/ACTUAT Metered Dose Inhaler [Flovent]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+44907795	00173049200	60 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+44918271	54868599500	120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]	11-digit NDC	Drug	NDC	Valid	Non-standard
+44924658	00173071662	120 ACTUAT Fluticasone propionate 0.115 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler [Advair 115/21]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+44941692	00173049800	60 ACTUAT Fluticasone propionate 0.11 MG/ACTUAT Metered Dose Inhaler [Flovent]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+44951982	54868536200	120 ACTUAT Fluticasone propionate 0.11 MG/ACTUAT Metered Dose Inhaler [Flovent]	11-digit NDC	Drug	NDC	Valid	Non-standard
+44958405	00173049900	60 ACTUAT Fluticasone propionate 0.22 MG/ACTUAT Metered Dose Inhaler [Flovent]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+44958412	00173071661	60 ACTUAT Fluticasone propionate 0.115 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler [Advair]	11-digit NDC	Drug	NDC	Valid	Non-standard
+44958413	00173071920	120 ACTUAT Fluticasone propionate 0.11 MG/ACTUAT Metered Dose Inhaler [Flovent]	11-digit NDC	Drug	NDC	Valid	Non-standard
+44968982	55045335100	120 ACTUAT Fluticasone propionate 0.11 MG/ACTUAT Metered Dose Inhaler [Flovent]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+44985470	54569570200	120 ACTUAT Fluticasone propionate 0.22 MG/ACTUAT Metered Dose Inhaler [Flovent]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+44985901	54868536201	120 ACTUAT Fluticasone propionate 0.11 MG/ACTUAT Metered Dose Inhaler [Flovent]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+44986083	55045305401	120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45002833	54868426400	120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45019578	54569460300	120 ACTUAT fluticasone 0.22 MG/ACTUAT Metered Dose Inhaler [Flovent]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45026712	00173071603	120 ACTUAT fluticasone 0.115 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler [Advair HFA]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45039627	60937071900	120 ACTUAT Fluticasone propionate 0.11 MG/ACTUAT Metered Dose Inhaler [Flovent]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45043686	00173049100	120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45054373	55045341600	120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45060850	00173049700	60 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45060860	00173071500	120 ACTUAT Fluticasone propionate 0.045 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler [Advair 45/21]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45070910	54569567100	120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45094766	00173071562	120 ACTUAT Fluticasone propionate 0.045 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler [Advair 45/21]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45094767	00173071600	120 ACTUAT Fluticasone propionate 0.115 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler [Advair 115/21]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45111904	00173049600	120 ACTUAT Fluticasone propionate 0.22 MG/ACTUAT Metered Dose Inhaler	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45111910	00173071503	120 ACTUAT fluticasone 0.045 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler [Advair HFA]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45111911	00173071703	120 ACTUAT fluticasone 0.23 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler [Advair HFA]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45117509	23490754001	120 ACTUAT Fluticasone propionate 0.115 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler [Advair 115/21]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45117948	35356015701	120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]	11-digit NDC	Drug	NDC	Valid	Non-standard
+45128674	00173071761	60 ACTUAT Fluticasone propionate 0.23 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler [Advair]	11-digit NDC	Drug	NDC	Valid	Non-standard
+45128675	00173071860	120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]	11-digit NDC	Drug	NDC	Valid	Non-standard
+45129202	00247157612	120 ACTUAT fluticasone 0.11 MG/ACTUAT Metered Dose Inhaler [Flovent]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45145645	00173071700	120 ACTUAT Fluticasone propionate 0.23 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler [Advair 230/21]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45145646	00173071820	120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]	11-digit NDC	Drug	NDC	Valid	Non-standard
+45162783	00173071561	60 ACTUAT Fluticasone propionate 0.045 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler [Advair]	11-digit NDC	Drug	NDC	Valid	Non-standard
+45162784	00173071622	60 ACTUAT Fluticasone propionate 0.115 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler [Advair]	11-digit NDC	Drug	NDC	Valid	Non-standard
+45173251	54868418200	120 ACTUAT Fluticasone propionate 0.11 MG/ACTUAT Metered Dose Inhaler [Flovent]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45173492	55045281900	120 ACTUAT fluticasone 0.11 MG/ACTUAT Metered Dose Inhaler [Flovent]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45196902	00173071720	120 ACTUAT Fluticasone propionate 0.23 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler [Advair]	11-digit NDC	Drug	NDC	Valid	Non-standard
+45196917	00173701101	60 ACTUAT Fluticasone propionate 0.22 MG/ACTUAT Metered Dose Inhaler [Flovent]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45207451	54868439200	120 ACTUAT Fluticasone propionate 0.22 MG/ACTUAT Metered Dose Inhaler [Flovent]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45214157	00173071522	60 ACTUAT Fluticasone propionate 0.045 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler [Advair]	11-digit NDC	Drug	NDC	Valid	Non-standard
+45214158	00173072000	120 ACTUAT Fluticasone propionate 0.22 MG/ACTUAT Metered Dose Inhaler [Flovent]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45224914	55045335400	120 ACTUAT Fluticasone propionate 0.22 MG/ACTUAT Metered Dose Inhaler [Flovent]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45231399	00173701000	120 ACTUAT Fluticasone propionate 0.11 MG/ACTUAT Metered Dose Inhaler [Flovent]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45248363	00173071620	120 ACTUAT Fluticasone propionate 0.115 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler [Advair]	11-digit NDC	Drug	NDC	Valid	Non-standard
+45259124	55045291901	60 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45265569	00173701202	60 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45282605	00173049500	120 ACTUAT Fluticasone propionate 0.22 MG/ACTUAT Metered Dose Inhaler [Flovent]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45282613	00173071722	60 ACTUAT Fluticasone propionate 0.23 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler [Advair]	11-digit NDC	Drug	NDC	Valid	Non-standard
+45283127	00247157613	120 ACTUAT fluticasone 0.11 MG/ACTUAT Metered Dose Inhaler [Flovent]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45292756	54569566300	120 ACTUAT Fluticasone propionate 0.11 MG/ACTUAT Metered Dose Inhaler [Flovent]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45307833	49999061401	120 ACTUAT Fluticasone propionate 0.11 MG/ACTUAT Metered Dose Inhaler [Flovent]	11-digit NDC	Drug	NDC	Valid	Non-standard
+45316751	00173071520	120 ACTUAT Fluticasone propionate 0.045 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler [Advair]	11-digit NDC	Drug	NDC	Valid	Non-standard
+45316752	00173071961	120 ACTUAT Fluticasone propionate 0.11 MG/ACTUAT Metered Dose Inhaler [Flovent]	11-digit NDC	Drug	NDC	Valid	Non-standard
+45350720	00173072020	120 ACTUAT Fluticasone propionate 0.22 MG/ACTUAT Metered Dose Inhaler [Flovent]	11-digit NDC	Drug	NDC	Valid	Non-standard
+45358998	49999061412	120 ACTUAT Fluticasone propionate 0.11 MG/ACTUAT Metered Dose Inhaler [Flovent]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45367718	00173701100	120 ACTUAT Fluticasone propionate 0.22 MG/ACTUAT Metered Dose Inhaler [Flovent]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45377834	54569460200	120 ACTUAT fluticasone 0.11 MG/ACTUAT Metered Dose Inhaler [Flovent]	11-digit NDC	Drug	NDC	Invalid	Non-standard

@@ -1,0 +1,1032 @@
+Id	Code	Name	Concept Class Id	Domain	Vocabulary	Invalid Reason	Standard Concept
+19127772	746830	60 ACTUAT Budesonide 0.09 MG/ACTUAT Dry Powder Inhaler	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+21023169	OMOP365862	Budesonide 0.1 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler [Symbicort] by Mawdsley-Brooks	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21023171	OMOP365882	Budesonide 0.2 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler [Duoresp] by TEVA	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21023172	OMOP365889	Budesonide 0.4 MG/ACTUAT / formoterol 0.012 MG/ACTUAT Dry Powder Inhaler [Symbicort] by Sigma-Tau	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21023173	OMOP365893	Budesonide 0.4 MG/ACTUAT / formoterol 0.012 MG/ACTUAT Dry Powder Inhaler [Symbicort] by Astrazeneca	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21025797	OMOP412303	Budesonide 0.09 MG/ACTUAT Dry Powder Inhaler [Pulmicort] by Sigma-Tau	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21025800	OMOP412396	Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler by Waymade	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21025801	OMOP412399	Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler [Easyhaler Budesonide] by Orion	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21030410	OMOP318803	50 ACTUAT Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler [Pulmicort] by Mawdsley-Brooks	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21030418	OMOP319973	60 ACTUAT Budesonide 0.4 MG/ACTUAT / formoterol 0.012 MG/ACTUAT Dry Powder Inhaler [Symbicort] by Sigma-Tau	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21030425	OMOP323549	100 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Pulmicort] by Lexon	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21030426	OMOP323551	100 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Pulmicort] by Dowelhurst	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21035540	OMOP412341	Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Budelin]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+21035541	OMOP412349	Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Pulmicort] by Lexon	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21035544	OMOP412397	Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler by Dowelhurst	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21035545	OMOP412403	Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler [Pulmicort] by Sigma-Tau	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21035546	OMOP412407	Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler [Pulmicort] by Lexon	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21040234	OMOP318808	50 ACTUAT Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler [Pulmicort] by Necessity Supplies	Marketed Product	Drug	RxNorm Extension	Invalid	Non-standard
+21040243	OMOP319974	60 ACTUAT Budesonide 0.4 MG/ACTUAT / formoterol 0.012 MG/ACTUAT Dry Powder Inhaler [Symbicort] by Waymade	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21040248	OMOP323547	100 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Pulmicort] by DE	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21040249	OMOP323553	100 ACTUAT Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler	Quant Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+21040285	OMOP327363	200 ACTUAT Budesonide 0.09 MG/ACTUAT Dry Powder Inhaler [Easyhaler Budesonide]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+21040286	OMOP327390	200 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Easyhaler Budesonide]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+21042840	OMOP365888	Budesonide 0.4 MG/ACTUAT / formoterol 0.012 MG/ACTUAT Dry Powder Inhaler [Symbicort] by Mawdsley-Brooks	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21045410	OMOP412400	Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler [Pulmicort] by Mawdsley-Brooks	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21050030	OMOP323538	100 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler	Quant Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+21050031	OMOP323542	100 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Budelin] by Meda	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21050032	OMOP323543	100 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Pulmicort]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+21050033	OMOP323548	100 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Pulmicort] by Necessity Supplies	Marketed Product	Drug	RxNorm Extension	Invalid	Non-standard
+21050034	OMOP323555	100 ACTUAT Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler [Easyhaler Budesonide] by Orion	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21050049	OMOP324905	120 ACTUAT Budesonide 0.2 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler [Symbicort] by DE	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21050075	OMOP327364	200 ACTUAT Budesonide 0.09 MG/ACTUAT Dry Powder Inhaler [Easyhaler Budesonide] by Orion	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21050076	OMOP327370	200 ACTUAT Budesonide 0.09 MG/ACTUAT Dry Powder Inhaler [Pulmicort] by DE	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21052644	OMOP365873	Budesonide 0.2 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler [Symbicort]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+21055221	OMOP412404	Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler [Pulmicort] by Waymade	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21059860	OMOP319981	60 ACTUAT Budesonide 0.4 MG/ACTUAT / formoterol 0.012 MG/ACTUAT Dry Powder Inhaler [DuoResp Spiromax] by TEVA	Marketed Product	Drug	RxNorm Extension	Invalid	Non-standard
+21059906	OMOP327362	200 ACTUAT Budesonide 0.09 MG/ACTUAT Dry Powder Inhaler by Dowelhurst	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21065039	OMOP412302	Budesonide 0.09 MG/ACTUAT Dry Powder Inhaler [Pulmicort] by Mawdsley-Brooks	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21065043	OMOP412339	Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Easyhaler Budesonide]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+21065049	OMOP412414	Budesonide 0.2 MG Dry Powder Inhaler	Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+21069790	OMOP318801	50 ACTUAT Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler [Pulmicort]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+21069799	OMOP319976	60 ACTUAT Budesonide 0.4 MG/ACTUAT / formoterol 0.012 MG/ACTUAT Dry Powder Inhaler [Symbicort] by DE	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21069804	OMOP323546	100 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Pulmicort] by Waymade	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21069805	OMOP323554	100 ACTUAT Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler [Easyhaler Budesonide]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+21069842	OMOP327365	200 ACTUAT Budesonide 0.09 MG/ACTUAT Dry Powder Inhaler [Pulmicort]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+21069843	OMOP327373	200 ACTUAT Budesonide 0.09 MG/ACTUAT Dry Powder Inhaler [Pulmicort] by Astrazeneca	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21072353	OMOP365865	Budesonide 0.1 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler [Symbicort] by DE	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21072354	OMOP365880	Budesonide 0.2 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler [Symbicort] by Dowelhurst	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21072355	OMOP365881	Budesonide 0.2 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler [DuoResp Spiromax]	Branded Drug	Drug	RxNorm Extension	Invalid	Non-standard
+21075016	OMOP412343	Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Pulmicort] by Mawdsley-Brooks	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21075017	OMOP412360	Budesonide 0.4 MG Dry Powder Inhaler Box of 50 by TEVA	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21075018	OMOP412405	Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler [Pulmicort] by DE	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21079541	OMOP318798	50 ACTUAT Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler	Quant Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+21079555	OMOP319970	60 ACTUAT Budesonide 0.4 MG/ACTUAT / formoterol 0.012 MG/ACTUAT Dry Powder Inhaler	Quant Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+21079556	OMOP319978	60 ACTUAT Budesonide 0.4 MG/ACTUAT / formoterol 0.012 MG/ACTUAT Dry Powder Inhaler [Symbicort] by Astrazeneca	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21079562	OMOP323550	100 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Pulmicort] by Astrazeneca	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21079594	OMOP327388	200 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler	Quant Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+21082055	OMOP365863	Budesonide 0.1 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler [Symbicort] by Sigma-Tau	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21082056	OMOP365864	Budesonide 0.1 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler [Symbicort] by Waymade	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21082057	OMOP365871	Budesonide 0.2 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler	Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+21084677	OMOP412307	Budesonide 0.09 MG/ACTUAT Dry Powder Inhaler [Pulmicort] by Necessity Supplies	Marketed Product	Drug	RxNorm Extension	Invalid	Non-standard
+21084679	OMOP412348	Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Pulmicort] by Necessity Supplies	Marketed Product	Drug	RxNorm Extension	Invalid	Non-standard
+21089239	OMOP318810	50 ACTUAT Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler [Pulmicort] by Astrazeneca	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21089245	OMOP319971	60 ACTUAT Budesonide 0.4 MG/ACTUAT / formoterol 0.012 MG/ACTUAT Dry Powder Inhaler [Symbicort]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+21089246	OMOP319972	60 ACTUAT Budesonide 0.4 MG/ACTUAT / formoterol 0.012 MG/ACTUAT Dry Powder Inhaler [Symbicort] by Mawdsley-Brooks	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21089247	OMOP319977	60 ACTUAT Budesonide 0.4 MG/ACTUAT / formoterol 0.012 MG/ACTUAT Dry Powder Inhaler [Symbicort] by Necessity Supplies	Marketed Product	Drug	RxNorm Extension	Invalid	Non-standard
+21089257	OMOP324910	120 ACTUAT Budesonide 0.2 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler [Duoresp] by TEVA	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21089284	OMOP327361	200 ACTUAT Budesonide 0.09 MG/ACTUAT Dry Powder Inhaler	Quant Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+21089285	OMOP327372	200 ACTUAT Budesonide 0.09 MG/ACTUAT Dry Powder Inhaler [Pulmicort] by Lexon	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21091827	OMOP365874	Budesonide 0.2 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler [Symbicort] by Mawdsley-Brooks	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21091828	OMOP365879	Budesonide 0.2 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler [Symbicort] by Astrazeneca	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21094463	OMOP412350	Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Pulmicort] by Astrazeneca	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21094464	OMOP412357	Budesonide 0.4 MG Dry Powder Inhaler	Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+21094466	OMOP412416	Budesonide 0.2 MG Dry Powder Inhaler Box of 100	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+21099177	OMOP323544	100 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Pulmicort] by Mawdsley-Brooks	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21099208	OMOP327366	200 ACTUAT Budesonide 0.09 MG/ACTUAT Dry Powder Inhaler [Pulmicort] by Mawdsley-Brooks	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21101702	OMOP365856	Budesonide / formoterol Dry Powder Inhaler [DuoResp Spiromax]	Branded Drug Form	Drug	RxNorm Extension	Invalid	Non-standard
+21101703	OMOP365876	Budesonide 0.2 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler [Symbicort] by Waymade	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21101704	OMOP365886	Budesonide 0.4 MG/ACTUAT / formoterol 0.012 MG/ACTUAT Dry Powder Inhaler	Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+21101705	OMOP365894	Budesonide 0.4 MG/ACTUAT / formoterol 0.012 MG/ACTUAT Dry Powder Inhaler [Symbicort] by Dowelhurst	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21104378	OMOP412260	Budesonide Dry Powder Inhaler [Budelin]	Branded Drug Form	Drug	RxNorm Extension	Valid	Standard
+21104382	OMOP412310	Budesonide 0.09 MG/ACTUAT Dry Powder Inhaler [Pulmicort] by Dowelhurst	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21104387	OMOP412347	Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Pulmicort] by DE	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21108991	OMOP323540	100 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Budelin]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+21109004	OMOP324889	120 ACTUAT Budesonide 0.1 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler	Quant Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+21109005	OMOP324899	120 ACTUAT Budesonide 0.2 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler	Quant Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+21109023	OMOP327374	200 ACTUAT Budesonide 0.09 MG/ACTUAT Dry Powder Inhaler [Pulmicort] by Dowelhurst	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21111548	OMOP365859	Budesonide 0.1 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler [Symbicort]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+21111549	OMOP365866	Budesonide 0.1 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler [Symbicort] by Necessity Supplies	Marketed Product	Drug	RxNorm Extension	Invalid	Non-standard
+21111550	OMOP365868	Budesonide 0.1 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler [Symbicort] by Dowelhurst	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21111551	OMOP365875	Budesonide 0.2 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler [Symbicort] by Sigma-Tau	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21111553	OMOP365887	Budesonide 0.4 MG/ACTUAT / formoterol 0.012 MG/ACTUAT Dry Powder Inhaler [Symbicort]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+21114147	OMOP412299	Budesonide 0.09 MG/ACTUAT Dry Powder Inhaler by Dowelhurst	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21114148	OMOP412308	Budesonide 0.09 MG/ACTUAT Dry Powder Inhaler [Pulmicort] by Lexon	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21114152	OMOP412351	Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Pulmicort] by Dowelhurst	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21114153	OMOP412359	Budesonide 0.4 MG Dry Powder Inhaler Box of 50	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+21114154	OMOP412402	Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler [Pulmicort] by Stephar	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21118706	OMOP318809	50 ACTUAT Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler [Pulmicort] by Lexon	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21118707	OMOP318811	50 ACTUAT Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler [Pulmicort] by Dowelhurst	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21118714	OMOP319979	60 ACTUAT Budesonide 0.4 MG/ACTUAT / formoterol 0.012 MG/ACTUAT Dry Powder Inhaler [Symbicort] by Dowelhurst	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21118717	OMOP323539	100 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler by Dowelhurst	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21118718	OMOP323545	100 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Pulmicort] by Sigma-Tau	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21118726	OMOP324898	120 ACTUAT Budesonide 0.1 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler [Symbicort] by Dowelhurst	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21118727	OMOP324902	120 ACTUAT Budesonide 0.2 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler [Symbicort] by Mawdsley-Brooks	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21118728	OMOP324903	120 ACTUAT Budesonide 0.2 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler [Symbicort] by Sigma-Tau	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21118729	OMOP324906	120 ACTUAT Budesonide 0.2 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler [Symbicort] by Necessity Supplies	Marketed Product	Drug	RxNorm Extension	Invalid	Non-standard
+21118758	OMOP327391	200 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Easyhaler Budesonide] by Orion	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21121239	OMOP365877	Budesonide 0.2 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler [Symbicort] by DE	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21123778	OMOP412398	Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler [Easyhaler Budesonide]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+21128475	OMOP318800	50 ACTUAT Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler by Dowelhurst	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21128476	OMOP318805	50 ACTUAT Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler [Pulmicort] by Sigma-Tau	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21128505	OMOP324897	120 ACTUAT Budesonide 0.1 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler [Symbicort] by Astrazeneca	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21130988	OMOP365858	Budesonide 0.1 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler	Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+21130989	OMOP365892	Budesonide 0.4 MG/ACTUAT / formoterol 0.012 MG/ACTUAT Dry Powder Inhaler [Symbicort] by Necessity Supplies	Marketed Product	Drug	RxNorm Extension	Invalid	Non-standard
+21133632	OMOP412305	Budesonide 0.09 MG/ACTUAT Dry Powder Inhaler [Pulmicort] by Waymade	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21133635	OMOP412338	Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler by Dowelhurst	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21133636	OMOP412340	Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Easyhaler Budesonide] by Orion	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21133638	OMOP412358	Budesonide 0.4 MG Dry Powder Inhaler by TEVA	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21138380	OMOP324892	120 ACTUAT Budesonide 0.1 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler [Symbicort] by Mawdsley-Brooks	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21138381	OMOP324894	120 ACTUAT Budesonide 0.1 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler [Symbicort] by Waymade	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21138405	OMOP327371	200 ACTUAT Budesonide 0.09 MG/ACTUAT Dry Powder Inhaler [Pulmicort] by Necessity Supplies	Marketed Product	Drug	RxNorm Extension	Invalid	Non-standard
+21140948	OMOP365890	Budesonide 0.4 MG/ACTUAT / formoterol 0.012 MG/ACTUAT Dry Powder Inhaler [Symbicort] by Waymade	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21143566	OMOP412301	Budesonide 0.09 MG/ACTUAT Dry Powder Inhaler [Easyhaler Budesonide] by Orion	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21143573	OMOP412408	Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler [Pulmicort] by Astrazeneca	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21143574	OMOP412409	Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler [Pulmicort] by Dowelhurst	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21143575	OMOP412417	Budesonide 0.2 MG Dry Powder Inhaler Box of 100 by TEVA	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21148206	OMOP318799	50 ACTUAT Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler by Waymade	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21148231	OMOP324896	120 ACTUAT Budesonide 0.1 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler [Symbicort] by Necessity Supplies	Marketed Product	Drug	RxNorm Extension	Invalid	Non-standard
+21148232	OMOP324904	120 ACTUAT Budesonide 0.2 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler [Symbicort] by Waymade	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21148233	OMOP324907	120 ACTUAT Budesonide 0.2 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler [Symbicort] by Astrazeneca	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21150785	OMOP365891	Budesonide 0.4 MG/ACTUAT / formoterol 0.012 MG/ACTUAT Dry Powder Inhaler [Symbicort] by DE	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21150786	OMOP365895	Budesonide 0.4 MG/ACTUAT / formoterol 0.012 MG/ACTUAT Dry Powder Inhaler [DuoResp Spiromax]	Branded Drug	Drug	RxNorm Extension	Invalid	Non-standard
+21153492	OMOP412300	Budesonide 0.09 MG/ACTUAT Dry Powder Inhaler [Easyhaler Budesonide]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+21153496	OMOP412406	Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler [Pulmicort] by Necessity Supplies	Marketed Product	Drug	RxNorm Extension	Invalid	Non-standard
+21158187	OMOP319980	60 ACTUAT Budesonide 0.4 MG/ACTUAT / formoterol 0.012 MG/ACTUAT Dry Powder Inhaler [DuoResp Spiromax]	Quant Branded Drug	Drug	RxNorm Extension	Invalid	Non-standard
+21158204	OMOP324891	120 ACTUAT Budesonide 0.1 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler [Symbicort]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+21158205	OMOP324895	120 ACTUAT Budesonide 0.1 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler [Symbicort] by DE	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21158206	OMOP324900	120 ACTUAT Budesonide 0.2 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler [Symbicort]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+21158207	OMOP324908	120 ACTUAT Budesonide 0.2 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler [Symbicort] by Dowelhurst	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21160731	OMOP365878	Budesonide 0.2 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler [Symbicort] by Necessity Supplies	Marketed Product	Drug	RxNorm Extension	Invalid	Non-standard
+21160732	OMOP365896	Budesonide 0.4 MG/ACTUAT / formoterol 0.012 MG/ACTUAT Dry Powder Inhaler [Duoresp] by TEVA	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21163306	OMOP412259	Budesonide Dry Powder Inhaler [Easyhaler Budesonide]	Branded Drug Form	Drug	RxNorm Extension	Valid	Standard
+21163309	OMOP412342	Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Budelin] by Meda	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21163311	OMOP412415	Budesonide 0.2 MG Dry Powder Inhaler by TEVA	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21167941	OMOP318804	50 ACTUAT Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler [Pulmicort] by Stephar	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21167942	OMOP318806	50 ACTUAT Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler [Pulmicort] by Waymade	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21167943	OMOP318807	50 ACTUAT Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler [Pulmicort] by DE	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21167980	OMOP324893	120 ACTUAT Budesonide 0.1 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler [Symbicort] by Sigma-Tau	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21167981	OMOP324909	120 ACTUAT Budesonide 0.2 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler [DuoResp Spiromax]	Quant Branded Drug	Drug	RxNorm Extension	Invalid	Non-standard
+21170511	OMOP365867	Budesonide 0.1 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler [Symbicort] by Astrazeneca	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21173069	OMOP412306	Budesonide 0.09 MG/ACTUAT Dry Powder Inhaler [Pulmicort] by DE	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21173070	OMOP412309	Budesonide 0.09 MG/ACTUAT Dry Powder Inhaler [Pulmicort] by Astrazeneca	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21173071	OMOP412344	Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Pulmicort] by Sigma-Tau	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21173072	OMOP412346	Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Pulmicort] by Waymade	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21177712	OMOP327368	200 ACTUAT Budesonide 0.09 MG/ACTUAT Dry Powder Inhaler [Pulmicort] by Sigma-Tau	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21177713	OMOP327369	200 ACTUAT Budesonide 0.09 MG/ACTUAT Dry Powder Inhaler [Pulmicort] by Waymade	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21180909	134499006	Budesonide 100micrograms/actuation / Formoterol 6micrograms/actuation dry powder inhaler	VMP	Drug	dm+d	Invalid	Non-standard
+21180935	320565009	Budesonide 100micrograms/actuation dry powder inhaler	VMP	Drug	dm+d	Invalid	Non-standard
+21188981	3294411000001102	Budesonide 200micrograms/dose / Formoterol 6micrograms/dose dry powder inhaler 120 dose	VMPP	Drug	dm+d	Valid	Non-standard
+21206809	10074711000001106	Budesonide 200micrograms/dose dry powder inhaler 200 dose	VMPP	Drug	dm+d	Valid	Non-standard
+21206810	10074311000001107	Budesonide 400micrograms/dose dry powder inhaler 100 dose	VMPP	Drug	dm+d	Valid	Non-standard
+21207438	4373411000001102	Budesonide 400micrograms/dose / Formoterol 12micrograms/dose dry powder inhaler 60 dose	VMPP	Drug	dm+d	Valid	Non-standard
+21210585	10074011000001109	Easyhaler Budesonide 100micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd) 200 dose	AMPP	Drug	dm+d	Valid	Non-standard
+21218468	320567001	Budesonide 200micrograms/actuation dry powder inhaler	VMP	Drug	dm+d	Invalid	Non-standard
+21236939	134498003	Budesonide 200micrograms/dose / Formoterol 6micrograms/dose dry powder inhaler	VMP	Drug	dm+d	Valid	Non-standard
+21236941	320568006	Budesonide 400micrograms/actuation dry powder inhaler	VMP	Drug	dm+d	Invalid	Non-standard
+21257873	10073911000001106	Easyhaler Budesonide 100micrograms/dose dry powder inhaler	AMP	Drug	dm+d	Valid	Non-standard
+21263553	3112811000001107	Budesonide 100micrograms/dose dry powder inhaler 200 dose	VMPP	Drug	dm+d	Valid	Non-standard
+21266338	10074811000001103	Easyhaler Budesonide 200micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd) 200 dose	AMPP	Drug	dm+d	Valid	Non-standard
+21273959	4378111000001103	Budesonide 400micrograms/dose / Formoterol 12micrograms/dose dry powder inhaler	VMP	Drug	dm+d	Valid	Non-standard
+21276515	10074611000001102	Easyhaler Budesonide 200micrograms/dose dry powder inhaler	AMP	Drug	dm+d	Valid	Non-standard
+21282105	3294111000001107	Budesonide 100micrograms/dose / Formoterol 6micrograms/dose dry powder inhaler 120 dose	VMPP	Drug	dm+d	Valid	Non-standard
+21313706	10074411000001100	Easyhaler Budesonide 400micrograms/dose dry powder inhaler	AMP	Drug	dm+d	Valid	Non-standard
+21319418	3228111000001105	Budesonide 400micrograms/dose dry powder inhaler 50 dose	VMPP	Drug	dm+d	Valid	Non-standard
+21319444	3112311000001103	Budesonide 200micrograms/dose dry powder inhaler 100 dose	VMPP	Drug	dm+d	Valid	Non-standard
+21322217	10074511000001101	Easyhaler Budesonide 400micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd) 100 dose	AMPP	Drug	dm+d	Valid	Non-standard
+35406977	OMOP1140562	Budesonide 0.16 MG/ACTUAT / formoterol 0.0045 MG/ACTUAT Dry Powder Inhaler [Symbicort 100 Turbuhaler] Box of 1	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+35406978	OMOP1140563	Budesonide 0.16 MG/ACTUAT / formoterol 0.0045 MG/ACTUAT Dry Powder Inhaler [Symbicort 100 Turbuhaler]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+35406979	OMOP1140564	Budesonide 0.09 MG/ACTUAT Dry Powder Inhaler [Pulmicort Turbohaler] Box of 1	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+35407466	OMOP1141051	Budesonide 0.16 MG/ACTUAT / formoterol 0.0045 MG/ACTUAT Dry Powder Inhaler	Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+35407753	OMOP1141338	Budesonide 0.32 MG/ACTUAT / formoterol 0.009 MG/ACTUAT Dry Powder Inhaler [Symbicort 100 Turbuhaler] Box of 1	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+35407754	OMOP1141339	Budesonide 0.32 MG/ACTUAT / formoterol 0.009 MG/ACTUAT Dry Powder Inhaler [Duoresp]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+35408254	OMOP1141839	Budesonide 0.16 MG/ACTUAT / formoterol 0.0045 MG/ACTUAT Dry Powder Inhaler Box of 1	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+35408529	OMOP1142114	Budesonide 0.08 MG/ACTUAT / formoterol 0.0045 MG/ACTUAT Dry Powder Inhaler [Symbicort 100 Turbuhaler] Box of 1	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+35408530	OMOP1142115	Budesonide 0.08 MG/ACTUAT / formoterol 0.0045 MG/ACTUAT Dry Powder Inhaler [Symbicort 100 Turbuhaler]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+35408531	OMOP1142116	Budesonide 0.16 MG/ACTUAT / formoterol 0.0045 MG/ACTUAT Dry Powder Inhaler [Duoresp]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+35408532	OMOP1142117	Budesonide 0.32 MG/ACTUAT / formoterol 0.009 MG/ACTUAT Dry Powder Inhaler [Symbicort 100 Turbuhaler]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+35408533	OMOP1142118	Budesonide 0.32 MG/ACTUAT / formoterol 0.009 MG/ACTUAT Dry Powder Inhaler [Duoresp] Box of 1	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+35409041	OMOP1142626	Budesonide 0.08 MG/ACTUAT / formoterol 0.0045 MG/ACTUAT Dry Powder Inhaler	Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+35409326	OMOP1142911	Budesonide 0.16 MG/ACTUAT / formoterol 0.0045 MG/ACTUAT Dry Powder Inhaler [Duoresp] Box of 1	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+35409327	OMOP1142912	Budesonide 0.09 MG/ACTUAT Dry Powder Inhaler [Pulmicort Turbohaler]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+35409328	OMOP1142913	Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler [Pulmicort Turbohaler]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+35411345	OMOP1144930	Budesonide 0.32 MG/ACTUAT / formoterol 0.009 MG/ACTUAT Dry Powder Inhaler	Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+35412138	OMOP1145723	Budesonide 0.08 MG/ACTUAT / formoterol 0.0045 MG/ACTUAT Dry Powder Inhaler Box of 1	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+35412139	OMOP1145724	Budesonide 0.09 MG/ACTUAT Dry Powder Inhaler Box of 1	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+35412141	OMOP1145726	Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler Box of 1	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+35412432	OMOP1146017	Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler [Pulmicort Turbohaler] Box of 1	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+35412935	OMOP1146520	Budesonide 0.32 MG/ACTUAT / formoterol 0.009 MG/ACTUAT Dry Powder Inhaler Box of 1	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+35421251	OMOP1154836	60 ACTUAT Budesonide 0.32 MG/ACTUAT / formoterol 0.009 MG/ACTUAT Dry Powder Inhaler [Duoresp] Box of 1	Quant Branded Box	Drug	RxNorm Extension	Valid	Standard
+35421254	OMOP1154839	60 ACTUAT Budesonide 0.32 MG/ACTUAT / formoterol 0.009 MG/ACTUAT Dry Powder Inhaler [Symbicort 100 Turbuhaler] Box of 1 by Astrazeneca	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+35421256	OMOP1154841	60 ACTUAT Budesonide 0.32 MG/ACTUAT / formoterol 0.009 MG/ACTUAT Dry Powder Inhaler [Duoresp] Box of 1 by TEVA	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+35421257	OMOP1154842	60 ACTUAT Budesonide 0.32 MG/ACTUAT / formoterol 0.009 MG/ACTUAT Dry Powder Inhaler [Symbicort 100 Turbuhaler] Box of 1 by Mediwin	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+35421259	OMOP1154844	60 ACTUAT Budesonide 0.32 MG/ACTUAT / formoterol 0.009 MG/ACTUAT Dry Powder Inhaler [Symbicort 100 Turbuhaler] Box of 1	Quant Branded Box	Drug	RxNorm Extension	Valid	Standard
+35421261	OMOP1154846	60 ACTUAT Budesonide 0.32 MG/ACTUAT / formoterol 0.009 MG/ACTUAT Dry Powder Inhaler [Symbicort 100 Turbuhaler]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+35421263	OMOP1154848	60 ACTUAT Budesonide 0.32 MG/ACTUAT / formoterol 0.009 MG/ACTUAT Dry Powder Inhaler Box of 1	Quant Clinical Box	Drug	RxNorm Extension	Valid	Standard
+35421264	OMOP1154849	60 ACTUAT Budesonide 0.32 MG/ACTUAT / formoterol 0.009 MG/ACTUAT Dry Powder Inhaler	Quant Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+35421266	OMOP1154851	60 ACTUAT Budesonide 0.32 MG/ACTUAT / formoterol 0.009 MG/ACTUAT Dry Powder Inhaler [Duoresp]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+35421268	OMOP1154853	100 ACTUAT Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler [Pulmicort Turbohaler] Box of 1	Quant Branded Box	Drug	RxNorm Extension	Valid	Standard
+35421269	OMOP1154854	100 ACTUAT Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler [Pulmicort Turbohaler]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+35421270	OMOP1154855	100 ACTUAT Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler Box of 1	Quant Clinical Box	Drug	RxNorm Extension	Valid	Standard
+35421271	OMOP1154856	100 ACTUAT Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler [Pulmicort Turbohaler] Box of 1 by Astrazeneca	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+35421272	OMOP1154857	120 ACTUAT Budesonide 0.08 MG/ACTUAT / formoterol 0.0045 MG/ACTUAT Dry Powder Inhaler Box of 1	Quant Clinical Box	Drug	RxNorm Extension	Valid	Standard
+35421273	OMOP1154858	120 ACTUAT Budesonide 0.08 MG/ACTUAT / formoterol 0.0045 MG/ACTUAT Dry Powder Inhaler [Symbicort 100 Turbuhaler] Box of 1 by Astrazeneca	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+35421276	OMOP1154861	120 ACTUAT Budesonide 0.16 MG/ACTUAT / formoterol 0.0045 MG/ACTUAT Dry Powder Inhaler [Symbicort 100 Turbuhaler] Box of 1 by Astrazeneca	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+35421278	OMOP1154863	120 ACTUAT Budesonide 0.16 MG/ACTUAT / formoterol 0.0045 MG/ACTUAT Dry Powder Inhaler Box of 1	Quant Clinical Box	Drug	RxNorm Extension	Valid	Standard
+35421281	OMOP1154866	120 ACTUAT Budesonide 0.16 MG/ACTUAT / formoterol 0.0045 MG/ACTUAT Dry Powder Inhaler	Quant Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+35421284	OMOP1154869	120 ACTUAT Budesonide 0.08 MG/ACTUAT / formoterol 0.0045 MG/ACTUAT Dry Powder Inhaler [Symbicort 100 Turbuhaler] Box of 1	Quant Branded Box	Drug	RxNorm Extension	Valid	Standard
+35421288	OMOP1154873	120 ACTUAT Budesonide 0.16 MG/ACTUAT / formoterol 0.0045 MG/ACTUAT Dry Powder Inhaler [Duoresp]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+35421292	OMOP1154877	120 ACTUAT Budesonide 0.16 MG/ACTUAT / formoterol 0.0045 MG/ACTUAT Dry Powder Inhaler [Duoresp] Box of 1	Quant Branded Box	Drug	RxNorm Extension	Valid	Standard
+35421296	OMOP1154881	120 ACTUAT Budesonide 0.08 MG/ACTUAT / formoterol 0.0045 MG/ACTUAT Dry Powder Inhaler [Symbicort 100 Turbuhaler]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+35421297	OMOP1154882	120 ACTUAT Budesonide 0.16 MG/ACTUAT / formoterol 0.0045 MG/ACTUAT Dry Powder Inhaler [Symbicort 100 Turbuhaler] Box of 1	Quant Branded Box	Drug	RxNorm Extension	Valid	Standard
+35421298	OMOP1154883	120 ACTUAT Budesonide 0.16 MG/ACTUAT / formoterol 0.0045 MG/ACTUAT Dry Powder Inhaler [Symbicort 100 Turbuhaler]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+35421299	OMOP1154884	120 ACTUAT Budesonide 0.16 MG/ACTUAT / formoterol 0.0045 MG/ACTUAT Dry Powder Inhaler [Duoresp] Box of 1 by TEVA	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+35421301	OMOP1154886	120 ACTUAT Budesonide 0.08 MG/ACTUAT / formoterol 0.0045 MG/ACTUAT Dry Powder Inhaler	Quant Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+35421303	OMOP1154888	200 ACTUAT Budesonide 0.1 MG/ACTUAT Dry Powder Inhaler	Quant Clinical Drug	Drug	RxNorm Extension	Invalid	Non-standard
+35421304	OMOP1154889	200 ACTUAT Budesonide 0.09 MG/ACTUAT Dry Powder Inhaler [Pulmicort Turbohaler] Box of 1 by Astrazeneca	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+35421305	OMOP1154890	200 ACTUAT Budesonide 0.09 MG/ACTUAT Dry Powder Inhaler Box of 1	Quant Clinical Box	Drug	RxNorm Extension	Valid	Standard
+35421306	OMOP1154891	200 ACTUAT Budesonide 0.09 MG/ACTUAT Dry Powder Inhaler [Pulmicort Turbohaler]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+35421307	OMOP1154892	200 ACTUAT Budesonide 0.09 MG/ACTUAT Dry Powder Inhaler [Pulmicort Turbohaler] Box of 1	Quant Branded Box	Drug	RxNorm Extension	Valid	Standard
+35766410	OMOP2767871	Budesonide 0.1 MG/ACTUAT Dry Powder Inhaler	Clinical Drug	Drug	RxNorm Extension	Invalid	Non-standard
+35772258	OMOP2773719	Budesonide 0.1 MG/ACTUAT Dry Powder Inhaler by Dowelhurst	Marketed Product	Drug	RxNorm Extension	Invalid	Non-standard
+35798500	OMOP2799961	200 ACTUAT Budesonide 0.1 MG/ACTUAT Dry Powder Inhaler	Quant Clinical Drug	Drug	RxNorm Extension	Invalid	Non-standard
+35798526	OMOP2799987	200 ACTUAT Budesonide 0.1 MG/ACTUAT Dry Powder Inhaler by Dowelhurst	Marketed Product	Drug	RxNorm Extension	Invalid	Non-standard
+36686567	13132801000001101	Budesonide 200micrograms/dose / Formoterol 6micrograms/dose dry powder inhaler	Pharma/Biol Product	Drug	SNOMED	Valid	Non-standard
+36689300	35912011000001109	Budesonide 100micrograms/dose / Formoterol 6micrograms/dose dry powder inhaler	Pharma/Biol Product	Drug	SNOMED	Valid	Non-standard
+36689301	35912111000001105	Budesonide 100micrograms/dose dry powder inhaler	Pharma/Biol Product	Drug	SNOMED	Valid	Non-standard
+36689303	35912311000001107	Budesonide 200micrograms/dose / Formoterol 6micrograms/dose dry powder inhaler	Pharma/Biol Product	Drug	SNOMED	Invalid	Non-standard
+36689304	35912411000001100	Budesonide 200micrograms/dose dry powder inhaler	Pharma/Biol Product	Drug	SNOMED	Valid	Non-standard
+36689307	35912711000001106	Budesonide 400micrograms/dose dry powder inhaler	Pharma/Biol Product	Drug	SNOMED	Valid	Non-standard
+36778517	OMOP4766840	120 ACTUAT Budesonide 0.16 MG/ACTUAT / formoterol 0.0045 MG/ACTUAT Dry Powder Inhaler [Symbicort] Box of 1 by Astrazeneca	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+36778518	OMOP4766841	120 ACTUAT Budesonide 0.16 MG/ACTUAT / formoterol 0.0045 MG/ACTUAT Dry Powder Inhaler [Symbicort] Box of 1	Quant Branded Box	Drug	RxNorm Extension	Valid	Standard
+36778519	OMOP4766842	120 ACTUAT Budesonide 0.16 MG/ACTUAT / formoterol 0.0045 MG/ACTUAT Dry Powder Inhaler [Symbicort]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+36786569	OMOP4774839	Budesonide 0.16 MG/ACTUAT / formoterol 0.0045 MG/ACTUAT Dry Powder Inhaler [Symbicort] Box of 1	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+36786570	OMOP4774840	Budesonide 0.16 MG/ACTUAT / formoterol 0.0045 MG/ACTUAT Dry Powder Inhaler [Symbicort]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+36786619	OMOP4774888	Budesonide 0.2 MG Dry Powder Inhaler [Miflonide] Box of 120 by Novartis	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+36786620	OMOP4774889	Budesonide 0.2 MG Dry Powder Inhaler [Miflonide] Box of 120	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+36786621	OMOP4774890	Budesonide 0.2 MG Dry Powder Inhaler Box of 120	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+36808409	35912311000001107	Budesonide 200micrograms/actuation / Formoterol 6micrograms/actuation dry powder inhaler	VMP	Drug	dm+d	Invalid	Non-standard
+36815353	35912111000001105	Budesonide 100micrograms/dose dry powder inhaler	VMP	Drug	dm+d	Valid	Non-standard
+36815354	35912011000001109	Budesonide 100micrograms/dose / Formoterol 6micrograms/dose dry powder inhaler	VMP	Drug	dm+d	Valid	Non-standard
+36815358	35912411000001100	Budesonide 200micrograms/dose dry powder inhaler	VMP	Drug	dm+d	Valid	Non-standard
+36815361	35912711000001106	Budesonide 400micrograms/dose dry powder inhaler	VMP	Drug	dm+d	Valid	Non-standard
+36885926	OMOP1004463	Budesonide 0.115 MG Dry Powder Inhaler	Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+36887851	OMOP994353	Budesonide 0.4 MG Dry Powder Inhaler Box of 100	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+36890607	OMOP992091	Budesonide Dry Powder Inhaler [Pulmicort Turbohaler]	Branded Drug Form	Drug	RxNorm Extension	Valid	Standard
+36890842	OMOP1005342	Budesonide 0.92 MG Dry Powder Inhaler	Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+37592884	OMOP4782325	Budesonide 0.2 MG Dry Powder Inhaler [Budiair] by Emra-Med	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+37592885	OMOP4782326	Budesonide 0.4 MG Dry Powder Inhaler [Miflonide] by Emra-Med	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+37592886	OMOP4782327	Budesonide 0.4 MG Dry Powder Inhaler [Miflonide] by Eurim-Pharm	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40142920	746824	Budesonide Dry Powder Inhaler	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40142921	746826	Budesonide Dry Powder Inhaler [Pulmicort]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40173399	966522	120 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+40173400	966524	120 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Pulmicort]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+40173444	966525	200 ACTUAT Budesonide 0.16 MG/ACTUAT Dry Powder Inhaler	Quant Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40173445	966526	200 ACTUAT Budesonide 0.16 MG/ACTUAT Dry Powder Inhaler [Pulmicort]	Quant Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40173447	966527	60 ACTUAT Budesonide 0.09 MG/ACTUAT Dry Powder Inhaler	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+40173448	966529	60 ACTUAT Budesonide 0.09 MG/ACTUAT Dry Powder Inhaler [Pulmicort]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+4046754	134498003	Budesonide 200micrograms/dose / Formoterol 6micrograms/dose dry powder inhaler	Pharma/Biol Product	Drug	SNOMED	Invalid	Non-standard
+4046898	134499006	Budesonide 100micrograms/dose / Formoterol 6micrograms/dose dry powder inhaler	Pharma/Biol Product	Drug	SNOMED	Invalid	Non-standard
+40700703	34950211000001100	Budesonide 200micrograms/dose / Formoterol 6micrograms/dose dry powder inhaler 60 dose	VMPP	Drug	dm+d	Valid	Non-standard
+40711774	OMOP4745314	100 ACTUAT Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler [Easyhaler] by Orion	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40711775	OMOP4745313	100 ACTUAT Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler [Easyhaler]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+40712943	OMOP4743951	50 ACTUAT Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler [Pulmicort Turbohaler] by Astrazeneca	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40712944	OMOP4743950	50 ACTUAT Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler [Pulmicort Turbohaler] by Mawdsley-Brooks	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40712945	OMOP4743949	50 ACTUAT Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler [Pulmicort Turbohaler] by Waymade	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40712946	OMOP4743948	50 ACTUAT Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler [Pulmicort Turbohaler] by Lexon	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40712947	OMOP4743947	50 ACTUAT Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler [Pulmicort Turbohaler] by Necessity Supplies	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40712948	OMOP4743946	50 ACTUAT Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler [Pulmicort Turbohaler] by Dowelhurst	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40712949	OMOP4743945	50 ACTUAT Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler [Pulmicort Turbohaler] by DE	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40712950	OMOP4743944	50 ACTUAT Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler [Pulmicort Turbohaler] by Stephar	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40712951	OMOP4743943	50 ACTUAT Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler [Pulmicort Turbohaler]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+40712952	OMOP4743942	50 ACTUAT Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler [Pulmicort Turbohaler] by Sigma	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40743520	OMOP4713499	Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler [Pulmicort Turbohaler] by Astrazeneca	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40743521	OMOP4713498	Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler [Pulmicort Turbohaler] by Mawdsley-Brooks	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40743522	OMOP4713497	Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler [Pulmicort Turbohaler] by Waymade	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40743523	OMOP4713496	Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler [Pulmicort Turbohaler] by Lexon	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40743524	OMOP4713495	Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler [Pulmicort Turbohaler] by Necessity Supplies	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40743525	OMOP4713494	Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler [Pulmicort Turbohaler] by Dowelhurst	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40743526	OMOP4713493	Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler [Pulmicort Turbohaler] by DE	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40743527	OMOP4713492	Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler [Pulmicort Turbohaler] by Stephar	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40743528	OMOP4713491	Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler [Pulmicort Turbohaler] by Sigma	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40743529	OMOP4713490	Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler [Easyhaler] by Orion	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40743530	OMOP4713489	Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler [Easyhaler]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+40743581	OMOP4713438	Budesonide Dry Powder Inhaler [Easyhaler]	Branded Drug Form	Drug	RxNorm Extension	Valid	Standard
+40822877	OMOP2020839	Budesonide 40 MG Dry Powder Inhaler [Budes] Box of 2 by Novartis	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40824055	OMOP2022017	Budesonide 0.00016 MG/MG Dry Powder Inhaler [Budesonid Stada] Box of 1	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+40833091	OMOP2031053	Budesonide Dry Powder Inhaler [Budecort]	Branded Drug Form	Drug	RxNorm Extension	Valid	Standard
+40837769	OMOP2035731	Budesonide 40 MG Dry Powder Inhaler Box of 2	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+40837770	OMOP2035732	Budesonide 0.2 MG/ACTUAT Dry Powder Inhaler	Clinical Drug	Drug	RxNorm Extension	Invalid	Non-standard
+40837771	OMOP2035733	Budesonide 0.2 MG Dry Powder Inhaler Box of 180	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+40837773	OMOP2035735	Budesonide 0.4 MG Dry Powder Inhaler Box of 10	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+40849291	OMOP2047253	Budesonide 0.4 MG / formoterol 0.012 MG Dry Powder Inhaler [Budfor]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+40849294	OMOP2047256	Budesonide 0.2 MG Dry Powder Inhaler [Budiair] Box of 10	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+40849297	OMOP2047259	Budesonide 0.2 MG Dry Powder Inhaler [Budepur]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+40849298	OMOP2047260	Budesonide 0.2 MG Dry Powder Inhaler [Respicort] Box of 2	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+40849306	OMOP2047268	Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [BUDESONIDE SANDOZ]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+40849311	OMOP2047273	Budesonide 0.0002 MG/MG Dry Powder Inhaler [Budesonid Heumann] Box of 1	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+40849312	OMOP2047274	Budesonide 0.4 MG Dry Powder Inhaler [Budecort]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+40856572	OMOP2054534	Budesonide 0.1 MG Dry Powder Inhaler [Cyclo Bude] Box of 100 by PB	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40856573	OMOP2054535	Budesonide 0.2 MG Dry Powder Inhaler [Budiair] Box of 1 by Chiesi	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40856574	OMOP2054536	Budesonide 0.2 MG Dry Powder Inhaler [Pulmax] Box of 200 by TEVA	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40856575	OMOP2054537	Budesonide 40 MG Dry Powder Inhaler [Budiair] Box of 1 by Chiesi	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40856582	OMOP2054544	Budesonide 0.2 MG Dry Powder Inhaler [Cyclo Bude] Box of 60 by PB	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40856583	OMOP2054545	Budesonide 0.1 MG Dry Powder Inhaler [Budesonid Merck] Box of 1 by Mylan	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40856584	OMOP2054546	Budesonide 0.4 MG Dry Powder Inhaler [Budesonid] Box of 100 by Orion	Marketed Product	Drug	RxNorm Extension	Invalid	Non-standard
+40868883	OMOP2066845	Budesonide 0.000011 MG/MG Dry Powder Inhaler Box of 200	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+40868889	OMOP2066851	Budesonide 0.02 MG/ML Dry Powder Inhaler Box of 200	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+40868890	OMOP2066852	Budesonide 0.4 MG Dry Powder Inhaler Box of 2	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+40880485	OMOP2078447	Budesonide 0.2 MG / formoterol 0.006 MG Dry Powder Inhaler [Symbicort]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+40880488	OMOP2078450	Budesonide 0.2 MG Dry Powder Inhaler [Budes] Box of 200	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+40880492	OMOP2078454	Budesonide 0.2 MG Dry Powder Inhaler [Pulmicort] Box of 1	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+40880493	OMOP2078455	Budesonide 0.2 MG Dry Powder Inhaler [Budesonid] Box of 3	Branded Drug Box	Drug	RxNorm Extension	Invalid	Non-standard
+40880494	OMOP2078456	Budesonide 0.2 MG Dry Powder Inhaler [Budes] Box of 3	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+40880495	OMOP2078457	Budesonide 0.2 MG Dry Powder Inhaler [Budes]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+40880496	OMOP2078458	Budesonide 0.2 MG Dry Powder Inhaler [Benosid] Box of 1	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+40880497	OMOP2078459	Budesonide 0.2 MG Dry Powder Inhaler [Budesonid Ct]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+40880499	OMOP2078461	Budesonide 0.4 MG Dry Powder Inhaler [Novopulmon] Box of 1	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+40880501	OMOP2078463	Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Budiair] Box of 200	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+40880504	OMOP2078466	Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Novopulmon]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+40880508	OMOP2078470	Budesonide 0.8 MG Dry Powder Inhaler [Cyclo Bude] Box of 100	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+40880513	OMOP2078475	Budesonide 0.2 MG Dry Powder Inhaler [Miflonide] Box of 180	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+40880514	OMOP2078476	Budesonide 0.1 MG Dry Powder Inhaler [Budesonid] Box of 3	Branded Drug Box	Drug	RxNorm Extension	Invalid	Non-standard
+40887879	OMOP2085841	Budesonide 0.1 MG / formoterol 0.006 MG Dry Powder Inhaler [Symbicort] Box of 120 by Kohlpharma	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40887880	OMOP2085842	Budesonide 0.1 MG / formoterol 0.006 MG Dry Powder Inhaler [Symbicort] Box of 120 by Aca Mueller	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40887881	OMOP2085843	Budesonide 0.2 MG Dry Powder Inhaler [Pulmicort] Box of 1 by Emra-Med	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40887882	OMOP2085844	Budesonide 0.2 MG Dry Powder Inhaler [Budecort] Box of 2 by Astellas	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40887883	OMOP2085845	Budesonide 0.2 MG Dry Powder Inhaler [Benosid] Box of 2 by Farmasan	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40887884	OMOP2085846	Budesonide 0.4 MG Dry Powder Inhaler [Miflonide] Box of 60 by Emra-Med	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40887885	OMOP2085847	Budesonide 40 MG Dry Powder Inhaler [Budiair] Box of 2 by Chiesi	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40887891	OMOP2085853	Budesonide 0.4 MG Dry Powder Inhaler [Pulmicort] Box of 1 by Kohlpharma	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40887892	OMOP2085854	Budesonide 0.4 MG Dry Powder Inhaler [Miflonide] Box of 60 by Eurim-Pharm	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40887893	OMOP2085855	Budesonide 0.4 MG Dry Powder Inhaler Box of 60 by Jenapharm	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40899977	OMOP2097939	Budesonide 0.0022 MG/MG Dry Powder Inhaler Box of 1	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+40899978	OMOP2097940	Budesonide 0.000011 MG/MG Dry Powder Inhaler	Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+40899979	OMOP2097941	Budesonide 40 MG Dry Powder Inhaler Box of 1	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+40911507	OMOP2109469	Budesonide 0.4 MG / formoterol 0.012 MG Dry Powder Inhaler [Symbicort] Box of 60	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+40911511	OMOP2109473	Budesonide 0.2 MG Dry Powder Inhaler [Budiair] Box of 200	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+40911515	OMOP2109477	Budesonide 0.00016 MG/MG Dry Powder Inhaler [Budesonid Stada] Box of 2	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+40911516	OMOP2109478	Budesonide 0.00016 MG/MG Dry Powder Inhaler [Budefat]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+40911517	OMOP2109479	Budesonide 40 MG Dry Powder Inhaler [Budes] Box of 1	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+40911531	OMOP2109493	Budesonide 0.2 MG Dry Powder Inhaler [Novopulmon] Box of 3	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+40911533	OMOP2109495	Budesonide 0.0002 MG/MG Dry Powder Inhaler [Budesonid Heumann] Box of 2	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+40918762	OMOP2116724	Budesonide 0.4 MG / formoterol 0.012 MG Dry Powder Inhaler [Symbicort] Box of 60 by Cc	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40918764	OMOP2116726	Budesonide 0.2 MG / formoterol 0.006 MG Dry Powder Inhaler [Symbicort] Box of 120 by Orifarm Leverkus	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40918765	OMOP2116727	Budesonide 0.2 MG / formoterol 0.006 MG Dry Powder Inhaler [Budfor] Box of 60 by Astrazeneca	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40918766	OMOP2116728	Budesonide 0.2 MG Dry Powder Inhaler [Pulmicort] Box of 10 by Astrazeneca	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40918767	OMOP2116729	Budesonide 0.2 MG Dry Powder Inhaler [Pulmicort] Box of 1 by Gerke	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40918768	OMOP2116730	Budesonide 0.2 MG Dry Powder Inhaler [Pulmicort] Box of 1 by Eurim-Pharm	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40918769	OMOP2116731	Budesonide 0.2 MG Dry Powder Inhaler [Novopulmon] Box of 10 by Meda	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40918770	OMOP2116732	Budesonide 0.4 MG Dry Powder Inhaler [Novopulmon] Box of 2 by Meda	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40918771	OMOP2116733	Budesonide 0.4 MG Dry Powder Inhaler [Cyclo Bude] Box of 100 by PB	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40918779	OMOP2116741	Budesonide 0.2 MG Dry Powder Inhaler [Miflonide] Box of 60 by Emra-Med	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40918780	OMOP2116742	Budesonide 0.2 MG Dry Powder Inhaler [Miflonide] Box of 500 by Novartis	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40918781	OMOP2116743	Budesonide 0.4 MG Dry Powder Inhaler [BUDESONIDE SANDOZ] Box of 100 by Novartis	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40931071	OMOP2129033	Budesonide 40 MG Dry Powder Inhaler	Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+40931073	OMOP2129035	Budesonide 0.1 MG Dry Powder Inhaler Box of 60	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+40931077	OMOP2129039	Budesonide 0.0002 MG/MG Dry Powder Inhaler Box of 1	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+40942778	OMOP2140740	Budesonide 0.2 MG / formoterol 0.006 MG Dry Powder Inhaler [Duoresp] Box of 120	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+40942781	OMOP2140743	Budesonide 0.2 MG Dry Powder Inhaler [Pulmicort] Box of 100	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+40942782	OMOP2140744	Budesonide 0.2 MG Dry Powder Inhaler [Budes] Box of 1	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+40942783	OMOP2140745	Budesonide 0.2 MG Dry Powder Inhaler [Benosid] Box of 2	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+40942785	OMOP2140747	Budesonide 0.4 MG Dry Powder Inhaler [Novopulmon] Box of 2	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+40942787	OMOP2140749	Budesonide 40 MG Dry Powder Inhaler [Budiair] Box of 3	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+40942788	OMOP2140750	Budesonide 40 MG Dry Powder Inhaler [Budes]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+40942797	OMOP2140759	Budesonide 0.02 MG/ML Dry Powder Inhaler [Budepur]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+40942798	OMOP2140760	Budesonide 0.2 MG Dry Powder Inhaler [Miflonide] Box of 60	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+40942800	OMOP2140762	Budesonide 0.4 MG Dry Powder Inhaler [Pulmicort]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+40942801	OMOP2140763	Budesonide 0.4 MG Dry Powder Inhaler [Budes] Box of 1	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+40942802	OMOP2140764	Budesonide 0.4 MG Dry Powder Inhaler [Budecort] Box of 1	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+40950041	OMOP2148003	Budesonide 0.1 MG / formoterol 0.006 MG Dry Powder Inhaler [Symbicort] Box of 120 by Milinda Am	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40950042	OMOP2148004	Budesonide 40 MG Dry Powder Inhaler [Budiair] Box of 3 by Chiesi	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40950050	OMOP2148012	Budesonide 0.2 MG Dry Powder Inhaler [Miflonide] Box of 180 by Eurim-Pharm	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40950051	OMOP2148013	Budesonide 0.2 MG Dry Powder Inhaler [Pulmax] Box of 2 by TEVA	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40950052	OMOP2148014	Budesonide 0.1 MG Dry Powder Inhaler Box of 200 by Orion	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40950053	OMOP2148015	Budesonide 0.4 MG Dry Powder Inhaler [Pulmicort] Box of 1 by Beragena	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40950054	OMOP2148016	Budesonide 0.4 MG Dry Powder Inhaler [Miflonide] Box of 180 by Eurim-Pharm	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40957729	OMOP2155691	Budesonide Dry Powder Inhaler [Budesonid Stada]	Branded Drug Form	Drug	RxNorm Extension	Valid	Standard
+40957730	OMOP2155692	Budesonide Dry Powder Inhaler [Budesonid Heumann]	Branded Drug Form	Drug	RxNorm Extension	Valid	Standard
+40957731	OMOP2155693	Budesonide Dry Powder Inhaler [Budes]	Branded Drug Form	Drug	RxNorm Extension	Valid	Standard
+40962333	OMOP2160295	Budesonide 0.4 MG / formoterol 0.012 MG Dry Powder Inhaler Box of 60	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+40962334	OMOP2160296	Budesonide 0.4 MG / formoterol 0.012 MG Dry Powder Inhaler	Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+40962336	OMOP2160298	Budesonide 0.00016 MG/MG Dry Powder Inhaler Box of 1	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+40962337	OMOP2160299	Budesonide 0.00016 MG/MG Dry Powder Inhaler	Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+40962339	OMOP2160301	Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler Box of 200	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+40962342	OMOP2160304	Budesonide 0.1 MG Dry Powder Inhaler Box of 100	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+40962346	OMOP2160308	Budesonide 0.02 MG/ML Dry Powder Inhaler	Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+40962347	OMOP2160309	Budesonide 0.2 MG Dry Powder Inhaler Box of 2	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+40962348	OMOP2160310	Budesonide 0.0002 MG/MG Dry Powder Inhaler	Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+40962351	OMOP2160313	Budesonide 0.4 MG Dry Powder Inhaler Box of 500	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+40973769	OMOP2171731	Budesonide 0.2 MG Dry Powder Inhaler [Budes] Box of 2	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+40973770	OMOP2171732	Budesonide 0.2 MG Dry Powder Inhaler [Budecort] Box of 1	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+40973771	OMOP2171733	Budesonide 0.2 MG Dry Powder Inhaler [Benosid]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+40973772	OMOP2171734	Budesonide 0.00016 MG/MG Dry Powder Inhaler [Budesonid Al]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+40973778	OMOP2171740	Budesonide 0.2 MG Dry Powder Inhaler [Pulmax]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+40973779	OMOP2171741	Budesonide 0.2 MG Dry Powder Inhaler [Cyclo Bude] Box of 100	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+40973782	OMOP2171744	Budesonide 0.4 MG Dry Powder Inhaler [Budesonid] Box of 100	Branded Drug Box	Drug	RxNorm Extension	Invalid	Non-standard
+40973783	OMOP2171745	Budesonide 0.4 MG Dry Powder Inhaler [Miflonide] Box of 500	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+40973784	OMOP2171746	Budesonide 0.4 MG Dry Powder Inhaler [Miflonide] Box of 50	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+40981143	OMOP2179105	Budesonide 0.2 MG Dry Powder Inhaler [Pulmicort] Box of 1 by Astrazeneca	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40981144	OMOP2179106	Budesonide 0.2 MG Dry Powder Inhaler Box of 200 by Orion	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40981150	OMOP2179112	Budesonide 0.2 MG Dry Powder Inhaler [Miflonide] Box of 60 by Eurim-Pharm	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40981151	OMOP2179113	Budesonide 0.4 MG Dry Powder Inhaler [Budes] Box of 1 by Novartis	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40989007	OMOP2186969	Budesonide Dry Powder Inhaler [Budesonid Merck]	Branded Drug Form	Drug	RxNorm Extension	Valid	Standard
+40993605	OMOP2191567	Budesonide 0.4 MG Dry Powder Inhaler Box of 3	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+40993614	OMOP2191576	Budesonide 0.2 MG Dry Powder Inhaler Box of 3	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+41005153	OMOP2203115	Budesonide 0.2 MG Dry Powder Inhaler [Budiair]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41005156	OMOP2203118	Budesonide 0.2 MG Dry Powder Inhaler [Pulmicort] Box of 200	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41005159	OMOP2203121	Budesonide 0.4 MG Dry Powder Inhaler [Novopulmon] Box of 3	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41012424	OMOP2210386	Budesonide 0.4 MG / formoterol 0.012 MG Dry Powder Inhaler [Duoresp] Box of 60 by BR	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41012426	OMOP2210388	Budesonide 0.2 MG Dry Powder Inhaler [Pulmicort] Box of 1 by Kohlpharma	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41012427	OMOP2210389	Budesonide 0.2 MG Dry Powder Inhaler [Budesonid Ct] Box of 2 by Ct	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41012432	OMOP2210394	Budesonide 0.2 MG Dry Powder Inhaler [Miflonide] Box of 100 by Novartis	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41012433	OMOP2210395	Budesonide 0.2 MG Dry Powder Inhaler Box of 200 by Jenapharm	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41012434	OMOP2210396	Budesonide 0.4 MG Dry Powder Inhaler [Pulmicort] Box of 1 by Astrazeneca	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41012435	OMOP2210397	Budesonide 0.4 MG Dry Powder Inhaler [Cyclo Bude] Box of 200 by PB	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41012436	OMOP2210398	Budesonide 0.4 MG Dry Powder Inhaler [Cyclo Bude] Box of 60 by PB	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41019943	OMOP2217905	Budesonide Dry Powder Inhaler [Budelich]	Branded Drug Form	Drug	RxNorm Extension	Valid	Standard
+41024589	OMOP2222551	Budesonide 0.0022 MG/MG Dry Powder Inhaler Box of 2	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+41024597	OMOP2222559	Budesonide 0.2 MG Dry Powder Inhaler Box of 50	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+41024598	OMOP2222560	Budesonide 0.1 MG Dry Powder Inhaler Box of 3	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+41036191	OMOP2234153	Budesonide 0.4 MG / formoterol 0.012 MG Dry Powder Inhaler [Symbicort]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41036192	OMOP2234154	Budesonide 0.2 MG / formoterol 0.006 MG Dry Powder Inhaler [Symbicort] Box of 120	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41036193	OMOP2234155	Budesonide 0.2 MG / formoterol 0.006 MG Dry Powder Inhaler [Duoresp]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41036194	OMOP2234156	Budesonide 0.2 MG / formoterol 0.006 MG Dry Powder Inhaler [Budfor]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41036197	OMOP2234159	Budesonide 0.2 MG Dry Powder Inhaler [Respicort] Box of 1	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41036198	OMOP2234160	Budesonide 0.2 MG Dry Powder Inhaler [Pulmax] Box of 200	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41036199	OMOP2234161	Budesonide 0.2 MG Dry Powder Inhaler [Budesonid]	Branded Drug	Drug	RxNorm Extension	Invalid	Non-standard
+41036200	OMOP2234162	Budesonide 0.00016 MG/MG Dry Powder Inhaler [Budesonid Al] Box of 1	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41036202	OMOP2234164	Budesonide 40 MG Dry Powder Inhaler [Budiair] Box of 1	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41036209	OMOP2234171	Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Budepur]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41036214	OMOP2234176	Budesonide 0.8 MG Dry Powder Inhaler [Cyclo Bude] Box of 200	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41036222	OMOP2234184	Budesonide 0.1 MG Dry Powder Inhaler [Budesonid Merck]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41036223	OMOP2234185	Budesonide 0.0002 MG/MG Dry Powder Inhaler [Budesonid Heumann]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41036226	OMOP2234188	Budesonide 0.4 MG Dry Powder Inhaler [Miflonide] Box of 100	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41036227	OMOP2234189	Budesonide 0.4 MG Dry Powder Inhaler [Cyclo Bude] Box of 60	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41036228	OMOP2234190	Budesonide 0.4 MG Dry Powder Inhaler [Cyclo Bude]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41043535	OMOP2241497	Budesonide 0.2 MG / formoterol 0.006 MG Dry Powder Inhaler [Symbicort] Box of 120 by Milinda Am	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41043536	OMOP2241498	Budesonide 0.2 MG / formoterol 0.006 MG Dry Powder Inhaler [Duoresp] Box of 120 by Kohlpharma	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41043537	OMOP2241499	Budesonide 0.8 MG Dry Powder Inhaler [Cyclo Bude] Box of 200 by PB	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41043538	OMOP2241500	Budesonide 0.8 MG Dry Powder Inhaler [Cyclo Bude] Box of 60 by PB	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41043539	OMOP2241501	Budesonide 0.2 MG Dry Powder Inhaler [Budiair] Box of 10 by Chiesi	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41043542	OMOP2241504	Budesonide 0.2 MG Dry Powder Inhaler [Budesonid] Box of 200 by Orion	Marketed Product	Drug	RxNorm Extension	Invalid	Non-standard
+41043543	OMOP2241505	Budesonide 0.2 MG Dry Powder Inhaler [Budes] Box of 3 by Novartis	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41043544	OMOP2241506	Budesonide 0.2 MG Dry Powder Inhaler [Budes] Box of 2 by Novartis	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41043545	OMOP2241507	Budesonide 0.2 MG Dry Powder Inhaler Box of 2 by Ratiopharm	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41043546	OMOP2241508	Budesonide 0.2 MG Dry Powder Inhaler Box of 1 by Ratiopharm	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41043547	OMOP2241509	Budesonide 0.4 MG Dry Powder Inhaler [Miflonide] Box of 60 by Novartis	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41051179	OMOP2249141	Budesonide Dry Powder Inhaler [BUDESONIDE SANDOZ]	Branded Drug Form	Drug	RxNorm Extension	Valid	Standard
+41051180	OMOP2249142	Budesonide Dry Powder Inhaler [Budesonid]	Branded Drug Form	Drug	RxNorm Extension	Invalid	Non-standard
+41051181	OMOP2249143	Budesonide Dry Powder Inhaler [Budesonid Ct]	Branded Drug Form	Drug	RxNorm Extension	Valid	Standard
+41055841	OMOP2253803	Budesonide 0.1 MG / formoterol 0.006 MG Dry Powder Inhaler Box of 120	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+41067442	OMOP2265404	Budesonide 0.2 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler [Duoresp]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41067443	OMOP2265405	Budesonide 0.4 MG / formoterol 0.012 MG Dry Powder Inhaler [Duoresp]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41067445	OMOP2265407	Budesonide 0.0022 MG/MG Dry Powder Inhaler [Budesonid Ct] Box of 1	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41067447	OMOP2265409	Budesonide 0.2 MG Dry Powder Inhaler [Pulmicort] Box of 10	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41067454	OMOP2265416	Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Budes]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41067457	OMOP2265419	Budesonide 0.1 MG Dry Powder Inhaler [Cyclo Bude] Box of 60	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41067463	OMOP2265425	Budesonide 0.2 MG Dry Powder Inhaler [Pulmax] Box of 2	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41067464	OMOP2265426	Budesonide 0.4 MG Dry Powder Inhaler [Budesonid Merck]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41074896	OMOP2272858	Budesonide 0.4 MG / formoterol 0.012 MG Dry Powder Inhaler [Duoresp] Box of 60 by Orifarm Leverkus	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41074897	OMOP2272859	Budesonide 0.4 MG / formoterol 0.012 MG Dry Powder Inhaler [Duoresp] Box of 60 by Gerke	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41074900	OMOP2272862	Budesonide 0.2 MG Dry Powder Inhaler [Pulmicort] Box of 200 by MZG	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41074901	OMOP2272863	Budesonide 0.2 MG Dry Powder Inhaler Box of 1 by Orion	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41074902	OMOP2272864	Budesonide 0.2 MG Dry Powder Inhaler [Budes] Box of 1 by Novartis	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41074903	OMOP2272865	Budesonide 0.2 MG Dry Powder Inhaler [Budecort] Box of 1 by Astellas	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41074912	OMOP2272874	Budesonide 0.4 MG Dry Powder Inhaler [Budecort] Box of 2 by Astellas	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41082747	OMOP2280709	Budesonide Dry Powder Inhaler [Respicort]	Branded Drug Form	Drug	RxNorm Extension	Valid	Standard
+41087331	OMOP2285293	Budesonide 0.8 MG Dry Powder Inhaler Box of 200	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+41098894	OMOP2296856	Budesonide 0.4 MG/ACTUAT / formoterol 0.012 MG/ACTUAT Dry Powder Inhaler [Duoresp]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41098899	OMOP2296861	Budesonide 0.2 MG Dry Powder Inhaler [Novopulmon] Box of 200	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41098900	OMOP2296862	Budesonide 0.2 MG Dry Powder Inhaler [Budesonid Ct] Box of 2	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41098902	OMOP2296864	Budesonide 0.000011 MG/MG Dry Powder Inhaler [Budesonid Ct]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41098903	OMOP2296865	Budesonide 0.4 MG Dry Powder Inhaler [Novopulmon]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41098904	OMOP2296866	Budesonide 40 MG Dry Powder Inhaler [Budes] Box of 3	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41098905	OMOP2296867	Budesonide 40 MG Dry Powder Inhaler [Budes] Box of 2	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41098913	OMOP2296875	Budesonide 0.1 MG Dry Powder Inhaler [Cyclo Bude] Box of 100	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41098917	OMOP2296879	Budesonide 0.02 MG/ML Dry Powder Inhaler [Budelich] Box of 200	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41098918	OMOP2296880	Budesonide 0.2 MG Dry Powder Inhaler [Miflonide] Box of 50	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41098922	OMOP2296884	Budesonide 0.4 MG Dry Powder Inhaler [Budesonid Merck] Box of 1	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41106343	OMOP2304305	Budesonide 0.1 MG / formoterol 0.006 MG Dry Powder Inhaler [Symbicort] Box of 120 by Eurim-Pharm	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41106344	OMOP2304306	Budesonide 0.2 MG Dry Powder Inhaler [Pulmicort] Box of 1 by Mtk	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41106345	OMOP2304307	Budesonide 0.2 MG Dry Powder Inhaler [Budesonid Ct] Box of 1 by Ct	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41106346	OMOP2304308	Budesonide 0.4 MG Dry Powder Inhaler [Novopulmon] Box of 1 by Meda	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41106350	OMOP2304312	Budesonide 0.1 MG Dry Powder Inhaler Box of 1 by Orion	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41106351	OMOP2304313	Budesonide 0.1 MG Dry Powder Inhaler [Budes] Box of 1 by Novartis	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41106352	OMOP2304314	Budesonide 0.4 MG Dry Powder Inhaler [Pulmicort] Box of 1 by Orifarm Leverkus	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41106353	OMOP2304315	Budesonide 0.4 MG Dry Powder Inhaler [Pulmicort] Box of 1 by Mtk	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41106354	OMOP2304316	Budesonide 0.4 MG Dry Powder Inhaler Box of 1 by Orion	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41106355	OMOP2304317	Budesonide 0.4 MG Dry Powder Inhaler [Miflonide] Box of 200 by Novartis	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41130313	OMOP2328275	Budesonide 0.2 MG / formoterol 0.006 MG Dry Powder Inhaler [Budfor] Box of 60	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41130322	OMOP2328284	Budesonide 0.2 MG Dry Powder Inhaler [Budesonid] Box of 200	Branded Drug Box	Drug	RxNorm Extension	Invalid	Non-standard
+41130323	OMOP2328285	Budesonide 0.2 MG Dry Powder Inhaler [Budesonid Ct] Box of 1	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41130326	OMOP2328288	Budesonide 40 MG Dry Powder Inhaler [Budiair]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41130332	OMOP2328294	Budesonide 0.02 MG/ML Dry Powder Inhaler [Budelich]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41130334	OMOP2328296	Budesonide 0.4 MG Dry Powder Inhaler [Pulmicort] Box of 10	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41130335	OMOP2328297	Budesonide 0.4 MG Dry Powder Inhaler [Budesonid] Box of 2	Branded Drug Box	Drug	RxNorm Extension	Invalid	Non-standard
+41130336	OMOP2328298	Budesonide 0.4 MG Dry Powder Inhaler [Budesonid] Box of 1	Branded Drug Box	Drug	RxNorm Extension	Invalid	Non-standard
+41130337	OMOP2328299	Budesonide 0.4 MG Dry Powder Inhaler [Miflonide] Box of 60	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41137744	OMOP2335706	Budesonide 0.2 MG / formoterol 0.006 MG Dry Powder Inhaler [Symbicort] Box of 120 by B2B	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41137745	OMOP2335707	Budesonide 0.2 MG / formoterol 0.006 MG Dry Powder Inhaler [Duoresp] Box of 120 by Fd	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41137746	OMOP2335708	Budesonide 0.8 MG Dry Powder Inhaler [Cyclo Bude] Box of 100 by PB	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41137748	OMOP2335710	Budesonide 0.2 MG Dry Powder Inhaler [Respicort] Box of 1 by Mundipharma	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41137749	OMOP2335711	Budesonide 0.2 MG Dry Powder Inhaler [Pulmicort] Box of 1 by Orifarm Leverkus	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41137750	OMOP2335712	Budesonide 0.2 MG Dry Powder Inhaler [Novopulmon] Box of 200 by Meda	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41137751	OMOP2335713	Budesonide 0.2 MG Dry Powder Inhaler [Budesonid Merck] Box of 2 by Mylan	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41137752	OMOP2335714	Budesonide 40 MG Dry Powder Inhaler Box of 2 by Ratiopharm	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41137755	OMOP2335717	Budesonide 0.4 MG Dry Powder Inhaler [Budesonid Merck] Box of 1 by Mylan	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41145535	OMOP2343497	Budesonide / formoterol Dry Powder Inhaler [Duoresp]	Branded Drug Form	Drug	RxNorm Extension	Valid	Standard
+41145539	OMOP2343501	Budesonide Dry Powder Inhaler [Novopulmon]	Branded Drug Form	Drug	RxNorm Extension	Valid	Standard
+41145540	OMOP2343502	Budesonide Dry Powder Inhaler [Budesonid Al]	Branded Drug Form	Drug	RxNorm Extension	Valid	Standard
+41150103	OMOP2348065	Budesonide 0.2 MG / formoterol 0.006 MG Dry Powder Inhaler Box of 120	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+41150104	OMOP2348066	Budesonide 0.2 MG / formoterol 0.006 MG Dry Powder Inhaler Box of 60	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+41150107	OMOP2348069	Budesonide 0.00016 MG/MG Dry Powder Inhaler Box of 2	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+41150111	OMOP2348073	Budesonide 0.8 MG Dry Powder Inhaler Box of 60	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+41161675	OMOP2359637	Budesonide 0.2 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler [Symbicort] Box of 120	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41161683	OMOP2359645	Budesonide 0.2 MG Dry Powder Inhaler [Budesonid Merck]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41161699	OMOP2359661	Budesonide 0.2 MG Dry Powder Inhaler [Novopulmon] Box of 1	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41161701	OMOP2359663	Budesonide 0.1 MG Dry Powder Inhaler [Budes] Box of 1	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41168939	OMOP2366901	Budesonide 0.4 MG / formoterol 0.012 MG Dry Powder Inhaler [Duoresp] Box of 60 by TEVA	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41168940	OMOP2366902	Budesonide 0.4 MG / formoterol 0.012 MG Dry Powder Inhaler [Duoresp] by Kohlpharma	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41168943	OMOP2366905	Budesonide 0.1 MG Dry Powder Inhaler [Cyclo Bude] Box of 60 by PB	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41168944	OMOP2366906	Budesonide 40 MG Dry Powder Inhaler [Budes] Box of 3 by Novartis	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41168945	OMOP2366907	Budesonide 40 MG Dry Powder Inhaler Box of 1 by Ratiopharm	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41168949	OMOP2366911	Budesonide 0.2 MG Dry Powder Inhaler [Cyclo Bude] Box of 200 by PB	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41168951	OMOP2366913	Budesonide 0.4 MG Dry Powder Inhaler Box of 2 by Orion	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41168952	OMOP2366914	Budesonide 0.4 MG Dry Powder Inhaler [Budecort] Box of 1 by Astellas	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41168953	OMOP2366915	Budesonide 0.4 MG Dry Powder Inhaler Box of 200 by Jenapharm	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41181184	OMOP2379146	Budesonide 0.2 MG Dry Powder Inhaler Box of 10	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+41181189	OMOP2379151	Budesonide 0.1 MG Dry Powder Inhaler Box of 200	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+41192839	OMOP2390801	Budesonide 0.1 MG / formoterol 0.006 MG Dry Powder Inhaler [Symbicort] Box of 120	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41192840	OMOP2390802	Budesonide 0.1 MG / formoterol 0.006 MG Dry Powder Inhaler [Symbicort]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41192841	OMOP2390803	Budesonide 0.2 MG Dry Powder Inhaler [Pulmicort]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41192842	OMOP2390804	Budesonide 0.00016 MG/MG Dry Powder Inhaler [Budesonid Al] Box of 2	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41192849	OMOP2390811	Budesonide 0.0022 MG/MG Dry Powder Inhaler [Budesonid Ct]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41192855	OMOP2390817	Budesonide 0.2 MG Dry Powder Inhaler [Miflonide] Box of 100	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41192856	OMOP2390818	Budesonide 0.2 MG Dry Powder Inhaler [Novopulmon] Box of 2	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41192857	OMOP2390819	Budesonide 0.2 MG Dry Powder Inhaler [Cyclo Bude] Box of 200	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41192858	OMOP2390820	Budesonide 0.1 MG Dry Powder Inhaler [Budesonid Merck] Box of 1	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41192859	OMOP2390821	Budesonide 0.1 MG Dry Powder Inhaler [Budes]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41192861	OMOP2390823	Budesonide 0.4 MG Dry Powder Inhaler [BUDESONIDE SANDOZ] Box of 100	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41192862	OMOP2390824	Budesonide 0.4 MG Dry Powder Inhaler [Cyclo Bude] Box of 200	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41200322	OMOP2398284	Budesonide 0.4 MG / formoterol 0.012 MG Dry Powder Inhaler [Duoresp] Box of 60 by Beragena	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41200324	OMOP2398286	Budesonide 0.2 MG Dry Powder Inhaler [Budecort] Box of 10 by Astellas	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41200325	OMOP2398287	Budesonide 0.2 MG Dry Powder Inhaler [Benosid] Box of 1 by Farmasan	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41200330	OMOP2398292	Budesonide 0.4 MG Dry Powder Inhaler [Pulmicort] Box of 10 by Astrazeneca	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41208026	OMOP2405988	Budesonide Dry Powder Inhaler [Budepur]	Branded Drug Form	Drug	RxNorm Extension	Valid	Standard
+41212537	OMOP2410499	Budesonide 0.2 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler Box of 120	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+41212541	OMOP2410503	Budesonide 40 MG Dry Powder Inhaler Box of 3	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+41223870	OMOP2421832	Budesonide 0.4 MG / formoterol 0.012 MG Dry Powder Inhaler [Budfor] Box of 60	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41223875	OMOP2421837	Budesonide 0.0022 MG/MG Dry Powder Inhaler [Budesonid Ct] Box of 2	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41223877	OMOP2421839	Budesonide 0.2 MG Dry Powder Inhaler [Budecort] Box of 2	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41223888	OMOP2421850	Budesonide 0.8 MG Dry Powder Inhaler [Cyclo Bude]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41223891	OMOP2421853	Budesonide 0.2 MG Dry Powder Inhaler [Miflonide] Box of 500	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41223892	OMOP2421854	Budesonide 0.1 MG Dry Powder Inhaler [Budesonid]	Branded Drug	Drug	RxNorm Extension	Invalid	Non-standard
+41231375	OMOP2429337	Budesonide 0.4 MG / formoterol 0.012 MG Dry Powder Inhaler [Symbicort] Box of 60 by Gerke	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41231377	OMOP2429339	Budesonide 0.2 MG / formoterol 0.006 MG Dry Powder Inhaler [Symbicort] Box of 120 by Docpharm	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41231378	OMOP2429340	Budesonide 0.2 MG / formoterol 0.006 MG Dry Powder Inhaler [Symbicort] Box of 120 by Cc	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41231380	OMOP2429342	Budesonide 0.2 MG Dry Powder Inhaler [Budepur] Box of 2 by Novartis	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41231381	OMOP2429343	Budesonide 0.4 MG Dry Powder Inhaler [Novopulmon] Box of 10 by Meda	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41231386	OMOP2429348	Budesonide 0.2 MG Dry Powder Inhaler [Miflonide] Box of 200 by Novartis	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41231387	OMOP2429349	Budesonide 0.2 MG Dry Powder Inhaler [Novopulmon] Box of 1 by Meda	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41231388	OMOP2429350	Budesonide 0.4 MG Dry Powder Inhaler [Pulmicort] Box of 1 by Emra-Med	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41243532	OMOP2441494	Budesonide 0.8 MG Dry Powder Inhaler Box of 100	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+41243535	OMOP2441497	Budesonide 0.4 MG Dry Powder Inhaler Box of 180	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+41254852	OMOP2452814	Budesonide 0.2 MG Dry Powder Inhaler [Budiair] Box of 2	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41254853	OMOP2452815	Budesonide 0.2 MG Dry Powder Inhaler [Budiair] Box of 1	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41254857	OMOP2452819	Budesonide 0.2 MG Dry Powder Inhaler [Budepur] Box of 2	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41254858	OMOP2452820	Budesonide 0.2 MG Dry Powder Inhaler [Respicort]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41254859	OMOP2452821	Budesonide 0.2 MG Dry Powder Inhaler [Budesonid Merck] Box of 2	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41254870	OMOP2452832	Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Budiair]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41254874	OMOP2452836	Budesonide 0.8 MG Dry Powder Inhaler [Cyclo Bude] Box of 60	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41254875	OMOP2452837	Budesonide 0.1 MG Dry Powder Inhaler [Cyclo Bude]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41254881	OMOP2452843	Budesonide 0.02 MG/ML Dry Powder Inhaler [Budepur] Box of 200	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41254882	OMOP2452844	Budesonide 0.2 MG Dry Powder Inhaler [Cyclo Bude] Box of 60	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41254883	OMOP2452845	Budesonide 0.2 MG Dry Powder Inhaler [Novopulmon]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41254884	OMOP2452846	Budesonide 0.2 MG Dry Powder Inhaler [Cyclo Bude]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41254889	OMOP2452851	Budesonide 0.4 MG Dry Powder Inhaler [Budesonid]	Branded Drug	Drug	RxNorm Extension	Invalid	Non-standard
+41262115	OMOP2460077	Budesonide 0.4 MG / formoterol 0.012 MG Dry Powder Inhaler [Duoresp] by Eurim-Pharm	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41262116	OMOP2460078	Budesonide 0.2 MG / formoterol 0.006 MG Dry Powder Inhaler [Duoresp] Box of 120 by BR	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41262117	OMOP2460079	Budesonide 0.2 MG Dry Powder Inhaler [Respicort] Box of 2 by Mundipharma	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41262118	OMOP2460080	Budesonide 0.2 MG Dry Powder Inhaler [Pulmicort] Box of 1 by Cc	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41262119	OMOP2460081	Budesonide 0.2 MG Dry Powder Inhaler [Budecort] Box of 3 by Astellas	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41262120	OMOP2460082	Budesonide 40 MG Dry Powder Inhaler [Budes] Box of 1 by Novartis	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41262125	OMOP2460087	Budesonide 0.2 MG Dry Powder Inhaler [Miflonide] Box of 180 by Novartis	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41262126	OMOP2460088	Budesonide 0.1 MG Dry Powder Inhaler Box of 3 by Orion	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41262127	OMOP2460089	Budesonide 0.4 MG Dry Powder Inhaler Box of 100 by Orion	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41262128	OMOP2460090	Budesonide 0.4 MG Dry Powder Inhaler [Miflonide] Box of 50 by Novartis	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41269867	OMOP2467829	Budesonide Dry Powder Inhaler [Budefat]	Branded Drug Form	Drug	RxNorm Extension	Valid	Standard
+41269868	OMOP2467830	Budesonide Dry Powder Inhaler [Benosid]	Branded Drug Form	Drug	RxNorm Extension	Valid	Standard
+41274380	OMOP2472342	Budesonide 0.8 MG Dry Powder Inhaler	Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+41274382	OMOP2472344	Budesonide 0.2 MG Dry Powder Inhaler Box of 200	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+41285880	OMOP2483842	Budesonide 0.2 MG Dry Powder Inhaler [Budesonid] Box of 1	Branded Drug Box	Drug	RxNorm Extension	Invalid	Non-standard
+41285881	OMOP2483843	Budesonide 0.4 MG Dry Powder Inhaler [Novopulmon] Box of 10	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41285882	OMOP2483844	Budesonide 0.00016 MG/MG Dry Powder Inhaler [Budesonid Stada]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41285883	OMOP2483845	Budesonide 0.00016 MG/MG Dry Powder Inhaler [Budefat] Box of 1	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41285889	OMOP2483851	Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Budesonid]	Branded Drug	Drug	RxNorm Extension	Invalid	Non-standard
+41285904	OMOP2483866	Budesonide 0.4 MG Dry Powder Inhaler [BUDESONIDE SANDOZ]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41285905	OMOP2483867	Budesonide 0.4 MG Dry Powder Inhaler [Budes]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41285906	OMOP2483868	Budesonide 0.4 MG Dry Powder Inhaler [Miflonide] Box of 200	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41285907	OMOP2483869	Budesonide 0.4 MG Dry Powder Inhaler [Cyclo Bude] Box of 100	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41293286	OMOP2491248	Budesonide 0.4 MG Dry Powder Inhaler [Miflonide] Box of 500 by Novartis	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41293291	OMOP2491253	Budesonide 0.2 MG Dry Powder Inhaler [Novopulmon] Box of 3 by Meda	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41293292	OMOP2491254	Budesonide 0.2 MG Dry Powder Inhaler [Miflonide] Box of 60 by Novartis	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41293293	OMOP2491255	Budesonide 0.4 MG Dry Powder Inhaler [Pulmicort] Box of 1 by Eurim-Pharm	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41300900	OMOP2498862	Budesonide / formoterol Dry Powder Inhaler [Budfor]	Branded Drug Form	Drug	RxNorm Extension	Valid	Standard
+41300901	OMOP2498863	Budesonide Dry Powder Inhaler [Budiair]	Branded Drug Form	Drug	RxNorm Extension	Valid	Standard
+41300904	OMOP2498866	Budesonide Dry Powder Inhaler [Pulmax]	Branded Drug Form	Drug	RxNorm Extension	Valid	Standard
+41300905	OMOP2498867	Budesonide Dry Powder Inhaler [Cyclo Bude]	Branded Drug Form	Drug	RxNorm Extension	Valid	Standard
+41305537	OMOP2503499	Budesonide 0.0022 MG/MG Dry Powder Inhaler	Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+41305539	OMOP2503501	Budesonide 0.2 MG Dry Powder Inhaler Box of 500	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+41305540	OMOP2503502	Budesonide 0.0002 MG/MG Dry Powder Inhaler Box of 2	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+41317213	OMOP2515175	Budesonide 0.4 MG / formoterol 0.012 MG Dry Powder Inhaler [Duoresp] Box of 60	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41317219	OMOP2515181	Budesonide 0.2 MG Dry Powder Inhaler [Novopulmon] Box of 10	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41317220	OMOP2515182	Budesonide 0.2 MG Dry Powder Inhaler [Budecort] Box of 10	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41317221	OMOP2515183	Budesonide 0.2 MG Dry Powder Inhaler [Budecort] Box of 3	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41317222	OMOP2515184	Budesonide 0.2 MG Dry Powder Inhaler [Budecort]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41317223	OMOP2515185	Budesonide 0.000011 MG/MG Dry Powder Inhaler [Budesonid Ct] Box of 200	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41317224	OMOP2515186	Budesonide 0.00016 MG/MG Dry Powder Inhaler [Budefat] Box of 2	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41317226	OMOP2515188	Budesonide 40 MG Dry Powder Inhaler [Budiair] Box of 2	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41317234	OMOP2515196	Budesonide 0.1 MG Dry Powder Inhaler [Cyclo Bude] Box of 200	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41317238	OMOP2515200	Budesonide 0.2 MG Dry Powder Inhaler [Miflonide] Box of 200	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41317240	OMOP2515202	Budesonide 0.1 MG Dry Powder Inhaler [Budesonid] Box of 200	Branded Drug Box	Drug	RxNorm Extension	Invalid	Non-standard
+41317241	OMOP2515203	Budesonide 0.1 MG Dry Powder Inhaler [Budesonid] Box of 1	Branded Drug Box	Drug	RxNorm Extension	Invalid	Non-standard
+41317245	OMOP2515207	Budesonide 0.4 MG Dry Powder Inhaler [Pulmicort] Box of 1	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41317246	OMOP2515208	Budesonide 0.4 MG Dry Powder Inhaler [Budecort] Box of 2	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41317247	OMOP2515209	Budesonide 0.4 MG Dry Powder Inhaler [Miflonide] Box of 180	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41324647	OMOP2522609	Budesonide 0.4 MG / formoterol 0.012 MG Dry Powder Inhaler [Budfor] Box of 60 by Astrazeneca	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41324649	OMOP2522611	Budesonide 0.1 MG Dry Powder Inhaler [Cyclo Bude] Box of 200 by PB	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41324650	OMOP2522612	Budesonide 0.2 MG Dry Powder Inhaler [Budiair] Box of 2 by Chiesi	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41324651	OMOP2522613	Budesonide 0.2 MG Dry Powder Inhaler Box of 3 by Orion	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41324652	OMOP2522614	Budesonide 0.4 MG Dry Powder Inhaler [Novopulmon] Box of 3 by Meda	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41324653	OMOP2522615	Budesonide 0.4 MG Dry Powder Inhaler [Miflonide] Box of 180 by Novartis	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41324660	OMOP2522622	Budesonide 0.2 MG Dry Powder Inhaler [Miflonide] Box of 50 by Novartis	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41324661	OMOP2522623	Budesonide 0.2 MG Dry Powder Inhaler Box of 60 by Jenapharm	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41324662	OMOP2522624	Budesonide 0.2 MG Dry Powder Inhaler [Novopulmon] Box of 2 by Meda	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41324663	OMOP2522625	Budesonide 0.2 MG Dry Powder Inhaler [Miflonide] Box of 180 by Emra-Med	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41324664	OMOP2522626	Budesonide 0.2 MG Dry Powder Inhaler [Cyclo Bude] Box of 100 by PB	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41324666	OMOP2522628	Budesonide 0.4 MG Dry Powder Inhaler [Miflonide] Box of 100 by Novartis	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41363019	OMOP2560981	10 ML Budesonide 0.02 MG/ML Dry Powder Inhaler Box of 200	Quant Clinical Box	Drug	RxNorm Extension	Valid	Standard
+41365559	OMOP2563521	10 ML Budesonide 0.02 MG/ML Dry Powder Inhaler [Budelich]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41366303	OMOP2564265	10 ML Budesonide 0.02 MG/ML Dry Powder Inhaler [Budepur]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41369377	OMOP2567339	10 ML Budesonide 0.02 MG/ML Dry Powder Inhaler [Budelich] Box of 200	Quant Branded Box	Drug	RxNorm Extension	Valid	Standard
+41371041	OMOP2569003	10 ML Budesonide 0.02 MG/ML Dry Powder Inhaler [Budelich] Box of 200 by Sanofi	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41371822	OMOP2569784	10 ML Budesonide 0.02 MG/ML Dry Powder Inhaler [Budepur] Box of 200 by Novartis	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41372055	OMOP2570017	10 ML Budesonide 0.02 MG/ML Dry Powder Inhaler	Quant Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+41373148	OMOP2571110	10 ML Budesonide 0.02 MG/ML Dry Powder Inhaler [Budepur] Box of 200	Quant Branded Box	Drug	RxNorm Extension	Valid	Standard
+41446938	OMOP2644900	1000 MG Budesonide 0.0002 MG/MG Dry Powder Inhaler [Budesonid Heumann] Box of 1 by Heumann	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41446947	OMOP2644909	1000 MG Budesonide 0.0002 MG/MG Dry Powder Inhaler	Quant Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+41447059	OMOP2645021	1000 MG Budesonide 0.0002 MG/MG Dry Powder Inhaler [Budesonid Heumann]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41447076	OMOP2645038	1000 MG Budesonide 0.0002 MG/MG Dry Powder Inhaler [Budesonid Heumann] Box of 1	Quant Branded Box	Drug	RxNorm Extension	Valid	Standard
+41447079	OMOP2645041	1000 MG Budesonide 0.0002 MG/MG Dry Powder Inhaler [Budesonid Heumann] Box of 2 by Heumann	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41447101	OMOP2645063	1000 MG Budesonide 0.0002 MG/MG Dry Powder Inhaler [Budesonid Heumann] Box of 2	Quant Branded Box	Drug	RxNorm Extension	Valid	Standard
+41447170	OMOP2645132	1000 MG Budesonide 0.0002 MG/MG Dry Powder Inhaler Box of 1	Quant Clinical Box	Drug	RxNorm Extension	Valid	Standard
+41447197	OMOP2645159	1000 MG Budesonide 0.0002 MG/MG Dry Powder Inhaler Box of 2	Quant Clinical Box	Drug	RxNorm Extension	Valid	Standard
+41449775	OMOP2647737	1010 MG Budesonide 0.0002 MG/MG Dry Powder Inhaler [Budesonid Heumann] Box of 1	Quant Branded Box	Drug	RxNorm Extension	Valid	Standard
+41449842	OMOP2647804	1010 MG Budesonide 0.0002 MG/MG Dry Powder Inhaler Box of 1	Quant Clinical Box	Drug	RxNorm Extension	Valid	Standard
+41449843	OMOP2647805	1010 MG Budesonide 0.0002 MG/MG Dry Powder Inhaler	Quant Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+41449858	OMOP2647820	1010 MG Budesonide 0.0002 MG/MG Dry Powder Inhaler [Budesonid Heumann] Box of 1 by Heumann	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41449975	OMOP2647937	1010 MG Budesonide 0.0002 MG/MG Dry Powder Inhaler Box of 2	Quant Clinical Box	Drug	RxNorm Extension	Valid	Standard
+41449990	OMOP2647952	1010 MG Budesonide 0.0002 MG/MG Dry Powder Inhaler [Budesonid Heumann]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41450090	OMOP2648052	1010 MG Budesonide 0.0002 MG/MG Dry Powder Inhaler [Budesonid Heumann] Box of 2	Quant Branded Box	Drug	RxNorm Extension	Valid	Standard
+41450119	OMOP2648081	1010 MG Budesonide 0.0002 MG/MG Dry Powder Inhaler [Budesonid Heumann] Box of 2 by Heumann	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41450667	OMOP2648629	1250 MG Budesonide 0.00016 MG/MG Dry Powder Inhaler [Budesonid Al] Box of 1 by Aliud	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41450669	OMOP2648631	1250 MG Budesonide 0.00016 MG/MG Dry Powder Inhaler	Quant Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+41450673	OMOP2648635	1250 MG Budesonide 0.00016 MG/MG Dry Powder Inhaler Box of 1	Quant Clinical Box	Drug	RxNorm Extension	Valid	Standard
+41450675	OMOP2648637	1250 MG Budesonide 0.00016 MG/MG Dry Powder Inhaler [Budesonid Al] Box of 2	Quant Branded Box	Drug	RxNorm Extension	Valid	Standard
+41450676	OMOP2648638	1250 MG Budesonide 0.00016 MG/MG Dry Powder Inhaler [Budesonid Stada] Box of 2 by Stada	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41450682	OMOP2648644	1250 MG Budesonide 0.00016 MG/MG Dry Powder Inhaler [Budesonid Stada] Box of 1 by Stada	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41450684	OMOP2648646	1250 MG Budesonide 0.00016 MG/MG Dry Powder Inhaler [Budefat] Box of 2	Quant Branded Box	Drug	RxNorm Extension	Valid	Standard
+41450685	OMOP2648647	1250 MG Budesonide 0.00016 MG/MG Dry Powder Inhaler [Budesonid Stada]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41450686	OMOP2648648	1250 MG Budesonide 0.00016 MG/MG Dry Powder Inhaler [Budefat]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41450689	OMOP2648651	1250 MG Budesonide 0.00016 MG/MG Dry Powder Inhaler [Budesonid Al] Box of 2 by Aliud	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41450691	OMOP2648653	1250 MG Budesonide 0.00016 MG/MG Dry Powder Inhaler [Budesonid Al] Box of 1	Quant Branded Box	Drug	RxNorm Extension	Valid	Standard
+41450692	OMOP2648654	1250 MG Budesonide 0.00016 MG/MG Dry Powder Inhaler [Budefat] Box of 2 by Riemser	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41450693	OMOP2648655	1250 MG Budesonide 0.00016 MG/MG Dry Powder Inhaler Box of 2	Quant Clinical Box	Drug	RxNorm Extension	Valid	Standard
+41450696	OMOP2648658	1250 MG Budesonide 0.00016 MG/MG Dry Powder Inhaler [Budefat] Box of 1 by Riemser	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41450698	OMOP2648660	1250 MG Budesonide 0.00016 MG/MG Dry Powder Inhaler [Budesonid Stada] Box of 2	Quant Branded Box	Drug	RxNorm Extension	Valid	Standard
+41450699	OMOP2648661	1250 MG Budesonide 0.00016 MG/MG Dry Powder Inhaler [Budesonid Stada] Box of 1	Quant Branded Box	Drug	RxNorm Extension	Valid	Standard
+41450700	OMOP2648662	1250 MG Budesonide 0.00016 MG/MG Dry Powder Inhaler [Budefat] Box of 1	Quant Branded Box	Drug	RxNorm Extension	Valid	Standard
+41450701	OMOP2648663	1250 MG Budesonide 0.00016 MG/MG Dry Powder Inhaler [Budesonid Al]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41484115	OMOP2682077	18200 MG Budesonide 0.0022 MG/MG Dry Powder Inhaler [Budesonid Ct]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41484120	OMOP2682082	18200 MG Budesonide 0.0022 MG/MG Dry Powder Inhaler [Budesonid Ct] Box of 2 by Ct	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41484121	OMOP2682083	18200 MG Budesonide 0.0022 MG/MG Dry Powder Inhaler Box of 2	Quant Clinical Box	Drug	RxNorm Extension	Valid	Standard
+41484122	OMOP2682084	18200 MG Budesonide 0.0022 MG/MG Dry Powder Inhaler [Budesonid Ct] Box of 1 by Ct	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41484123	OMOP2682085	18200 MG Budesonide 0.0022 MG/MG Dry Powder Inhaler Box of 1	Quant Clinical Box	Drug	RxNorm Extension	Valid	Standard
+41484124	OMOP2682086	18200 MG Budesonide 0.0022 MG/MG Dry Powder Inhaler	Quant Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+41484125	OMOP2682087	18200 MG Budesonide 0.000011 MG/MG Dry Powder Inhaler [Budesonid Ct] Box of 200	Quant Branded Box	Drug	RxNorm Extension	Valid	Standard
+41484126	OMOP2682088	18200 MG Budesonide 0.000011 MG/MG Dry Powder Inhaler [Budesonid Ct]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41484130	OMOP2682092	18200 MG Budesonide 0.000011 MG/MG Dry Powder Inhaler Box of 200	Quant Clinical Box	Drug	RxNorm Extension	Valid	Standard
+41484131	OMOP2682093	18200 MG Budesonide 0.0022 MG/MG Dry Powder Inhaler [Budesonid Ct] Box of 2	Quant Branded Box	Drug	RxNorm Extension	Valid	Standard
+41484133	OMOP2682095	18200 MG Budesonide 0.0022 MG/MG Dry Powder Inhaler [Budesonid Ct] Box of 1	Quant Branded Box	Drug	RxNorm Extension	Valid	Standard
+41484134	OMOP2682096	18200 MG Budesonide 0.000011 MG/MG Dry Powder Inhaler	Quant Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+41484138	OMOP2682100	18300 MG Budesonide 0.000011 MG/MG Dry Powder Inhaler [Budesonid Ct] Box of 200	Quant Branded Box	Drug	RxNorm Extension	Valid	Standard
+41484139	OMOP2682101	18300 MG Budesonide 0.0022 MG/MG Dry Powder Inhaler [Budesonid Ct] Box of 1 by Ct	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41484141	OMOP2682103	18300 MG Budesonide 0.0022 MG/MG Dry Powder Inhaler	Quant Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+41484143	OMOP2682105	18300 MG Budesonide 0.0022 MG/MG Dry Powder Inhaler [Budesonid Ct]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41484144	OMOP2682106	18300 MG Budesonide 0.000011 MG/MG Dry Powder Inhaler	Quant Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+41484146	OMOP2682108	18300 MG Budesonide 0.0022 MG/MG Dry Powder Inhaler [Budesonid Ct] Box of 2 by Ct	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41484148	OMOP2682110	18300 MG Budesonide 0.000011 MG/MG Dry Powder Inhaler [Budesonid Ct]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41484152	OMOP2682114	18300 MG Budesonide 0.000011 MG/MG Dry Powder Inhaler Box of 200	Quant Clinical Box	Drug	RxNorm Extension	Valid	Standard
+41484153	OMOP2682115	18300 MG Budesonide 0.0022 MG/MG Dry Powder Inhaler Box of 1	Quant Clinical Box	Drug	RxNorm Extension	Valid	Standard
+41484154	OMOP2682116	18300 MG Budesonide 0.0022 MG/MG Dry Powder Inhaler Box of 2	Quant Clinical Box	Drug	RxNorm Extension	Valid	Standard
+41484155	OMOP2682117	18300 MG Budesonide 0.0022 MG/MG Dry Powder Inhaler [Budesonid Ct] Box of 2	Quant Branded Box	Drug	RxNorm Extension	Valid	Standard
+41484156	OMOP2682118	18300 MG Budesonide 0.0022 MG/MG Dry Powder Inhaler [Budesonid Ct] Box of 1	Quant Branded Box	Drug	RxNorm Extension	Valid	Standard
+41521464	OMOP2719426	60 ACTUAT Budesonide 0.2 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler [Symbicort] by Beragena	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41521478	OMOP2719440	60 ACTUAT Budesonide 0.4 MG/ACTUAT / formoterol 0.012 MG/ACTUAT Dry Powder Inhaler [Duoresp]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41521493	OMOP2719455	60 ACTUAT Budesonide 0.4 MG/ACTUAT / formoterol 0.012 MG/ACTUAT Dry Powder Inhaler [Duoresp] by TEVA	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41521494	OMOP2719456	60 ACTUAT Budesonide 0.4 MG/ACTUAT / formoterol 0.012 MG/ACTUAT Dry Powder Inhaler [Duoresp] by Kohlpharma	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41521497	OMOP2719459	60 ACTUAT Budesonide 0.2 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler	Quant Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+41521505	OMOP2719467	60 ACTUAT Budesonide 0.4 MG/ACTUAT / formoterol 0.012 MG/ACTUAT Dry Powder Inhaler [Duoresp] by Beragena	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41521533	OMOP2719495	60 ACTUAT Budesonide 0.2 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler [Symbicort] by Gerke	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41521540	OMOP2719502	60 ACTUAT Budesonide 0.2 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler [Symbicort] by Astrazeneca	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41521575	OMOP2719537	60 ACTUAT Budesonide 0.2 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler [Symbicort]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41521594	OMOP2719556	60 ACTUAT Budesonide 0.4 MG/ACTUAT / formoterol 0.012 MG/ACTUAT Dry Powder Inhaler [Symbicort] by B2B	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41522266	OMOP2720228	120 ACTUAT Budesonide 0.2 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler Box of 120	Quant Clinical Box	Drug	RxNorm Extension	Valid	Standard
+41522277	OMOP2720239	120 ACTUAT Budesonide 0.2 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler [Symbicort] by Gerke	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41522304	OMOP2720266	120 ACTUAT Budesonide 0.2 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler [Symbicort] Box of 120	Quant Branded Box	Drug	RxNorm Extension	Valid	Standard
+41522305	OMOP2720267	120 ACTUAT Budesonide 0.2 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler [Duoresp]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41522308	OMOP2720270	120 ACTUAT Budesonide 0.2 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler [Symbicort] by Axicorp	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41522309	OMOP2720271	120 ACTUAT Budesonide 0.2 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler [Duoresp] by Gerke	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41522310	OMOP2720272	120 ACTUAT Budesonide 0.2 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler [Duoresp] by 2care4	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41522344	OMOP2720306	120 ACTUAT Budesonide 0.2 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler [Symbicort] by B2B	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41522388	OMOP2720350	120 ACTUAT Budesonide 0.1 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler [Symbicort] by Aca Mueller	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41522403	OMOP2720365	120 ACTUAT Budesonide 0.2 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler [Duoresp] by BR	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41522444	OMOP2720406	120 ACTUAT Budesonide 0.2 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler [Duoresp] by Axicorp	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41522445	OMOP2720407	120 ACTUAT Budesonide 0.1 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler [Symbicort] by Gerke	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41522456	OMOP2720418	120 ACTUAT Budesonide 0.2 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler [Symbicort] by Bb Farma	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41522495	OMOP2720457	120 ACTUAT Budesonide 0.1 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler [Symbicort] by Cc	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41522508	OMOP2720470	120 ACTUAT Budesonide 0.2 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler [Symbicort] by Docpharm	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41522509	OMOP2720471	120 ACTUAT Budesonide 0.2 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler [Duoresp] by Kohlpharma	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41522510	OMOP2720472	120 ACTUAT Budesonide 0.2 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler [Duoresp] by Beragena	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41522532	OMOP2720494	120 ACTUAT Budesonide 0.2 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler [Duoresp] by Fd	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41522624	OMOP2720586	200 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Budiair] by Chiesi	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41522628	OMOP2720590	200 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [BUDESONIDE SANDOZ]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41522647	OMOP2720609	200 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Budesonid]	Quant Branded Drug	Drug	RxNorm Extension	Invalid	Non-standard
+41522652	OMOP2720614	200 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Budiair] Box of 200 by Chiesi	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41522660	OMOP2720622	200 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Budiair]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41522696	OMOP2720658	200 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Budes]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41522699	OMOP2720661	200 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Novopulmon]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41522708	OMOP2720670	200 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Budiair] Box of 200	Quant Branded Box	Drug	RxNorm Extension	Valid	Standard
+41522713	OMOP2720675	200 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Budiair] Box of 200 by Emra-Med	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41522738	OMOP2720700	200 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Novopulmon] by Meda	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41522742	OMOP2720704	200 ACTUAT Budesonide 0.2 MG/ACTUAT Dry Powder Inhaler	Quant Clinical Drug	Drug	RxNorm Extension	Invalid	Non-standard
+41522751	OMOP2720713	200 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler Box of 200	Quant Clinical Box	Drug	RxNorm Extension	Valid	Standard
+41522765	OMOP2720727	200 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [BUDESONIDE SANDOZ] by Novartis	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41522784	OMOP2720746	200 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Budepur]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+4153922	320568006	Budesonide 400micrograms/dose dry powder inhaler	Pharma/Biol Product	Drug	SNOMED	Invalid	Non-standard
+4154976	320565009	Budesonide 100micrograms/dose dry powder inhaler	Pharma/Biol Product	Drug	SNOMED	Invalid	Non-standard
+4156388	320567001	Budesonide 200micrograms/dose dry powder inhaler	Pharma/Biol Product	Drug	SNOMED	Invalid	Non-standard
+4185137	413719005	Budesonide 200mcg dry powder cartridge and refillable inhaler device	Pharma/Biol Product	Drug	SNOMED	Invalid	Non-standard
+4186865	413722007	Budesonide 80mcg/formoterol 4.5mcg dry powder inhaler	Pharma/Biol Product	Drug	SNOMED	Valid	Non-standard
+4188825	413718002	Budesonide 160mcg/formoterol 4.5mcg dry powder inhaler	Pharma/Biol Product	Drug	SNOMED	Valid	Non-standard
+4211498	413720004	Budesonide 320mcg/formoterol 9mcg dry powder inhaler	Pharma/Biol Product	Drug	SNOMED	Valid	Non-standard
+42479079	OMOP419123	Budesonide / formoterol Dry Powder Inhaler [Symbicort]	Branded Drug Form	Drug	RxNorm Extension	Valid	Standard
+42479672	OMOP419114	Budesonide 0.2 MG/ACTUAT Dry Powder Inhaler	Clinical Drug	Drug	RxNorm Extension	Invalid	Non-standard
+42479673	OMOP419118	Budesonide 0.1 MG/ACTUAT Dry Powder Inhaler	Clinical Drug	Drug	RxNorm Extension	Invalid	Non-standard
+42479684	OMOP419122	Budesonide / formoterol Dry Powder Inhaler	Clinical Drug Form	Drug	RxNorm Extension	Valid	Standard
+42481432	OMOP419121	Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler [Pulmicort]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+42482058	OMOP419119	Budesonide 0.1 MG/ACTUAT Dry Powder Inhaler [Pulmicort]	Branded Drug	Drug	RxNorm Extension	Invalid	Non-standard
+42482059	OMOP419120	Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler	Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+42533540	34950211000001100	Budesonide 200micrograms/dose / Formoterol 6micrograms/dose dry powder inhaler 60 dose	Pharma/Biol Product	Drug	SNOMED	Valid	Non-standard
+4255029	408023003	Budesonide + formoterol fumarate dihydrate 400micrograms/12micrograms breath-actuated dry powder inhaler	Pharma/Biol Product	Drug	SNOMED	Valid	Non-standard
+42902458	1359571	Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Pulmicort]	Branded Drug	Drug	RxNorm	Valid	Standard
+42903065	1360178	Budesonide 0.09 MG/ACTUAT Dry Powder Inhaler [Pulmicort]	Branded Drug	Drug	RxNorm	Valid	Standard
+42903104	1360217	Budesonide 0.09 MG/ACTUAT Dry Powder Inhaler	Clinical Drug	Drug	RxNorm	Valid	Standard
+42903289	1360402	Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler	Clinical Drug	Drug	RxNorm	Valid	Standard
+42919252	OMOP4646121	100 ACTUAT Budesonide 0.200000000000000011 MG/ACTUAT Dry Powder Inhaler [Pulmicort Turbuhaler]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+42919253	OMOP4646122	100 ACTUAT Budesonide 0.200000000000000011 MG/ACTUAT Dry Powder Inhaler	Quant Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+42919254	OMOP4646123	100 ACTUAT Budesonide 0.200000000000000011 MG/ACTUAT Dry Powder Inhaler [OBUCORT SWINGHALER]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+42919255	OMOP4646124	100 ACTUAT Budesonide 0.400000000000000022 MG/ACTUAT Dry Powder Inhaler [OBUCORT SWINGHALER]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+42958530	OMOP4685039	Budesonide 0.200000000000000011 MG/ACTUAT Dry Powder Inhaler [Pulmicort Turbuhaler]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+42958531	OMOP4685040	Budesonide 0.200000000000000011 MG/ACTUAT Dry Powder Inhaler [OBUCORT SWINGHALER]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+42958545	OMOP4685054	Budesonide 0.400000000000000022 MG/ACTUAT Dry Powder Inhaler [OBUCORT SWINGHALER]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+42958552	OMOP4685061	Budesonide Dry Powder Inhaler [OBUCORT SWINGHALER]	Branded Drug Form	Drug	RxNorm Extension	Valid	Standard
+43135567	OMOP453680	Budesonide 0.4 MG Dry Powder Inhaler Box of 60	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+43135568	OMOP453690	Budesonide 0.4 MG Dry Powder Inhaler [Novopulmon] Box of 200	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+43135569	OMOP453694	Budesonide 0.4 MG Dry Powder Inhaler [Pulmicort Turbohaler] Box of 100	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+43135584	OMOP453799	Budesonide 0.2 MG Dry Powder Inhaler [Pulmicort Turbohaler] Box of 1	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+43135586	OMOP453827	Budesonide 0.32 MG / formoterol 0.009 MG Dry Powder Inhaler [Symbicort 100 Turbuhaler] Box of 60	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+43135587	OMOP453828	Budesonide 0.32 MG / formoterol 0.009 MG Dry Powder Inhaler [Symbicort 100 Turbuhaler] Box of 60 by Astrazeneca	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+43135588	OMOP453831	Budesonide 0.08 MG / formoterol 0.0045 MG Dry Powder Inhaler Box of 1	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+43146480	OMOP453685	Budesonide 0.4 MG Dry Powder Inhaler [NOVOPULMON NOVOLIZER]	Branded Drug	Drug	RxNorm Extension	Invalid	Non-standard
+43146481	OMOP453689	Budesonide 0.4 MG Dry Powder Inhaler [Novopulmon] Box of 100 by Meda	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+43146494	OMOP453798	Budesonide 0.2 MG Dry Powder Inhaler [Pulmicort Turbohaler]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+43146495	OMOP453807	Budesonide 0.16 MG / formoterol 0.0045 MG Dry Powder Inhaler Box of 1	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+43146496	OMOP453817	Budesonide 0.32 MG / formoterol 0.009 MG Dry Powder Inhaler	Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+43146497	OMOP453822	Budesonide 0.32 MG / formoterol 0.009 MG Dry Powder Inhaler [Duoresp] Box of 1 by TEVA	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+43157709	OMOP453684	Budesonide 0.4 MG Dry Powder Inhaler [MIFLONIL] Box of 60 by Novartis	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+43157721	OMOP453791	Budesonide 0.2 MG Dry Powder Inhaler Box of 60	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+43157722	OMOP453793	Budesonide 0.2 MG Dry Powder Inhaler [MIFLONIL] Box of 60	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+43157723	OMOP453797	Budesonide 0.2 MG Dry Powder Inhaler [NOVOPULMON NOVOLIZER] Box of 1 by Meda	Marketed Product	Drug	RxNorm Extension	Invalid	Non-standard
+43157724	OMOP453800	Budesonide 0.2 MG Dry Powder Inhaler [Pulmicort Turbohaler] Box of 1 by Astrazeneca	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+43157725	OMOP453811	Budesonide 0.16 MG / formoterol 0.0045 MG Dry Powder Inhaler [Symbicort 100 Turbuhaler]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+43157726	OMOP453820	Budesonide 0.32 MG / formoterol 0.009 MG Dry Powder Inhaler [Duoresp]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+43157727	OMOP453821	Budesonide 0.32 MG / formoterol 0.009 MG Dry Powder Inhaler [Duoresp] Box of 1	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+43157728	OMOP453826	Budesonide 0.32 MG / formoterol 0.009 MG Dry Powder Inhaler [Symbicort 100 Turbuhaler] Box of 1 by Mediwin	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+43157729	OMOP453832	Budesonide 0.08 MG / formoterol 0.0045 MG Dry Powder Inhaler [Symbicort 100 Turbuhaler]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+43168600	OMOP453663	Budesonide Dry Powder Inhaler [MIFLONIL]	Branded Drug Form	Drug	RxNorm Extension	Valid	Standard
+43168601	OMOP453695	Budesonide 0.4 MG Dry Powder Inhaler [Pulmicort Turbohaler] Box of 100 by Astrazeneca	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+43168608	OMOP453754	Budesonide 0.1 MG Dry Powder Inhaler [Pulmicort Turbohaler] Box of 1 by Astrazeneca	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+43168614	OMOP453806	Budesonide 0.16 MG / formoterol 0.0045 MG Dry Powder Inhaler	Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+43168615	OMOP453809	Budesonide 0.16 MG / formoterol 0.0045 MG Dry Powder Inhaler [Duoresp] Box of 1	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+43168616	OMOP453813	Budesonide 0.16 MG / formoterol 0.0045 MG Dry Powder Inhaler [Symbicort 100 Turbuhaler] Box of 1	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+43168617	OMOP453818	Budesonide 0.32 MG / formoterol 0.009 MG Dry Powder Inhaler Box of 1	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+43179661	OMOP453681	Budesonide 0.4 MG Dry Powder Inhaler Box of 200	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+43179662	OMOP453683	Budesonide 0.4 MG Dry Powder Inhaler [MIFLONIL] Box of 60	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+43179668	OMOP453750	Budesonide 0.1 MG Dry Powder Inhaler	Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+43179674	OMOP453790	Budesonide 0.2 MG Dry Powder Inhaler Box of 1	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+43179675	OMOP453795	Budesonide 0.2 MG Dry Powder Inhaler [NOVOPULMON NOVOLIZER]	Branded Drug	Drug	RxNorm Extension	Invalid	Non-standard
+43179677	OMOP453814	Budesonide 0.16 MG / formoterol 0.0045 MG Dry Powder Inhaler [Symbicort 100 Turbuhaler] Box of 1 by Astrazeneca	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+43190550	OMOP453664	Budesonide Dry Powder Inhaler [NOVOPULMON NOVOLIZER]	Branded Drug Form	Drug	RxNorm Extension	Invalid	Non-standard
+43190553	OMOP453682	Budesonide 0.4 MG Dry Powder Inhaler [MIFLONIL]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+43190554	OMOP453687	Budesonide 0.4 MG Dry Powder Inhaler [NOVOPULMON NOVOLIZER] Box of 1 by Meda	Marketed Product	Drug	RxNorm Extension	Invalid	Non-standard
+43190555	OMOP453692	Budesonide 0.4 MG Dry Powder Inhaler [Pulmicort Turbohaler]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+43190563	OMOP453751	Budesonide 0.1 MG Dry Powder Inhaler Box of 1	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+43190564	OMOP453752	Budesonide 0.1 MG Dry Powder Inhaler [Pulmicort Turbohaler]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+43190565	OMOP453753	Budesonide 0.1 MG Dry Powder Inhaler [Pulmicort Turbohaler] Box of 1	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+43190567	OMOP453796	Budesonide 0.2 MG Dry Powder Inhaler [NOVOPULMON NOVOLIZER] Box of 1	Branded Drug Box	Drug	RxNorm Extension	Invalid	Non-standard
+43190569	OMOP453808	Budesonide 0.16 MG / formoterol 0.0045 MG Dry Powder Inhaler [Duoresp]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+43190570	OMOP453830	Budesonide 0.08 MG / formoterol 0.0045 MG Dry Powder Inhaler	Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+43201597	OMOP453688	Budesonide 0.4 MG Dry Powder Inhaler [Novopulmon] Box of 100	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+43201598	OMOP453691	Budesonide 0.4 MG Dry Powder Inhaler [Novopulmon] Box of 200 by Meda	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+43201605	OMOP453792	Budesonide 0.2 MG Dry Powder Inhaler [MIFLONIL]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+43201606	OMOP453810	Budesonide 0.16 MG / formoterol 0.0045 MG Dry Powder Inhaler [Duoresp] Box of 1 by TEVA	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+43201608	OMOP453819	Budesonide 0.32 MG / formoterol 0.009 MG Dry Powder Inhaler Box of 60	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+43201609	OMOP453833	Budesonide 0.08 MG / formoterol 0.0045 MG Dry Powder Inhaler [Symbicort 100 Turbuhaler] Box of 1	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+43212430	OMOP453679	Budesonide 0.4 MG Dry Powder Inhaler Box of 1	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+43212431	OMOP453686	Budesonide 0.4 MG Dry Powder Inhaler [NOVOPULMON NOVOLIZER] Box of 1	Branded Drug Box	Drug	RxNorm Extension	Invalid	Non-standard
+43212440	OMOP453794	Budesonide 0.2 MG Dry Powder Inhaler [MIFLONIL] Box of 60 by Novartis	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+43212441	OMOP453803	Budesonide / formoterol Dry Powder Inhaler [SYMBICORT TURBUHALER]	Branded Drug Form	Drug	RxNorm Extension	Invalid	Non-standard
+43212442	OMOP453824	Budesonide 0.32 MG / formoterol 0.009 MG Dry Powder Inhaler [Symbicort 100 Turbuhaler]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+43212443	OMOP453825	Budesonide 0.32 MG / formoterol 0.009 MG Dry Powder Inhaler [Symbicort 100 Turbuhaler] Box of 1	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+43212444	OMOP453834	Budesonide 0.08 MG / formoterol 0.0045 MG Dry Powder Inhaler [Symbicort 100 Turbuhaler] Box of 1 by Astrazeneca	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+43586121	OMOP659446	Budesonide 0.4 MG Dry Powder Inhaler [Cyclocaps Budesonid]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+43622163	OMOP659483	Budesonide 0.92 MG Dry Powder Inhaler [Budesonid Pb Pharma] by PB	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+43622173	OMOP659662	Budesonide 0.115 MG Dry Powder Inhaler [Cyclocaps Budesonid]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+43622174	OMOP659663	Budesonide 0.115 MG Dry Powder Inhaler [Cyclocaps Budesonid] by PB	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+43640341	OMOP659763	Budesonide 0.2 MG Dry Powder Inhaler [Cyclocaps Budesonid]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+43640342	OMOP659764	Budesonide 0.2 MG Dry Powder Inhaler [Cyclocaps Budesonid] by Pharmachemie	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+43658452	OMOP659480	Budesonide 0.92 MG Dry Powder Inhaler [Cyclocaps Budesonid] by PB	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+43694334	OMOP659766	Budesonide 0.2 MG Dry Powder Inhaler [Miflonide] by Novartis	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+43712153	OMOP659429	Budesonide Dry Powder Inhaler [Cyclocaps Budesonid]	Branded Drug Form	Drug	RxNorm Extension	Valid	Standard
+43712154	OMOP659433	Budesonide Dry Powder Inhaler [Budesonid Pb Pharma]	Branded Drug Form	Drug	RxNorm Extension	Valid	Standard
+43748094	OMOP659447	Budesonide 0.4 MG Dry Powder Inhaler [Cyclocaps Budesonid] by Pharmachemie	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+43766065	OMOP659432	Budesonide Dry Powder Inhaler [Miflonide]	Branded Drug Form	Drug	RxNorm Extension	Valid	Standard
+43802098	OMOP659765	Budesonide 0.2 MG Dry Powder Inhaler [Miflonide]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+43820206	OMOP659448	Budesonide 0.4 MG Dry Powder Inhaler [Miflonide]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+43820207	OMOP659449	Budesonide 0.4 MG Dry Powder Inhaler [Miflonide] by Novartis	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+43820208	OMOP659479	Budesonide 0.92 MG Dry Powder Inhaler [Cyclocaps Budesonid]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+43838296	OMOP659430	Budesonide Dry Powder Inhaler [Cyclocaps Budesonid Pch]	Branded Drug Form	Drug	RxNorm Extension	Invalid	Non-standard
+43856315	OMOP659481	Budesonide 0.92 MG Dry Powder Inhaler [Budesonid Pb Pharma]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+44046131	OMOP1040762	Budesonide 0.2 MG / formoterol 0.006 MG Dry Powder Inhaler	Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+44046132	OMOP1040763	Budesonide 0.1 MG / formoterol 0.006 MG Dry Powder Inhaler	Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+44057597	OMOP1052228	Budesonide / formoterol Dry Powder Inhaler [Symbicort 200 Turbuhaler]	Branded Drug Form	Drug	RxNorm Extension	Invalid	Non-standard
+44057600	OMOP1052231	Budesonide Dry Powder Inhaler [Pulmicort Turbuhaler]	Branded Drug Form	Drug	RxNorm Extension	Valid	Standard
+44074078	OMOP1068709	Budesonide 0.2 MG / formoterol 0.006 MG Dry Powder Inhaler [Symbicort 100 Turbuhaler]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+44077264	OMOP1071895	Budesonide 0.1 MG / formoterol 0.006 MG Dry Powder Inhaler [Symbicort 100 Turbuhaler] by Astrazeneca	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44090165	OMOP1084796	Budesonide 0.2 MG / formoterol 0.006 MG Dry Powder Inhaler [Symbicort 100 Turbuhaler] by Astrazeneca	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44097799	OMOP1092430	Budesonide 0.1 MG/ACTUAT Dry Powder Inhaler	Clinical Drug	Drug	RxNorm Extension	Invalid	Non-standard
+44109187	OMOP1103818	Budesonide / formoterol Dry Powder Inhaler [Symbicort 100 Turbuhaler]	Branded Drug Form	Drug	RxNorm Extension	Valid	Standard
+44112768	OMOP1107399	Budesonide 0.1 MG / formoterol 0.006 MG Dry Powder Inhaler [Symbicort 100 Turbuhaler]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+44112770	OMOP1107401	Budesonide 0.09 MG/ACTUAT Dry Powder Inhaler [Pulmicort Turbuhaler]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+44129151	OMOP1123782	Budesonide 0.09 MG/ACTUAT Dry Powder Inhaler [Pulmicort Turbuhaler] by Astrazeneca	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44158879	OMOP3035602	Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler [Budesonid Merck]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+44162623	OMOP3039346	Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Benosid]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+44162624	OMOP3039347	Budesonide 0.2 MG/ACTUAT Dry Powder Inhaler [Budesonid Ct]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+44162625	OMOP3039348	Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler [Budes]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+44164667	OMOP3041390	Budesonide / formoterol Dry Powder Inhaler [Bufori 6]	Branded Drug Form	Drug	RxNorm Extension	Valid	Standard
+44166454	OMOP3043177	Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Budehaler]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+44170190	OMOP3046913	Budesonide 0.2 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler [Budfor]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+44170191	OMOP3046914	Budesonide 0.2 MG Dry Powder Inhaler [Budison] Box of 200	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+44170196	OMOP3046919	Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Respicort]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+44173924	OMOP3050647	Budesonide 0.4 MG/ACTUAT / formoterol 0.012 MG/ACTUAT Dry Powder Inhaler [Pulmelia]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+44173925	OMOP3050648	Budesonide 0.1 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler [Pulmelia]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+44173926	OMOP3050649	Budesonide 0.4 MG/ACTUAT / formoterol 0.012 MG/ACTUAT Dry Powder Inhaler [Budfor]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+44173930	OMOP3050653	Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler [Budecort]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+44175957	OMOP3052680	Budesonide / formoterol Dry Powder Inhaler [Buforifarm]	Branded Drug Form	Drug	RxNorm Extension	Valid	Standard
+44175958	OMOP3052681	Budesonide / formoterol Dry Powder Inhaler [Bufori 2]	Branded Drug Form	Drug	RxNorm Extension	Valid	Standard
+44177682	OMOP3054405	Budesonide 0.09 MG/ACTUAT Dry Powder Inhaler [Budesonid Merck]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+44179736	OMOP3056459	Budesonide / formoterol Dry Powder Inhaler [Bufori]	Branded Drug Form	Drug	RxNorm Extension	Valid	Standard
+44179738	OMOP3056461	Budesonide Dry Powder Inhaler [Budison]	Branded Drug Form	Drug	RxNorm Extension	Valid	Standard
+44181404	OMOP3058127	Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Budecort]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+44181405	OMOP3058128	Budesonide 0.09 MG/ACTUAT Dry Powder Inhaler [Budes]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+44181409	OMOP3058132	Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Pulmax]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+44183442	OMOP3060165	Budesonide Dry Powder Inhaler [Budehaler]	Branded Drug Form	Drug	RxNorm Extension	Valid	Standard
+44185129	OMOP3061852	Budesonide 0.2 MG Dry Powder Inhaler [Budison]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+44185132	OMOP3061855	Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Budesonid Heumann]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+44186632	OMOP3063355	Budesonide 0.2 MG Dry Powder Inhaler [Budison] Box of 200 by Wolff Bielefeld	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44187197	OMOP3063920	Budesonide / formoterol Dry Powder Inhaler [Pulmelia]	Branded Drug Form	Drug	RxNorm Extension	Valid	Standard
+44187640	OMOP3064363	Budesonide 0.2 MG/ACTUAT Dry Powder Inhaler	Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+44188993	OMOP3065716	Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Budesonid Merck]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+44188994	OMOP3065717	Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Budesonid Ct]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+44188998	OMOP3065721	Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler [Novopulmon]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+44217058	OMOP3093781	60 ACTUAT Budesonide 0.4 MG/ACTUAT / formoterol 0.012 MG/ACTUAT Dry Powder Inhaler [Pulmelia]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+44217059	OMOP3093782	60 ACTUAT Budesonide 0.1 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler [Symbicort]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+44217074	OMOP3093797	60 ACTUAT Budesonide 0.4 MG/ACTUAT / formoterol 0.012 MG/ACTUAT Dry Powder Inhaler [Duoresp] by Gerke	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44217075	OMOP3093798	60 ACTUAT Budesonide 0.4 MG/ACTUAT / formoterol 0.012 MG/ACTUAT Dry Powder Inhaler [Duoresp] by Emra-Med	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44217078	OMOP3093801	60 ACTUAT Budesonide 0.1 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler	Quant Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+44217085	OMOP3093808	60 ACTUAT Budesonide 0.1 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler [Pulmelia]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+44217101	OMOP3093824	60 ACTUAT Budesonide 0.4 MG/ACTUAT / formoterol 0.012 MG/ACTUAT Dry Powder Inhaler [Budfor] by Astrazeneca	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44217127	OMOP3093850	60 ACTUAT Budesonide 0.1 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler [Symbicort] by Veron	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44217129	OMOP3093852	60 ACTUAT Budesonide 0.4 MG/ACTUAT / formoterol 0.012 MG/ACTUAT Dry Powder Inhaler [Symbicort] by Milinda Am	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44217130	OMOP3093853	60 ACTUAT Budesonide 0.4 MG/ACTUAT / formoterol 0.012 MG/ACTUAT Dry Powder Inhaler [Symbicort] by Gerke	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44217131	OMOP3093854	60 ACTUAT Budesonide 0.4 MG/ACTUAT / formoterol 0.012 MG/ACTUAT Dry Powder Inhaler [Duoresp] by Orifarm Leverkus	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44217132	OMOP3093855	60 ACTUAT Budesonide 0.4 MG/ACTUAT / formoterol 0.012 MG/ACTUAT Dry Powder Inhaler [Duoresp] by Eurim-Pharm	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44217140	OMOP3093863	60 ACTUAT Budesonide 0.4 MG/ACTUAT / formoterol 0.012 MG/ACTUAT Dry Powder Inhaler [Budfor]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+44217247	OMOP3093970	60 ACTUAT Budesonide 0.4 MG/ACTUAT / formoterol 0.012 MG/ACTUAT Dry Powder Inhaler [Symbicort] by Cc	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44217248	OMOP3093971	60 ACTUAT Budesonide 0.4 MG/ACTUAT / formoterol 0.012 MG/ACTUAT Dry Powder Inhaler [Duoresp] by 2care4	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44217322	OMOP3094045	100 ACTUAT Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler [Budesonid Merck]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+44217336	OMOP3094059	100 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Pulmicort] by Orifarm Leverkus	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44217337	OMOP3094060	100 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Pulmicort] by Eurim-Pharm	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44217338	OMOP3094061	100 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Novopulmon] by Meda	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44217339	OMOP3094062	100 ACTUAT Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler by Orion	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44217345	OMOP3094068	100 ACTUAT Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler [Budes]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+44217360	OMOP3094083	100 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Pulmicort] by MZG	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44217361	OMOP3094084	100 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Pulmicort] by Mtk	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44217362	OMOP3094085	100 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Budecort] by Astellas	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44217363	OMOP3094086	100 ACTUAT Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler [Budesonid Merck] by Mylan	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44217364	OMOP3094087	100 ACTUAT Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler [Budecort] by Astellas	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44217379	OMOP3094102	100 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Pulmicort] by Kohlpharma	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44217380	OMOP3094103	100 ACTUAT Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler [Budes] by Novartis	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44217384	OMOP3094107	100 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Budecort]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+44217385	OMOP3094108	100 ACTUAT Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler [Budecort]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+44217410	OMOP3094133	100 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Novopulmon]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+44217411	OMOP3094134	100 ACTUAT Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler [Novopulmon]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+44217427	OMOP3094150	100 ACTUAT Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler [Novopulmon] by Meda	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44217445	OMOP3094168	100 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Pulmicort] by Emra-Med	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44217466	OMOP3094189	100 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Pulmicort] by Gerke	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44217530	OMOP3094253	120 ACTUAT Budesonide 0.2 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler [Duoresp] by Eurim-Pharm	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44217531	OMOP3094254	120 ACTUAT Budesonide 0.2 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler [Duoresp] by Aca Mueller	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44217580	OMOP3094303	120 ACTUAT Budesonide 0.2 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler [Symbicort] by Beragena	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44217598	OMOP3094321	120 ACTUAT Budesonide 0.1 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler [Symbicort] by Eurim-Pharm	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44217600	OMOP3094323	120 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler by Orion	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44217621	OMOP3094344	120 ACTUAT Budesonide 0.2 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler [Duoresp] by Abacus Medicine	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44217676	OMOP3094399	120 ACTUAT Budesonide 0.1 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler [Symbicort] by Veron	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44217697	OMOP3094420	120 ACTUAT Budesonide 0.2 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler [Duoresp] by Emra-Med	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44217804	OMOP3094527	160 ACTUAT Budesonide 0.2 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler	Quant Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+44217805	OMOP3094528	160 ACTUAT Budesonide 0.2 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler [Budfor] by Astrazeneca	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44217806	OMOP3094529	160 ACTUAT Budesonide 0.2 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler [Budfor]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+44217811	OMOP3094534	200 ACTUAT Budesonide 0.2 MG/ACTUAT Dry Powder Inhaler	Quant Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+44217851	OMOP3094574	200 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Benosid]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+44217870	OMOP3094593	200 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Pulmicort] by MZG	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44217871	OMOP3094594	200 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Budesonid Heumann] by Heumann	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44217872	OMOP3094595	200 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler by Orion	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44217873	OMOP3094596	200 ACTUAT Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler [Pulmicort] by Eurim-Pharm	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44217888	OMOP3094611	200 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Respicort]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+44217889	OMOP3094612	200 ACTUAT Budesonide 0.2 MG/ACTUAT Dry Powder Inhaler [Budesonid Ct]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+44217905	OMOP3094628	200 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Pulmicort] by Orifarm Leverkus	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44217906	OMOP3094629	200 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Pulmicort] by Eurim-Pharm	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44217907	OMOP3094630	200 ACTUAT Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler [Pulmicort] by Orifarm Leverkus	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44217908	OMOP3094631	200 ACTUAT Budesonide 0.09 MG/ACTUAT Dry Powder Inhaler [Budes] by Novartis	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44217929	OMOP3094652	200 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Budesonid Merck]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+44217952	OMOP3094675	200 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Budiair] by Eurim-Pharm	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44217960	OMOP3094683	200 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Respicort] by Mundipharma	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44217961	OMOP3094684	200 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Pulmicort] by Kohlpharma	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44217962	OMOP3094685	200 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Pulmicort] by Gerke	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44217963	OMOP3094686	200 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Pulmicort] by Astrazeneca	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44217964	OMOP3094687	200 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Budesonid Merck] by Mylan	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44217965	OMOP3094688	200 ACTUAT Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler [Pulmicort] by Beragena	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44217967	OMOP3094690	200 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Pulmax] by TEVA	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44217978	OMOP3094701	200 ACTUAT Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler	Quant Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+44217986	OMOP3094709	200 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Budesonid Heumann]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+44217987	OMOP3094710	200 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Budesonid Ct]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+44217988	OMOP3094711	200 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Budehaler]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+44217989	OMOP3094712	200 ACTUAT Budesonide 0.09 MG/ACTUAT Dry Powder Inhaler [Budes]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+44218010	OMOP3094733	200 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Pulmicort] by Mtk	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44218011	OMOP3094734	200 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Pulmicort] by Cc	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44218012	OMOP3094735	200 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler by Ratiopharm	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44218013	OMOP3094736	200 ACTUAT Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler [Pulmicort] by Emra-Med	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44218016	OMOP3094739	200 ACTUAT Budesonide 0.09 MG/ACTUAT Dry Powder Inhaler by Orion	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44218038	OMOP3094761	200 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Pulmicort]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+44218039	OMOP3094762	200 ACTUAT Budesonide 0.09 MG/ACTUAT Dry Powder Inhaler [Budesonid Merck]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+44218057	OMOP3094780	200 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Budiair] by Emra-Med	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44218061	OMOP3094784	200 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Budes] by Novartis	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44218062	OMOP3094785	200 ACTUAT Budesonide 0.2 MG/ACTUAT Dry Powder Inhaler [Budesonid Ct] by Ct	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44218063	OMOP3094786	200 ACTUAT Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler [Pulmicort] by Kohlpharma	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44218112	OMOP3094835	200 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Budesonid Ct] by Ct	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44218113	OMOP3094836	200 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Budecort] by Astellas	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44218114	OMOP3094837	200 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Benosid] by Farmasan	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44218115	OMOP3094838	200 ACTUAT Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler [Pulmicort] by Astrazeneca	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44218117	OMOP3094840	200 ACTUAT Budesonide 0.09 MG/ACTUAT Dry Powder Inhaler [Budesonid Merck] by Mylan	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44218132	OMOP3094855	200 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Budecort]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+44218133	OMOP3094856	200 ACTUAT Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler [Pulmicort]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+44218134	OMOP3094857	200 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Pulmax]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+44218156	OMOP3094879	200 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Pulmicort] by Emra-Med	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44218157	OMOP3094880	200 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Budehaler] by Mibe	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44218158	OMOP3094881	200 ACTUAT Budesonide 0.4 MG/ACTUAT Dry Powder Inhaler [Pulmicort] by Mtk	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44462351	50090223900	120 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Pulmicort]	11-digit NDC	Drug	NDC	Valid	Non-standard
+44900694	54569474100	200 ACTUAT Budesonide 0.16 MG/ACTUAT Dry Powder Inhaler [Pulmicort]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+44918123	54868429500	200 ACTUAT Budesonide 0.16 MG/ACTUAT Dry Powder Inhaler [Pulmicort]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+44963950	21695029101	60 ACTUAT Budesonide 0.09 MG/ACTUAT Dry Powder Inhaler [Pulmicort]	11-digit NDC	Drug	NDC	Valid	Non-standard
+45043908	00186091706	60 ACTUAT Budesonide 0.09 MG/ACTUAT Dry Powder Inhaler [Pulmicort]	11-digit NDC	Drug	NDC	Valid	Non-standard
+45117194	17228091700	60 ACTUAT Budesonide 0.08 MG/ACTUAT Dry Powder Inhaler [Pulmicort]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45128874	00186091665	120 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Pulmicort]	11-digit NDC	Drug	NDC	Valid	Non-standard
+45128875	00186091765	60 ACTUAT Budesonide 0.09 MG/ACTUAT Dry Powder Inhaler [Pulmicort]	11-digit NDC	Drug	NDC	Valid	Non-standard
+45134019	17228091600	120 ACTUAT Budesonide 0.16 MG/ACTUAT Dry Powder Inhaler [Pulmicort]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45138732	54569592800	120 ACTUAT Budesonide 0.16 MG/ACTUAT Dry Powder Inhaler [Pulmicort]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45265765	00186091566	200 ACTUAT Budesonide 0.16 MG/ACTUAT Dry Powder Inhaler [Pulmicort]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45299964	00186091542	200 ACTUAT Budesonide 0.16 MG/ACTUAT Dry Powder Inhaler [Pulmicort]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45316961	00186091612	120 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Pulmicort]	11-digit NDC	Drug	NDC	Valid	Non-standard
+45378301	54868584400	120 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Pulmicort]	11-digit NDC	Drug	NDC	Valid	Non-standard
+45972514	4378111000001103	Budesonide 400micrograms/dose / Formoterol 12micrograms/dose dry powder inhaler	Pharma/Biol Product	Drug	SNOMED	Valid	Non-standard
+46004820	10073911000001106	Easyhaler Budesonide 100micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd)	Pharma/Biol Product	Drug	SNOMED	Valid	Non-standard
+46004821	10074411000001100	Easyhaler Budesonide 400micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd)	Pharma/Biol Product	Drug	SNOMED	Valid	Non-standard
+46004822	10074611000001102	Easyhaler Budesonide 200micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd)	Pharma/Biol Product	Drug	SNOMED	Valid	Non-standard
+46091845	10074711000001106	Budesonide 200micrograms/dose dry powder inhaler 200 dose	Pharma/Biol Product	Drug	SNOMED	Valid	Non-standard
+46091846	10074311000001107	Budesonide 400micrograms/dose dry powder inhaler 100 dose	Pharma/Biol Product	Drug	SNOMED	Valid	Non-standard
+46098740	4373411000001102	Budesonide 400micrograms/dose / Formoterol 12micrograms/dose dry powder inhaler 60 dose	Pharma/Biol Product	Drug	SNOMED	Valid	Non-standard
+46100687	3294411000001102	Budesonide 200micrograms/dose / Formoterol 6micrograms/dose dry powder inhaler 120 dose	Pharma/Biol Product	Drug	SNOMED	Valid	Non-standard
+46100688	3294111000001107	Budesonide 100micrograms/dose / Formoterol 6micrograms/dose dry powder inhaler 120 dose	Pharma/Biol Product	Drug	SNOMED	Valid	Non-standard
+46100835	3228111000001105	Budesonide 400micrograms/dose dry powder inhaler 50 dose	Pharma/Biol Product	Drug	SNOMED	Valid	Non-standard
+46101018	3112811000001107	Budesonide 100micrograms/dose dry powder inhaler 200 dose	Pharma/Biol Product	Drug	SNOMED	Valid	Non-standard
+46101019	3112311000001103	Budesonide 200micrograms/dose dry powder inhaler 100 dose	Pharma/Biol Product	Drug	SNOMED	Valid	Non-standard
+46139983	10074011000001109	Easyhaler Budesonide 100micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd) 200 dose	Pharma/Biol Product	Drug	SNOMED	Valid	Non-standard
+46139984	10074511000001101	Easyhaler Budesonide 400micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd) 100 dose	Pharma/Biol Product	Drug	SNOMED	Valid	Non-standard
+46139985	10074811000001103	Easyhaler Budesonide 200micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd) 200 dose	Pharma/Biol Product	Drug	SNOMED	Valid	Non-standard
+939624	746825	200 ACTUAT Budesonide 0.2 MG/ACTUAT Dry Powder Inhaler	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+939625	746827	200 ACTUAT Budesonide 0.2 MG/ACTUAT Dry Powder Inhaler [Pulmicort]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+939626	746828	120 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+939627	746829	120 ACTUAT Budesonide 0.18 MG/ACTUAT Dry Powder Inhaler [Pulmicort]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+939629	746831	60 ACTUAT Budesonide 0.09 MG/ACTUAT Dry Powder Inhaler [Pulmicort]	Branded Drug	Drug	RxNorm	Invalid	Non-standard

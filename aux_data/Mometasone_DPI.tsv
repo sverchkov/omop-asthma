@@ -1,0 +1,117 @@
+Id	Code	Name	Concept Class Id	Domain	Vocabulary	Invalid Reason	Standard Concept
+19127762	746803	120 ACTUAT mometasone furoate 0.22 MG/ACTUAT Dry Powder Inhaler	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+19127763	746804	120 ACTUAT mometasone furoate 0.22 MG/ACTUAT Dry Powder Inhaler [Asmanex]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+19127768	746810	14 ACTUAT mometasone furoate 0.22 MG/ACTUAT Dry Powder Inhaler	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+19129673	790278	7 ACTUAT mometasone furoate 0.11 MG/ACTUAT Dry Powder Inhaler	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+19129675	790280	7 ACTUAT mometasone furoate 0.11 MG/ACTUAT Dry Powder Inhaler [Asmanex]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+19129676	790283	30 ACTUAT mometasone furoate 0.11 MG/ACTUAT Dry Powder Inhaler	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+19129677	790284	30 ACTUAT mometasone furoate 0.11 MG/ACTUAT Dry Powder Inhaler [Asmanex]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+21030408	OMOP317236	30 ACTUAT Mometasone 0.4 MG/ACTUAT Dry Powder Inhaler	Quant Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+21037216	OMOP277813	Mometasone 0.4 MG/ACTUAT Dry Powder Inhaler [Asmanex]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+21059863	OMOP320295	60 ACTUAT Mometasone 0.4 MG/ACTUAT Dry Powder Inhaler [Asmanex] by Mawdsley-Brooks	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21108977	OMOP317238	30 ACTUAT Mometasone 0.4 MG/ACTUAT Dry Powder Inhaler [Asmanex] by Merck	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21108990	OMOP320298	60 ACTUAT Mometasone 0.2 MG/ACTUAT Dry Powder Inhaler [Asmanex] by Merck	Marketed Product	Drug	RxNorm Extension	Invalid	Non-standard
+21115781	OMOP277814	Mometasone 0.4 MG/ACTUAT Dry Powder Inhaler [Asmanex] by Mawdsley-Brooks	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21115782	OMOP277815	Mometasone 0.4 MG/ACTUAT Dry Powder Inhaler [Asmanex] by Merck	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21115783	OMOP277818	Mometasone 0.2 MG/ACTUAT Dry Powder Inhaler [Asmanex] by Merck	Marketed Product	Drug	RxNorm Extension	Invalid	Non-standard
+21118702	OMOP317237	30 ACTUAT Mometasone 0.4 MG/ACTUAT Dry Powder Inhaler [Asmanex]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+21138357	OMOP320294	60 ACTUAT Mometasone 0.4 MG/ACTUAT Dry Powder Inhaler [Asmanex]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+21138358	OMOP320297	60 ACTUAT Mometasone 0.22 MG/ACTUAT Dry Powder Inhaler [Asmanex] by Waymade	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21145221	OMOP277812	Mometasone 0.4 MG/ACTUAT Dry Powder Inhaler	Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+21158177	OMOP317240	30 ACTUAT Mometasone 0.2 MG/ACTUAT Dry Powder Inhaler [Asmanex] by Merck	Marketed Product	Drug	RxNorm Extension	Invalid	Non-standard
+21164978	OMOP277817	Mometasone 0.22 MG/ACTUAT Dry Powder Inhaler [Asmanex] by Waymade	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21177676	OMOP320293	60 ACTUAT Mometasone 0.4 MG/ACTUAT Dry Powder Inhaler	Quant Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+21177677	OMOP320296	60 ACTUAT Mometasone 0.4 MG/ACTUAT Dry Powder Inhaler [Asmanex] by Merck	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+21181228	4053811000001101	Mometasone 200micrograms/actuation dry powder inhaler	VMP	Drug	dm+d	Invalid	Non-standard
+21188799	4043311000001107	Mometasone 400micrograms/dose dry powder inhaler 60 dose	VMPP	Drug	dm+d	Valid	Non-standard
+21188800	4043211000001104	Mometasone 400micrograms/dose dry powder inhaler 30 dose	VMPP	Drug	dm+d	Valid	Non-standard
+21218329	408013007	Mometasone 400micrograms/dose dry powder inhaler	VMP	Drug	dm+d	Valid	Non-standard
+21226210	4045111000001106	Mometasone 200micrograms/dose dry powder inhaler 30 dose	VMPP	Drug	dm+d	Valid	Non-standard
+21274004	408026006	Mometasone 200micrograms/dose dry powder inhaler	VMP	Drug	dm+d	Valid	Non-standard
+21281944	4045211000001100	Mometasone 200micrograms/dose dry powder inhaler 60 dose	VMPP	Drug	dm+d	Valid	Non-standard
+21293134	4053911000001106	Mometasone 400micrograms/actuation dry powder inhaler	VMP	Drug	dm+d	Invalid	Non-standard
+35421230	OMOP1154815	30 ACTUAT Mometasone 0.2 MG/ACTUAT Dry Powder Inhaler [ASMANEX TWISTHALER]	Quant Branded Drug	Drug	RxNorm Extension	Invalid	Non-standard
+35421232	OMOP1154817	30 ACTUAT Mometasone 0.22 MG/ACTUAT Dry Powder Inhaler [Asmanex] by Merck	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+35421235	OMOP1154820	30 ACTUAT Mometasone 0.4 MG/ACTUAT Dry Powder Inhaler [ASMANEX TWISTHALER] by Merck	Marketed Product	Drug	RxNorm Extension	Invalid	Non-standard
+35421236	OMOP1154821	30 ACTUAT Mometasone 0.2 MG/ACTUAT Dry Powder Inhaler	Quant Clinical Drug	Drug	RxNorm Extension	Invalid	Non-standard
+35421240	OMOP1154825	30 ACTUAT Mometasone 0.4 MG/ACTUAT Dry Powder Inhaler [ASMANEX TWISTHALER]	Quant Branded Drug	Drug	RxNorm Extension	Invalid	Non-standard
+35421252	OMOP1154837	60 ACTUAT Mometasone 0.4 MG/ACTUAT Dry Powder Inhaler [ASMANEX TWISTHALER]	Quant Branded Drug	Drug	RxNorm Extension	Invalid	Non-standard
+35421255	OMOP1154840	60 ACTUAT Mometasone 0.2 MG/ACTUAT Dry Powder Inhaler	Quant Clinical Drug	Drug	RxNorm Extension	Invalid	Non-standard
+35421260	OMOP1154845	60 ACTUAT Mometasone 0.22 MG/ACTUAT Dry Powder Inhaler [Asmanex] by Merck	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+35421262	OMOP1154847	60 ACTUAT Mometasone 0.4 MG/ACTUAT Dry Powder Inhaler [ASMANEX TWISTHALER] by Merck	Marketed Product	Drug	RxNorm Extension	Invalid	Non-standard
+35421267	OMOP1154852	60 ACTUAT Mometasone 0.2 MG/ACTUAT Dry Powder Inhaler [ASMANEX TWISTHALER]	Quant Branded Drug	Drug	RxNorm Extension	Invalid	Non-standard
+36421383	OMOP4763665	Mometasone 0.2 MG Dry Powder Inhaler [Asmanex] Box of 1	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+36421384	OMOP4763666	Mometasone 0.2 MG Dry Powder Inhaler [Asmanex]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+36421385	OMOP4763667	Mometasone 0.2 MG Dry Powder Inhaler Box of 1	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+36686792	13261601000001100	Mometasone 400micrograms/dose dry powder inhaler	Pharma/Biol Product	Drug	SNOMED	Valid	Non-standard
+36686793	13261701000001105	Mometasone 200micrograms/dose dry powder inhaler	Pharma/Biol Product	Drug	SNOMED	Valid	Non-standard
+40143326	746792	Mometasone Dry Powder Inhaler	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40143327	746795	Mometasone Dry Powder Inhaler [Asmanex]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+41061230	OMOP2259192	Mometasone 0.37 MG Dry Powder Inhaler [Asmanex]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41116023	OMOP2313985	Mometasone 0.37 MG Dry Powder Inhaler Box of 30	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+41116024	OMOP2313986	Mometasone 0.37 MG Dry Powder Inhaler Box of 14	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+41123995	OMOP2321957	Mometasone 0.37 MG Dry Powder Inhaler [Asmanex] Box of 60	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41147523	OMOP2345485	Mometasone 0.37 MG Dry Powder Inhaler Box of 60	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+41197213	OMOP2395175	Mometasone 0.37 MG Dry Powder Inhaler [Asmanex] Box of 30 by Merck	Marketed Product	Drug	RxNorm Extension	Invalid	Non-standard
+41228277	OMOP2426239	Mometasone 0.37 MG Dry Powder Inhaler [Asmanex] Box of 14 by Merck	Marketed Product	Drug	RxNorm Extension	Invalid	Non-standard
+41248879	OMOP2446841	Mometasone 0.37 MG Dry Powder Inhaler [Asmanex] Box of 30	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41279677	OMOP2477639	Mometasone 0.37 MG Dry Powder Inhaler [Asmanex] Box of 14	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41321474	OMOP2519436	Mometasone 0.37 MG Dry Powder Inhaler [Asmanex] Box of 60 by Merck	Marketed Product	Drug	RxNorm Extension	Invalid	Non-standard
+4213639	417401001	Mometasone furoate 200micrograms cap activated dry powder inhaler	Pharma/Biol Product	Drug	SNOMED	Valid	Non-standard
+42479561	OMOP418693	Mometasone 0.2 MG/ACTUAT Dry Powder Inhaler [Asmanex]	Branded Drug	Drug	RxNorm Extension	Invalid	Non-standard
+42483093	OMOP418692	Mometasone 0.2 MG/ACTUAT Dry Powder Inhaler	Clinical Drug	Drug	RxNorm Extension	Invalid	Non-standard
+4250459	408013007	Mometasone 400micrograms/dose dry powder inhaler	Pharma/Biol Product	Drug	SNOMED	Invalid	Non-standard
+4255031	408026006	Mometasone 200micrograms/dose dry powder inhaler	Pharma/Biol Product	Drug	SNOMED	Invalid	Non-standard
+42620383	OMOP2800578	Mometasone 0.2 MG/ACTUAT Dry Powder Inhaler	Clinical Drug	Drug	RxNorm Extension	Invalid	Non-standard
+42620979	OMOP2800910	Mometasone 0.2 MG/ACTUAT Dry Powder Inhaler [Asmanex]	Branded Drug	Drug	RxNorm Extension	Invalid	Non-standard
+42621141	OMOP2800165	30 ACTUAT Mometasone 0.2 MG/ACTUAT Dry Powder Inhaler	Quant Clinical Drug	Drug	RxNorm Extension	Invalid	Non-standard
+42621142	OMOP2801118	30 ACTUAT Mometasone 0.2 MG/ACTUAT Dry Powder Inhaler [Asmanex]	Quant Branded Drug	Drug	RxNorm Extension	Invalid	Non-standard
+42621145	OMOP2800150	60 ACTUAT Mometasone 0.2 MG/ACTUAT Dry Powder Inhaler	Quant Clinical Drug	Drug	RxNorm Extension	Invalid	Non-standard
+42621146	OMOP2801426	60 ACTUAT Mometasone 0.2 MG/ACTUAT Dry Powder Inhaler [Asmanex]	Quant Branded Drug	Drug	RxNorm Extension	Invalid	Non-standard
+42902350	1359463	mometasone furoate 0.11 MG/ACTUAT Dry Powder Inhaler [Asmanex]	Branded Drug	Drug	RxNorm	Valid	Standard
+42902386	1359499	mometasone furoate 0.22 MG/ACTUAT Dry Powder Inhaler	Clinical Drug	Drug	RxNorm	Valid	Standard
+42902498	1359611	mometasone furoate 0.22 MG/ACTUAT Dry Powder Inhaler [Asmanex]	Branded Drug	Drug	RxNorm	Valid	Standard
+42902513	1359626	mometasone furoate 0.11 MG/ACTUAT Dry Powder Inhaler	Clinical Drug	Drug	RxNorm	Valid	Standard
+43144457	OMOP488306	Mometasone Dry Powder Inhaler [ASMANEX TWISTHALER]	Branded Drug Form	Drug	RxNorm Extension	Invalid	Non-standard
+43144460	OMOP488395	Mometasone 0.2 MG Dry Powder Inhaler	Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+43166605	OMOP488404	Mometasone 0.2 MG Dry Powder Inhaler [Asmanex]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+43177632	OMOP488554	Mometasone 0.37 MG Dry Powder Inhaler [ASMANEX TWISTHALER]	Branded Drug	Drug	RxNorm Extension	Invalid	Non-standard
+43199618	OMOP488547	Mometasone 0.37 MG Dry Powder Inhaler	Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+43210393	OMOP488412	Mometasone 0.2 MG Dry Powder Inhaler [Asmanex] by Merck	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+43210397	OMOP488559	Mometasone 0.37 MG Dry Powder Inhaler [Asmanex] by Merck	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44060275	OMOP1054906	Mometasone 0.2 MG/ACTUAT Dry Powder Inhaler [ASMANEX TWISTHALER]	Branded Drug	Drug	RxNorm Extension	Invalid	Non-standard
+44060276	OMOP1054907	Mometasone 0.4 MG/ACTUAT Dry Powder Inhaler [ASMANEX TWISTHALER]	Branded Drug	Drug	RxNorm Extension	Invalid	Non-standard
+44085977	OMOP1080608	Mometasone 0.11 MG/ACTUAT Dry Powder Inhaler [ASMANEX TWISTHALER]	Branded Drug	Drug	RxNorm Extension	Invalid	Non-standard
+44097090	OMOP1091721	Mometasone 0.1 MG/ACTUAT Dry Powder Inhaler	Clinical Drug	Drug	RxNorm Extension	Invalid	Non-standard
+44101591	OMOP1096222	Mometasone 0.11 MG/ACTUAT Dry Powder Inhaler [Asmanex] by Merck	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44114445	OMOP1109076	Mometasone 0.4 MG/ACTUAT Dry Powder Inhaler [ASMANEX TWISTHALER] by Merck	Marketed Product	Drug	RxNorm Extension	Invalid	Non-standard
+44123121	OMOP1117752	Mometasone 0.2 MG/ACTUAT Dry Powder Inhaler	Clinical Drug	Drug	RxNorm Extension	Invalid	Non-standard
+44127577	OMOP1122208	Mometasone 0.22 MG/ACTUAT Dry Powder Inhaler [Asmanex] by Merck	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44216210	OMOP3092933	14 ACTUAT Mometasone 0.4 MG/ACTUAT Dry Powder Inhaler [Asmanex]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+44216211	OMOP3092934	14 ACTUAT Mometasone 0.4 MG/ACTUAT Dry Powder Inhaler	Quant Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+44216212	OMOP3092935	14 ACTUAT Mometasone 0.4 MG/ACTUAT Dry Powder Inhaler [Asmanex] by Merck	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44838710	00085134103	30 ACTUAT mometasone furoate 0.22 MG/ACTUAT Dry Powder Inhaler [Asmanex]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+44855886	00085134101	120 ACTUAT mometasone furoate 0.22 MG/ACTUAT Dry Powder Inhaler [Asmanex]	11-digit NDC	Drug	NDC	Valid	Non-standard
+44872849	00085134102	60 ACTUAT mometasone furoate 0.22 MG/ACTUAT Dry Powder Inhaler [Asmanex]	11-digit NDC	Drug	NDC	Valid	Non-standard
+44890070	00085134105	14 ACTUAT mometasone furoate 0.22 MG/ACTUAT Dry Powder Inhaler [Asmanex]	11-digit NDC	Drug	NDC	Valid	Non-standard
+44896850	35356009914	14 ACTUAT mometasone furoate 0.22 MG/ACTUAT Dry Powder Inhaler [Asmanex]	11-digit NDC	Drug	NDC	Valid	Non-standard
+44901169	54868554700	60 ACTUAT mometasone furoate 0.22 MG/ACTUAT Dry Powder Inhaler [Asmanex]	11-digit NDC	Drug	NDC	Valid	Non-standard
+44957964	00085146106	7 ACTUAT mometasone furoate 0.11 MG/ACTUAT Dry Powder Inhaler [Asmanex]	11-digit NDC	Drug	NDC	Valid	Non-standard
+44991864	00085134104	14 ACTUAT mometasone furoate 0.22 MG/ACTUAT Dry Powder Inhaler [Asmanex]	11-digit NDC	Drug	NDC	Valid	Non-standard
+45009017	00085134107	30 ACTUAT mometasone furoate 0.22 MG/ACTUAT Dry Powder Inhaler [Asmanex]	11-digit NDC	Drug	NDC	Valid	Non-standard
+45105178	54868554701	30 ACTUAT mometasone furoate 0.22 MG/ACTUAT Dry Powder Inhaler [Asmanex]	11-digit NDC	Drug	NDC	Valid	Non-standard
+45190393	54868554702	14 ACTUAT mometasone furoate 0.22 MG/ACTUAT Dry Powder Inhaler [Asmanex]	11-digit NDC	Drug	NDC	Valid	Non-standard
+45299281	00085146102	30 ACTUAT mometasone furoate 0.11 MG/ACTUAT Dry Powder Inhaler [Asmanex]	11-digit NDC	Drug	NDC	Valid	Non-standard
+45350267	00085134106	14 ACTUAT mometasone furoate 0.22 MG/ACTUAT Dry Powder Inhaler [Asmanex]	11-digit NDC	Drug	NDC	Valid	Non-standard
+45350269	00085146107	7 ACTUAT mometasone furoate 0.11 MG/ACTUAT Dry Powder Inhaler [Asmanex]	11-digit NDC	Drug	NDC	Valid	Non-standard
+45974593	4053911000001106	Mometasone 400micrograms/dose dry powder inhaler	Pharma/Biol Product	Drug	SNOMED	Invalid	Non-standard
+45974594	4053811000001101	Mometasone 200micrograms/dose dry powder inhaler	Pharma/Biol Product	Drug	SNOMED	Invalid	Non-standard
+46099391	4045211000001100	Mometasone 200micrograms/dose dry powder inhaler 60 dose	Pharma/Biol Product	Drug	SNOMED	Valid	Non-standard
+46099392	4045111000001106	Mometasone 200micrograms/dose dry powder inhaler 30 dose	Pharma/Biol Product	Drug	SNOMED	Valid	Non-standard
+46099398	4043311000001107	Mometasone 400micrograms/dose dry powder inhaler 60 dose	Pharma/Biol Product	Drug	SNOMED	Valid	Non-standard
+46099399	4043211000001104	Mometasone 400micrograms/dose dry powder inhaler 30 dose	Pharma/Biol Product	Drug	SNOMED	Valid	Non-standard
+905271	746811	14 ACTUAT mometasone furoate 0.22 MG/ACTUAT Dry Powder Inhaler [Asmanex]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+905292	746812	30 ACTUAT mometasone furoate 0.22 MG/ACTUAT Dry Powder Inhaler	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+905293	746813	30 ACTUAT mometasone furoate 0.22 MG/ACTUAT Dry Powder Inhaler [Asmanex]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+905294	746814	60 ACTUAT mometasone furoate 0.22 MG/ACTUAT Dry Powder Inhaler	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+905295	746815	60 ACTUAT mometasone furoate 0.22 MG/ACTUAT Dry Powder Inhaler [Asmanex]	Quant Branded Drug	Drug	RxNorm	Valid	Standard

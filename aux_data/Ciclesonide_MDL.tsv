@@ -1,0 +1,79 @@
+Id	Code	Name	Concept Class Id	Domain	Vocabulary	Invalid Reason	Standard Concept
+19130450	799034	60 ACTUAT ciclesonide 0.16 MG/ACTUAT Metered Dose Inhaler	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+19130452	799037	60 ACTUAT ciclesonide 0.16 MG/ACTUAT Metered Dose Inhaler [Alvesco]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+19130453	799038	60 ACTUAT ciclesonide 0.08 MG/ACTUAT Metered Dose Inhaler	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+19130455	799040	60 ACTUAT ciclesonide 0.08 MG/ACTUAT Metered Dose Inhaler [Alvesco]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+19133104	825320	120 ACTUAT ciclesonide 0.16 MG/ACTUAT Metered Dose Inhaler [Alvesco]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+40152662	799033	ciclesonide Metered Dose Inhaler	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40152663	799036	ciclesonide Metered Dose Inhaler [Alvesco]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40848399	OMOP2046361	ciclesonide 0.16 MG/ACTUAT Metered Dose Inhaler [Alvesco] Box of 120	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+40868403	OMOP2066365	ciclesonide 0.08 MG/ACTUAT Metered Dose Inhaler Box of 120	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+41004197	OMOP2202159	ciclesonide 0.08 MG/ACTUAT Metered Dose Inhaler [Alvesco] Box of 120	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41086871	OMOP2284833	ciclesonide 0.16 MG/ACTUAT Metered Dose Inhaler Box of 60	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+41149623	OMOP2347585	ciclesonide 0.16 MG/ACTUAT Metered Dose Inhaler Box of 120	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+41316235	OMOP2514197	ciclesonide 0.16 MG/ACTUAT Metered Dose Inhaler [Alvesco] Box of 60	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41521453	OMOP2719415	60 ACTUAT ciclesonide 0.16 MG/ACTUAT Metered Dose Inhaler Box of 60	Quant Clinical Box	Drug	RxNorm Extension	Valid	Standard
+41521491	OMOP2719453	60 ACTUAT ciclesonide 0.16 MG/ACTUAT Metered Dose Inhaler [Alvesco] Box of 60 by Axicorp	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41521510	OMOP2719472	60 ACTUAT ciclesonide 0.16 MG/ACTUAT Metered Dose Inhaler [Alvesco] Box of 60 by Gerke	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41521517	OMOP2719479	60 ACTUAT ciclesonide 0.16 MG/ACTUAT Metered Dose Inhaler [Alvesco] by Gerke	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41521525	OMOP2719487	60 ACTUAT ciclesonide 0.16 MG/ACTUAT Metered Dose Inhaler [Alvesco] Box of 60	Quant Branded Box	Drug	RxNorm Extension	Valid	Standard
+41521532	OMOP2719494	60 ACTUAT ciclesonide 0.16 MG/ACTUAT Metered Dose Inhaler [Alvesco] Box of 60 by Emra-Med	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41521559	OMOP2719521	60 ACTUAT ciclesonide 0.16 MG/ACTUAT Metered Dose Inhaler [Alvesco] by Emra-Med	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41521588	OMOP2719550	60 ACTUAT ciclesonide 0.08 MG/ACTUAT Metered Dose Inhaler [Alvesco] by Gerke	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41521590	OMOP2719552	60 ACTUAT ciclesonide 0.16 MG/ACTUAT Metered Dose Inhaler [Alvesco] Box of 60 by Cc	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41521591	OMOP2719553	60 ACTUAT ciclesonide 0.16 MG/ACTUAT Metered Dose Inhaler [Alvesco] Box of 60 by Aca Mueller	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41521602	OMOP2719564	60 ACTUAT ciclesonide 0.16 MG/ACTUAT Metered Dose Inhaler [Alvesco] Box of 60 by Kohlpharma	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41521604	OMOP2719566	60 ACTUAT ciclesonide 0.16 MG/ACTUAT Metered Dose Inhaler [Alvesco] Box of 60 by Eurim-Pharm	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41521605	OMOP2719567	60 ACTUAT ciclesonide 0.16 MG/ACTUAT Metered Dose Inhaler [Alvesco] by Axicorp	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41522343	OMOP2720305	120 ACTUAT ciclesonide 0.08 MG/ACTUAT Metered Dose Inhaler [Alvesco] Box of 120 by Astrazeneca	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41522352	OMOP2720314	120 ACTUAT ciclesonide 0.16 MG/ACTUAT Metered Dose Inhaler Box of 120	Quant Clinical Box	Drug	RxNorm Extension	Valid	Standard
+41522381	OMOP2720343	120 ACTUAT ciclesonide 0.08 MG/ACTUAT Metered Dose Inhaler [Alvesco]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41522382	OMOP2720344	120 ACTUAT ciclesonide 0.16 MG/ACTUAT Metered Dose Inhaler [Alvesco] Box of 120	Quant Branded Box	Drug	RxNorm Extension	Valid	Standard
+41522386	OMOP2720348	120 ACTUAT ciclesonide 0.08 MG/ACTUAT Metered Dose Inhaler [Alvesco] Box of 120 by Cc	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41522387	OMOP2720349	120 ACTUAT ciclesonide 0.16 MG/ACTUAT Metered Dose Inhaler [Alvesco] Box of 120 by Takeda	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41522390	OMOP2720352	120 ACTUAT ciclesonide 0.08 MG/ACTUAT Metered Dose Inhaler	Quant Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+41522400	OMOP2720362	120 ACTUAT ciclesonide 0.16 MG/ACTUAT Metered Dose Inhaler [Alvesco] Box of 120 by Orifarm Leverkus	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41522401	OMOP2720363	120 ACTUAT ciclesonide 0.16 MG/ACTUAT Metered Dose Inhaler [Alvesco] Box of 120 by Eurim-Pharm	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41522419	OMOP2720381	120 ACTUAT ciclesonide 0.16 MG/ACTUAT Metered Dose Inhaler [Alvesco] Box of 120 by Cc	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41522423	OMOP2720385	120 ACTUAT ciclesonide 0.08 MG/ACTUAT Metered Dose Inhaler Box of 120	Quant Clinical Box	Drug	RxNorm Extension	Valid	Standard
+41522439	OMOP2720401	120 ACTUAT ciclesonide 0.08 MG/ACTUAT Metered Dose Inhaler [Alvesco] Box of 120	Quant Branded Box	Drug	RxNorm Extension	Valid	Standard
+41522453	OMOP2720415	120 ACTUAT ciclesonide 0.08 MG/ACTUAT Metered Dose Inhaler [Alvesco] Box of 120 by Takeda	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41522473	OMOP2720435	120 ACTUAT ciclesonide 0.16 MG/ACTUAT Metered Dose Inhaler [Alvesco] Box of 120 by Kohlpharma	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41522474	OMOP2720436	120 ACTUAT ciclesonide 0.16 MG/ACTUAT Metered Dose Inhaler [Alvesco] Box of 120 by Gerke	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41522493	OMOP2720455	120 ACTUAT ciclesonide 0.16 MG/ACTUAT Metered Dose Inhaler [Alvesco] Box of 120 by Astrazeneca	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41522528	OMOP2720490	120 ACTUAT ciclesonide 0.08 MG/ACTUAT Metered Dose Inhaler [Alvesco] Box of 120 by Gerke	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+42844309	70515071201	60 ACTUAT ciclesonide 0.16 MG/ACTUAT Metered Dose Inhaler [Alvesco]	11-digit NDC	Drug	NDC	Valid	Non-standard
+42844310	70515071202	60 ACTUAT ciclesonide 0.16 MG/ACTUAT Metered Dose Inhaler [Alvesco]	11-digit NDC	Drug	NDC	Valid	Non-standard
+42844311	70515071101	60 ACTUAT ciclesonide 0.08 MG/ACTUAT Metered Dose Inhaler [Alvesco]	11-digit NDC	Drug	NDC	Valid	Non-standard
+42844312	70515071102	60 ACTUAT ciclesonide 0.08 MG/ACTUAT Metered Dose Inhaler [Alvesco]	11-digit NDC	Drug	NDC	Valid	Non-standard
+42902623	1359736	ciclesonide 0.16 MG/ACTUAT Metered Dose Inhaler	Clinical Drug	Drug	RxNorm	Valid	Standard
+42903140	1360253	ciclesonide 0.16 MG/ACTUAT Metered Dose Inhaler [Alvesco]	Branded Drug	Drug	RxNorm	Valid	Standard
+42903156	1360269	ciclesonide 0.08 MG/ACTUAT Metered Dose Inhaler	Clinical Drug	Drug	RxNorm	Valid	Standard
+42903368	1360481	ciclesonide 0.08 MG/ACTUAT Metered Dose Inhaler [Alvesco]	Branded Drug	Drug	RxNorm	Valid	Standard
+44034983	OMOP1029614	ciclesonide 0.2 MG/ACTUAT Metered Dose Inhaler [Alvesco]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+44034984	OMOP1029615	ciclesonide 0.05 MG/ACTUAT Metered Dose Inhaler [Alvesco]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+44038091	OMOP1032722	ciclesonide 0.1 MG/ACTUAT Metered Dose Inhaler [Alvesco] by Astrazeneca	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44058949	OMOP1053580	ciclesonide 0.05 MG/ACTUAT Metered Dose Inhaler	Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+44071764	OMOP1066395	ciclesonide 0.1 MG/ACTUAT Metered Dose Inhaler	Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+44073882	OMOP1068513	ciclesonide 0.1 MG/ACTUAT Metered Dose Inhaler [Alvesco]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+44076925	OMOP1071556	ciclesonide 0.2 MG/ACTUAT Metered Dose Inhaler [Alvesco] by Astrazeneca	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44084635	OMOP1079266	ciclesonide 0.2 MG/ACTUAT Metered Dose Inhaler	Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+44115657	OMOP1110288	ciclesonide 0.05 MG/ACTUAT Metered Dose Inhaler [Alvesco] by Takeda	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44838744	00088300560	60 ACTUAT ciclesonide 0.08 MG/ACTUAT Metered Dose Inhaler	11-digit NDC	Drug	NDC	Invalid	Non-standard
+44901206	54868598900	60 ACTUAT ciclesonide 0.08 MG/ACTUAT Metered Dose Inhaler [Alvesco]	11-digit NDC	Drug	NDC	Valid	Non-standard
+44938349	63402071102	60 ACTUAT ciclesonide 0.08 MG/ACTUAT Metered Dose Inhaler [Alvesco]	11-digit NDC	Drug	NDC	Valid	Non-standard
+44957997	00088300760	60 ACTUAT ciclesonide 0.16 MG/ACTUAT Metered Dose Inhaler	11-digit NDC	Drug	NDC	Invalid	Non-standard
+44980105	11517071202	60 ACTUAT ciclesonide 0.16 MG/ACTUAT Metered Dose Inhaler [Alvesco]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45048378	11517071203	60 ACTUAT ciclesonide 0.16 MG/ACTUAT Metered Dose Inhaler [Alvesco]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45065408	11517071201	60 ACTUAT ciclesonide 0.16 MG/ACTUAT Metered Dose Inhaler [Alvesco]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45159346	63402071201	60 ACTUAT ciclesonide 0.16 MG/ACTUAT Metered Dose Inhaler [Alvesco]	11-digit NDC	Drug	NDC	Valid	Non-standard
+45167584	11517071101	60 ACTUAT ciclesonide 0.08 MG/ACTUAT Metered Dose Inhaler [Alvesco]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45167585	11517071103	60 ACTUAT ciclesonide 0.08 MG/ACTUAT Metered Dose Inhaler [Alvesco]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45218798	11517071102	60 ACTUAT ciclesonide 0.08 MG/ACTUAT Metered Dose Inhaler [Alvesco]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45265121	00088300712	120 ACTUAT ciclesonide 0.16 MG/ACTUAT Metered Dose Inhaler [Alvesco]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45276132	54868599000	60 ACTUAT ciclesonide 0.16 MG/ACTUAT Metered Dose Inhaler [Alvesco]	11-digit NDC	Drug	NDC	Valid	Non-standard
+45296370	63402071202	60 ACTUAT ciclesonide 0.16 MG/ACTUAT Metered Dose Inhaler [Alvesco]	11-digit NDC	Drug	NDC	Valid	Non-standard
+45313374	63402071103	60 ACTUAT ciclesonide 0.08 MG/ACTUAT Metered Dose Inhaler [Alvesco]	11-digit NDC	Drug	NDC	Valid	Non-standard
+45330321	63402071101	60 ACTUAT ciclesonide 0.08 MG/ACTUAT Metered Dose Inhaler [Alvesco]	11-digit NDC	Drug	NDC	Valid	Non-standard
+45347326	63402071203	60 ACTUAT ciclesonide 0.16 MG/ACTUAT Metered Dose Inhaler [Alvesco]	11-digit NDC	Drug	NDC	Valid	Non-standard
+902971	825318	120 ACTUAT ciclesonide 0.16 MG/ACTUAT Metered Dose Inhaler	Quant Clinical Drug	Drug	RxNorm	Valid	Standard

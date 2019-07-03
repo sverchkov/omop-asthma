@@ -1,0 +1,485 @@
+Id	Code	Name	Concept Class Id	Domain	Vocabulary	Invalid Reason	Standard Concept
+1115680	746191	200 ACTUAT Beclomethasone 0.042 MG/ACTUAT Metered Dose Inhaler	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+1115681	746193	200 ACTUAT Beclomethasone 0.042 MG/ACTUAT Metered Dose Inhaler [Beclovent]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+1115703	746451	200 ACTUAT Beclomethasone 0.04 MG/ACTUAT Metered Dose Inhaler	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+1115704	746452	100 ACTUAT Beclomethasone 0.04 MG/ACTUAT Metered Dose Inhaler	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+1115705	746455	100 ACTUAT Beclomethasone 0.08 MG/ACTUAT Metered Dose Inhaler	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19131404	801855	100 ACTUAT Beclomethasone 0.04 MG/ACTUAT Metered Dose Inhaler [Qvar]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19131418	801886	100 ACTUAT Beclomethasone 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+35519070	50090303300	120 ACTUAT Beclomethasone Dipropionate 0.04 MG/ACTUAT Metered Dose Inhaler [Qvar]	11-digit NDC	Drug	NDC	Valid	Non-standard
+35524688	53002243603	Breath-Actuated 120 ACTUAT Beclomethasone Dipropionate 0.04 MG/ACTUAT Metered Dose Inhaler [Qvar]	11-digit NDC	Drug	NDC	Valid	Non-standard
+35524689	53002347703	Breath-Actuated 120 ACTUAT Beclomethasone Dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]	11-digit NDC	Drug	NDC	Valid	Non-standard
+35745022	OMOP2746483	Beclomethasone 0.1 MG Metered Dose Inhaler [Becotide] Box of 112 by Glaxosmithkline	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+35745023	OMOP2746484	Beclomethasone 0.1 MG Metered Dose Inhaler [Beconase] Box of 120 by Glaxosmithkline	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+35745024	OMOP2746485	Beclomethasone 0.25 MG/ACTUAT Metered Dose Inhaler [Asmabec] by Focus	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+35745025	OMOP2746486	Beclomethasone 0.2 MG Metered Dose Inhaler [Becotide] Box of 30 by Waymade	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+35745026	OMOP2746487	Beclomethasone 0.2 MG Metered Dose Inhaler [Beconase] Box of 120 by Waymade	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+35745027	OMOP2746488	Beclomethasone 0.2 MG Metered Dose Inhaler [Beconase] Box of 40 by Glaxosmithkline	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+35745028	OMOP2746489	Beclomethasone 0.05 MG/ACTUAT Metered Dose Inhaler [Asmabec] by Focus	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+35746369	OMOP2747830	Beclomethasone 0.25 MG/ACTUAT Metered Dose Inhaler [Asmabec]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+35746370	OMOP2747831	Beclomethasone 0.1 MG/ACTUAT Metered Dose Inhaler [Pulvinal Beclometasone Dipropionate]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+35749217	OMOP2750678	Beclomethasone 0.1 MG Metered Dose Inhaler Box of 120 by TEVA	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+35749218	OMOP2750679	Beclomethasone 0.2 MG Metered Dose Inhaler [Beconase] by Lexon	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+35750528	OMOP2751989	Beclomethasone 0.2 MG Metered Dose Inhaler [Becotide] Box of 112	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+35753377	OMOP2754838	Beclomethasone 0.1 MG Metered Dose Inhaler [Becotide] by Glaxosmithkline	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+35753378	OMOP2754839	Beclomethasone 0.1 MG Metered Dose Inhaler [Beconase] by Glaxosmithkline	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+35753379	OMOP2754840	Beclomethasone 0.2 MG Metered Dose Inhaler [Becotide] Box of 100 by Dowelhurst	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+35753380	OMOP2754841	Beclomethasone 0.2 MG Metered Dose Inhaler [Beconase] Box of 120 by Necessity Supplies	Marketed Product	Drug	RxNorm Extension	Invalid	Non-standard
+35753381	OMOP2754842	Beclomethasone 0.2 MG Metered Dose Inhaler [Beconase] by Waymade	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+35753382	OMOP2754843	Beclomethasone 0.1 MG/ACTUAT Metered Dose Inhaler [Pulvinal Beclometasone Dipropionate] by Chiesi	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+35753887	OMOP2755348	Beclomethasone Metered Dose Inhaler [Becotide]	Branded Drug Form	Drug	RxNorm Extension	Valid	Standard
+35753888	OMOP2755349	Beclomethasone Metered Dose Inhaler [Beconase]	Branded Drug Form	Drug	RxNorm Extension	Valid	Standard
+35754155	OMOP2755616	Beclomethasone 0.1 MG Metered Dose Inhaler Box of 112	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+35754766	OMOP2756227	Beclomethasone 0.1 MG Metered Dose Inhaler [Becotide] Box of 100	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+35754767	OMOP2756228	Beclomethasone 0.2 MG Metered Dose Inhaler [Becotide]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+35754768	OMOP2756229	Beclomethasone 0.1 MG/ACTUAT Metered Dose Inhaler [Asmabec]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+35757573	OMOP2759034	Beclomethasone 0.1 MG Metered Dose Inhaler [Becotide] Box of 100 by Dowelhurst	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+35757574	OMOP2759035	Beclomethasone 0.1 MG Metered Dose Inhaler by TEVA	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+35757575	OMOP2759036	Beclomethasone 0.2 MG Metered Dose Inhaler [Beconase] Box of 120 by Mawdsley-Brooks	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+35758866	OMOP2760327	Beclomethasone 0.1 MG Metered Dose Inhaler [Beconase] Box of 40	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+35758867	OMOP2760328	Beclomethasone 0.2 MG Metered Dose Inhaler [Beconase] Box of 112	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+35758868	OMOP2760329	Beclomethasone 0.2 MG Metered Dose Inhaler [Beconase]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+35761733	OMOP2763194	Beclomethasone 0.2 MG Metered Dose Inhaler [Beconase] by Necessity Supplies	Marketed Product	Drug	RxNorm Extension	Invalid	Non-standard
+35761734	OMOP2763195	Beclomethasone 0.2 MG Metered Dose Inhaler Box of 120 by TEVA	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+35762202	OMOP2763663	Beclomethasone Metered Dose Inhaler [Pulvinal Beclometasone Dipropionate]	Branded Drug Form	Drug	RxNorm Extension	Valid	Standard
+35762478	OMOP2763939	Beclomethasone 0.1 MG Metered Dose Inhaler Box of 40	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+35763084	OMOP2764545	Beclomethasone 0.1 MG Metered Dose Inhaler [Becotide] Box of 112	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+35763085	OMOP2764546	Beclomethasone 0.1 MG Metered Dose Inhaler [Beconase]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+35763086	OMOP2764547	Beclomethasone 0.2 MG Metered Dose Inhaler [Becotide] Box of 100	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+35765812	OMOP2767273	Beclomethasone 0.2 MG Metered Dose Inhaler [Becotide] by Dowelhurst	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+35765813	OMOP2767274	Beclomethasone 0.2 MG Metered Dose Inhaler [Becotide] by Glaxosmithkline	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+35765814	OMOP2767275	Beclomethasone 0.2 MG Metered Dose Inhaler [Beconase] Box of 120 by Lexon	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+35765815	OMOP2767276	Beclomethasone 0.2 MG Metered Dose Inhaler [Beconase] by Glaxosmithkline	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+35766576	OMOP2768037	Beclomethasone 0.2 MG Metered Dose Inhaler Box of 112	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+35770132	OMOP2771593	Beclomethasone 0.1 MG Metered Dose Inhaler [Beconase] Box of 40 by Glaxosmithkline	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+35770133	OMOP2771594	Beclomethasone 0.2 MG Metered Dose Inhaler [Becotide] by Waymade	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+35770134	OMOP2771595	Beclomethasone 0.2 MG Metered Dose Inhaler [Beconase] Box of 120 by Glaxosmithkline	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+35770135	OMOP2771596	Beclomethasone 0.2 MG Metered Dose Inhaler [Beconase] by Mawdsley-Brooks	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+35770136	OMOP2771597	Beclomethasone 0.2 MG Metered Dose Inhaler by TEVA	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+35770137	OMOP2771598	Beclomethasone 0.1 MG/ACTUAT Metered Dose Inhaler [Asmabec] by Focus	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+35770598	OMOP2772059	Beclomethasone Metered Dose Inhaler [Asmabec]	Branded Drug Form	Drug	RxNorm Extension	Valid	Standard
+35770886	OMOP2772347	Beclomethasone 0.1 MG Metered Dose Inhaler Box of 120	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+35770887	OMOP2772348	Beclomethasone 0.2 MG Metered Dose Inhaler Box of 40	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+35770888	OMOP2772349	Beclomethasone 0.2 MG Metered Dose Inhaler Box of 30	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+35771523	OMOP2772984	Beclomethasone 0.2 MG Metered Dose Inhaler [Becotide] Box of 30	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+35771524	OMOP2772985	Beclomethasone 0.2 MG Metered Dose Inhaler [Beconase] Box of 40	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+35771525	OMOP2772986	Beclomethasone 0.05 MG/ACTUAT Metered Dose Inhaler [Asmabec]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+35774391	OMOP2775852	Beclomethasone 0.1 MG Metered Dose Inhaler [Becotide] by Dowelhurst	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+35774392	OMOP2775853	Beclomethasone 0.1 MG Metered Dose Inhaler [Beconase] Box of 112 by Glaxosmithkline	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+35774393	OMOP2775854	Beclomethasone 0.2 MG Metered Dose Inhaler [Becotide] Box of 112 by Glaxosmithkline	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+35774394	OMOP2775855	Beclomethasone 0.2 MG Metered Dose Inhaler [Beconase] Box of 112 by Glaxosmithkline	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+35775125	OMOP2776586	Beclomethasone 0.2 MG Metered Dose Inhaler Box of 100	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+35775664	OMOP2777125	Beclomethasone 0.1 MG Metered Dose Inhaler [Becotide]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+35775665	OMOP2777126	Beclomethasone 0.1 MG Metered Dose Inhaler [Beconase] Box of 120	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+35775666	OMOP2777127	Beclomethasone 0.1 MG Metered Dose Inhaler [Beconase] Box of 112	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+35775667	OMOP2777128	Beclomethasone 0.2 MG Metered Dose Inhaler [Beconase] Box of 120	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+35798361	OMOP2799822	100 ACTUAT Beclomethasone 0.25 MG/ACTUAT Metered Dose Inhaler [Asmabec]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+35798365	OMOP2799826	100 ACTUAT Beclomethasone 0.25 MG/ACTUAT Metered Dose Inhaler [Asmabec] by Focus	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+35798375	OMOP2799836	100 ACTUAT Beclomethasone 0.1 MG/ACTUAT Metered Dose Inhaler [Pulvinal Beclometasone Dipropionate]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+35798379	OMOP2799840	100 ACTUAT Beclomethasone 0.1 MG/ACTUAT Metered Dose Inhaler [Pulvinal Beclometasone Dipropionate] by Chiesi	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+35798381	OMOP2799842	100 ACTUAT Beclomethasone 0.25 MG/ACTUAT Metered Dose Inhaler	Quant Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+35798485	OMOP2799946	200 ACTUAT Beclomethasone 0.1 MG/ACTUAT Metered Dose Inhaler [Asmabec] by Focus	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+35798521	OMOP2799982	200 ACTUAT Beclomethasone 0.1 MG/ACTUAT Metered Dose Inhaler [Asmabec]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+35798576	OMOP2800037	200 ACTUAT Beclomethasone 0.05 MG/ACTUAT Metered Dose Inhaler [Asmabec]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+35798587	OMOP2800048	200 ACTUAT Beclomethasone 0.05 MG/ACTUAT Metered Dose Inhaler [Asmabec] by Focus	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+35798608	OMOP2800069	200 ACTUAT Beclomethasone 0.05 MG/ACTUAT Metered Dose Inhaler	Quant Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+36177782	50090345900	Breath-Actuated 120 ACTUAT Beclomethasone Dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]	11-digit NDC	Drug	NDC	Valid	Non-standard
+36179408	68071169108	120 ACTUAT Beclomethasone Dipropionate 0.04 MG/ACTUAT Metered Dose Inhaler [Qvar]	11-digit NDC	Drug	NDC	Valid	Non-standard
+36418449	OMOP4760760	23 ML Beclomethasone 0.556 MG/ML Metered Dose Inhaler [Beclomet] Box of 3	Quant Branded Box	Drug	RxNorm Extension	Valid	Standard
+36418450	OMOP4760761	23 ML Beclomethasone 0.556 MG/ML Metered Dose Inhaler [Beclomet] Box of 2	Quant Branded Box	Drug	RxNorm Extension	Valid	Standard
+36418451	OMOP4760762	23 ML Beclomethasone 0.556 MG/ML Metered Dose Inhaler [Beclomet] Box of 1	Quant Branded Box	Drug	RxNorm Extension	Valid	Standard
+36418452	OMOP4760763	23 ML Beclomethasone 0.556 MG/ML Metered Dose Inhaler [Beclomet]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+36418453	OMOP4760764	23 ML Beclomethasone 0.556 MG/ML Metered Dose Inhaler Box of 3	Quant Clinical Box	Drug	RxNorm Extension	Valid	Standard
+36418454	OMOP4760765	23 ML Beclomethasone 0.556 MG/ML Metered Dose Inhaler Box of 2	Quant Clinical Box	Drug	RxNorm Extension	Valid	Standard
+36418455	OMOP4760766	23 ML Beclomethasone 0.556 MG/ML Metered Dose Inhaler Box of 1	Quant Clinical Box	Drug	RxNorm Extension	Valid	Standard
+36418456	OMOP4760767	23 ML Beclomethasone 0.556 MG/ML Metered Dose Inhaler	Quant Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+36418473	OMOP4760784	22.8 ML Beclomethasone 0.556 MG/ML Metered Dose Inhaler [Beclomet] Box of 3	Quant Branded Box	Drug	RxNorm Extension	Valid	Standard
+36418474	OMOP4760785	22.8 ML Beclomethasone 0.556 MG/ML Metered Dose Inhaler [Beclomet] Box of 2	Quant Branded Box	Drug	RxNorm Extension	Valid	Standard
+36418475	OMOP4760786	22.8 ML Beclomethasone 0.556 MG/ML Metered Dose Inhaler [Beclomet] Box of 1	Quant Branded Box	Drug	RxNorm Extension	Valid	Standard
+36418476	OMOP4760787	22.8 ML Beclomethasone 0.556 MG/ML Metered Dose Inhaler [Beclomet]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+36418477	OMOP4760788	22.8 ML Beclomethasone 0.556 MG/ML Metered Dose Inhaler Box of 3	Quant Clinical Box	Drug	RxNorm Extension	Valid	Standard
+36418478	OMOP4760789	22.8 ML Beclomethasone 0.556 MG/ML Metered Dose Inhaler Box of 2	Quant Clinical Box	Drug	RxNorm Extension	Valid	Standard
+36418479	OMOP4760790	22.8 ML Beclomethasone 0.556 MG/ML Metered Dose Inhaler Box of 1	Quant Clinical Box	Drug	RxNorm Extension	Valid	Standard
+36418480	OMOP4760791	22.8 ML Beclomethasone 0.556 MG/ML Metered Dose Inhaler	Quant Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+36418629	OMOP4760934	9 ML Beclomethasone 0.556 MG/ML Metered Dose Inhaler Box of 1	Quant Clinical Box	Drug	RxNorm Extension	Valid	Standard
+36418630	OMOP4760935	9 ML Beclomethasone 0.556 MG/ML Metered Dose Inhaler	Quant Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+36419536	OMOP4761829	Beclomethasone 0.556 MG/ML Metered Dose Inhaler [Beclomet] Box of 3	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+36419537	OMOP4761830	Beclomethasone 0.556 MG/ML Metered Dose Inhaler [Beclomet] Box of 2	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+36419539	OMOP4761831	Beclomethasone 0.556 MG/ML Metered Dose Inhaler [Beclomet] Box of 1	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+36419540	OMOP4761832	Beclomethasone 0.556 MG/ML Metered Dose Inhaler [Beclomet]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+36419541	OMOP4761833	Beclomethasone 0.556 MG/ML Metered Dose Inhaler Box of 3	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+36419542	OMOP4761834	Beclomethasone 0.556 MG/ML Metered Dose Inhaler Box of 2	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+36419543	OMOP4761835	Beclomethasone 0.556 MG/ML Metered Dose Inhaler Box of 1	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+36419544	OMOP4761836	Beclomethasone 0.556 MG/ML Metered Dose Inhaler	Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+36479148	68788702501	120 ACTUAT Beclomethasone Dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]	11-digit NDC	Drug	NDC	Valid	Non-standard
+36497272	59310030240	Breath-Actuated 120 ACTUAT Beclomethasone Dipropionate 0.04 MG/ACTUAT Metered Dose Inhaler [Qvar]	11-digit NDC	Drug	NDC	Valid	Non-standard
+36497797	59310030480	Breath-Actuated 120 ACTUAT Beclomethasone Dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]	11-digit NDC	Drug	NDC	Valid	Non-standard
+40142531	746482	200 ACTUAT Beclomethasone 0.042 MG/ACTUAT Metered Dose Inhaler [Beconase]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40142534	746454	200 ACTUAT Beclomethasone 0.8 MG/ACTUAT Metered Dose Inhaler	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40142784	746190	Beclomethasone Metered Dose Inhaler	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40142785	746192	Beclomethasone Metered Dose Inhaler [Beclovent]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40142786	746481	Beclomethasone Metered Dose Inhaler [Beconase]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40151749	801854	Beclomethasone Metered Dose Inhaler [Qvar]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40173396	966675	120 ACTUAT Beclomethasone Dipropionate 0.084 MG/ACTUAT Metered Dose Inhaler	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+40173401	966536	100 ACTUAT Beclomethasone Dipropionate 0.04 MG/ACTUAT Metered Dose Inhaler	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+40173402	966538	100 ACTUAT Beclomethasone Dipropionate 0.04 MG/ACTUAT Metered Dose Inhaler [Qvar]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+40173403	966540	100 ACTUAT Beclomethasone Dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+40173404	966542	100 ACTUAT Beclomethasone Dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+40173436	966623	200 ACTUAT Beclomethasone Dipropionate 0.04 MG/ACTUAT Metered Dose Inhaler	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+40173437	966548	200 ACTUAT Beclomethasone Dipropionate 0.042 MG/ACTUAT Metered Dose Inhaler	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+40173438	966550	200 ACTUAT Beclomethasone Dipropionate 0.042 MG/ACTUAT Metered Dose Inhaler [Beclovent]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+40173439	966562	200 ACTUAT Beclomethasone Dipropionate 0.042 MG/ACTUAT Metered Dose Inhaler [Vanceril]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+40173442	966564	200 ACTUAT Beclomethasone Dipropionate 0.084 MG/ACTUAT Metered Dose Inhaler	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+40173443	966566	200 ACTUAT Beclomethasone Dipropionate 0.084 MG/ACTUAT Metered Dose Inhaler [Vanceril]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+40173452	966635	80 ACTUAT Beclomethasone Dipropionate 0.042 MG/ACTUAT Metered Dose Inhaler	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+40173742	966561	Beclomethasone Metered Dose Inhaler [Vanceril]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40710180	OMOP4746976	200 ACTUAT Beclomethasone 0.25 MG/ACTUAT Metered Dose Inhaler [Beclazone] by TEVA	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40710181	OMOP4746975	200 ACTUAT Beclomethasone 0.25 MG/ACTUAT Metered Dose Inhaler [Beclazone]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+40710182	OMOP4746974	200 ACTUAT Beclomethasone 0.25 MG/ACTUAT Metered Dose Inhaler [Clenil Modulite] by Chiesi	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40710183	OMOP4746973	200 ACTUAT Beclomethasone 0.25 MG/ACTUAT Metered Dose Inhaler [Clenil Modulite] by Mawdsley-Brooks	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40710184	OMOP4746972	200 ACTUAT Beclomethasone 0.25 MG/ACTUAT Metered Dose Inhaler [Clenil Modulite] by Waymade	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40710185	OMOP4746971	200 ACTUAT Beclomethasone 0.25 MG/ACTUAT Metered Dose Inhaler [Clenil Modulite]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+40710186	OMOP4746970	200 ACTUAT Beclomethasone 0.25 MG/ACTUAT Metered Dose Inhaler [AeroBec] by Meda	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40710187	OMOP4746969	200 ACTUAT Beclomethasone 0.25 MG/ACTUAT Metered Dose Inhaler [AeroBec]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+40710188	OMOP4746968	200 ACTUAT Beclomethasone 0.25 MG/ACTUAT Metered Dose Inhaler [Filair] by Meda	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40710189	OMOP4746967	200 ACTUAT Beclomethasone 0.25 MG/ACTUAT Metered Dose Inhaler [Filair]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+40710190	OMOP4746966	200 ACTUAT Beclomethasone 0.25 MG/ACTUAT Metered Dose Inhaler [Becloforte] by Glaxosmithkline	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40710191	OMOP4746965	200 ACTUAT Beclomethasone 0.25 MG/ACTUAT Metered Dose Inhaler [Becloforte] by Waymade	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40710192	OMOP4746964	200 ACTUAT Beclomethasone 0.25 MG/ACTUAT Metered Dose Inhaler [Becloforte] by Dowelhurst	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40710193	OMOP4746963	200 ACTUAT Beclomethasone 0.25 MG/ACTUAT Metered Dose Inhaler [Becloforte]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+40710194	OMOP4746962	200 ACTUAT Beclomethasone 0.25 MG/ACTUAT Metered Dose Inhaler [Beclazone Easi-Breathe] by TEVA	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40710195	OMOP4746961	200 ACTUAT Beclomethasone 0.25 MG/ACTUAT Metered Dose Inhaler [Beclazone Easi-Breathe] by Dowelhurst	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40710196	OMOP4746960	200 ACTUAT Beclomethasone 0.25 MG/ACTUAT Metered Dose Inhaler [Beclazone Easi-Breathe]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+40710197	OMOP4746959	200 ACTUAT Beclomethasone 0.25 MG/ACTUAT Metered Dose Inhaler by TEVA	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40710198	OMOP4746958	200 ACTUAT Beclomethasone 0.25 MG/ACTUAT Metered Dose Inhaler by Almus	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40710199	OMOP4746957	200 ACTUAT Beclomethasone 0.25 MG/ACTUAT Metered Dose Inhaler by Kent	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40710200	OMOP4746956	200 ACTUAT Beclomethasone 0.25 MG/ACTUAT Metered Dose Inhaler by A A H	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40710201	OMOP4746955	200 ACTUAT Beclomethasone 0.25 MG/ACTUAT Metered Dose Inhaler by Mylan	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40710202	OMOP4746954	200 ACTUAT Beclomethasone 0.25 MG/ACTUAT Metered Dose Inhaler by Alliance	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40710203	OMOP4746953	200 ACTUAT Beclomethasone 0.25 MG/ACTUAT Metered Dose Inhaler by Phoenix Healthcare Distribution	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40711010	OMOP4746257	180 ACTUAT Beclomethasone 0.25 MG/ACTUAT Metered Dose Inhaler [Becloforte] by Waymade	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40711011	OMOP4746256	180 ACTUAT Beclomethasone 0.25 MG/ACTUAT Metered Dose Inhaler [Becloforte] by Dowelhurst	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40711012	OMOP4746255	180 ACTUAT Beclomethasone 0.25 MG/ACTUAT Metered Dose Inhaler [Becloforte]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+40711013	OMOP4746254	180 ACTUAT Beclomethasone 0.25 MG/ACTUAT Metered Dose Inhaler	Quant Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+40712756	OMOP4744363	80 ACTUAT Beclomethasone 0.25 MG/ACTUAT Metered Dose Inhaler [Becloforte] by Glaxosmithkline	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40712757	OMOP4744362	80 ACTUAT Beclomethasone 0.25 MG/ACTUAT Metered Dose Inhaler [Becloforte]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+40712758	OMOP4744361	80 ACTUAT Beclomethasone 0.25 MG/ACTUAT Metered Dose Inhaler	Quant Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+40722888	OMOP4734284	Beclomethasone 0.25 MG/ACTUAT Metered Dose Inhaler [Beclazone] by TEVA	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40722889	OMOP4734283	Beclomethasone 0.25 MG/ACTUAT Metered Dose Inhaler [Beclazone]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+40722890	OMOP4734282	Beclomethasone 0.25 MG/ACTUAT Metered Dose Inhaler [Clenil Modulite] by Chiesi	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40722891	OMOP4734281	Beclomethasone 0.25 MG/ACTUAT Metered Dose Inhaler [Clenil Modulite] by Mawdsley-Brooks	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40722892	OMOP4734280	Beclomethasone 0.25 MG/ACTUAT Metered Dose Inhaler [Clenil Modulite] by Waymade	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40722893	OMOP4734279	Beclomethasone 0.25 MG/ACTUAT Metered Dose Inhaler [Clenil Modulite]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+40722894	OMOP4734278	Beclomethasone 0.25 MG/ACTUAT Metered Dose Inhaler [AeroBec] by Meda	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40722895	OMOP4734277	Beclomethasone 0.25 MG/ACTUAT Metered Dose Inhaler [AeroBec]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+40722896	OMOP4734276	Beclomethasone 0.25 MG/ACTUAT Metered Dose Inhaler [Filair] by Meda	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40722897	OMOP4734275	Beclomethasone 0.25 MG/ACTUAT Metered Dose Inhaler [Filair]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+40722898	OMOP4734274	Beclomethasone 0.25 MG/ACTUAT Metered Dose Inhaler [Becloforte] by Waymade	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40722899	OMOP4734273	Beclomethasone 0.25 MG/ACTUAT Metered Dose Inhaler [Becloforte] by Dowelhurst	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40722900	OMOP4734272	Beclomethasone 0.25 MG/ACTUAT Metered Dose Inhaler [Beclazone Easi-Breathe] by TEVA	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40722901	OMOP4734271	Beclomethasone 0.25 MG/ACTUAT Metered Dose Inhaler [Beclazone Easi-Breathe] by Dowelhurst	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40722902	OMOP4734270	Beclomethasone 0.25 MG/ACTUAT Metered Dose Inhaler [Beclazone Easi-Breathe]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+40722903	OMOP4734269	Beclomethasone 0.25 MG/ACTUAT Metered Dose Inhaler by TEVA	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40722904	OMOP4734268	Beclomethasone 0.25 MG/ACTUAT Metered Dose Inhaler by Almus	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40722905	OMOP4734267	Beclomethasone 0.25 MG/ACTUAT Metered Dose Inhaler by Kent	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40722906	OMOP4734266	Beclomethasone 0.25 MG/ACTUAT Metered Dose Inhaler by A A H	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40722907	OMOP4734265	Beclomethasone 0.25 MG/ACTUAT Metered Dose Inhaler by Mylan	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40722908	OMOP4734264	Beclomethasone 0.25 MG/ACTUAT Metered Dose Inhaler by Alliance	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40722909	OMOP4734263	Beclomethasone 0.25 MG/ACTUAT Metered Dose Inhaler by Phoenix Healthcare Distribution	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40723071	OMOP4734115	Beclomethasone Metered Dose Inhaler [Beclazone]	Branded Drug Form	Drug	RxNorm Extension	Valid	Standard
+40723072	OMOP4734114	Beclomethasone Metered Dose Inhaler [Clenil Modulite]	Branded Drug Form	Drug	RxNorm Extension	Valid	Standard
+40723073	OMOP4734113	Beclomethasone Metered Dose Inhaler [Filair]	Branded Drug Form	Drug	RxNorm Extension	Valid	Standard
+40723074	OMOP4734112	Beclomethasone Metered Dose Inhaler [Beclazone Easi-Breathe]	Branded Drug Form	Drug	RxNorm Extension	Valid	Standard
+40822692	OMOP2020654	Beclomethasone 0.5 MG/ML Metered Dose Inhaler	Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+40823628	OMOP2021590	Beclomethasone 0.2 MG Metered Dose Inhaler Box of 80	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+40824878	OMOP2022840	Beclomethasone 0.05 MG Metered Dose Inhaler Box of 100	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+40837986	OMOP2035948	Beclomethasone 0.01 MG/ML Metered Dose Inhaler	Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+40837991	OMOP2035953	Beclomethasone 1 MG/ML Metered Dose Inhaler	Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+40837993	OMOP2035955	Beclomethasone 0.25 MG Metered Dose Inhaler Box of 1	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+40849702	OMOP2047664	Beclomethasone 0.05 MG Metered Dose Inhaler [Ventolair] Box of 200	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+40849706	OMOP2047668	Beclomethasone 0.05 MG/ACTUAT Metered Dose Inhaler [Ventolair]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+40849707	OMOP2047669	Beclomethasone 0.25 MG Metered Dose Inhaler [Ventolair]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+40849711	OMOP2047673	Beclomethasone 0.05 MG Metered Dose Inhaler [Ventolair] Box of 1	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+40849712	OMOP2047674	Beclomethasone 0.05 MG Metered Dose Inhaler [AeroBec]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+40849714	OMOP2047676	Beclomethasone 0.1 MG Metered Dose Inhaler [Ventolair] Box of 200	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+40849716	OMOP2047678	Beclomethasone 0.2 MG Metered Dose Inhaler [Sanasthmyl]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+40856759	OMOP2054721	Beclomethasone 0.1 MG Metered Dose Inhaler [Ventolair] Box of 2 by TEVA	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40869112	OMOP2067074	Beclomethasone 0.1 MG Metered Dose Inhaler Box of 200	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+40880923	OMOP2078885	Beclomethasone 0.05 MG Metered Dose Inhaler [AeroBec] Box of 200	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+40880937	OMOP2078899	Beclomethasone 0.05 MG Metered Dose Inhaler [Ventolair]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+40880940	OMOP2078902	Beclomethasone 0.1 MG Metered Dose Inhaler [Qvar] Box of 200	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+40911952	OMOP2109914	Beclomethasone 0.005 MG/ML Metered Dose Inhaler [Junik] Box of 200	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+40911973	OMOP2109935	Beclomethasone 0.2 MG Metered Dose Inhaler [Beclomet] Box of 200	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+40918996	OMOP2116958	Beclomethasone 0.25 MG Metered Dose Inhaler [Ventolair] Box of 1 by TEVA	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40918998	OMOP2116960	Beclomethasone 0.1 MG Metered Dose Inhaler [Ventolair] Box of 200 by 3M	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40918999	OMOP2116961	Beclomethasone 0.1 MG Metered Dose Inhaler [Qvar] Box of 200 by Eurim-Pharm	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40931295	OMOP2129257	Beclomethasone 0.005 MG/ML Metered Dose Inhaler Box of 100	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+40931296	OMOP2129258	Beclomethasone 0.005 MG/ML Metered Dose Inhaler Box of 10	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+40931299	OMOP2129261	Beclomethasone 0.25 MG Metered Dose Inhaler Box of 200	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+40943236	OMOP2141198	Beclomethasone 0.2 MG Metered Dose Inhaler [Sanasthmyl] Box of 120	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+40950219	OMOP2148181	Beclomethasone 0.1 MG Metered Dose Inhaler [Ventolair] Box of 1 by TEVA	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40950220	OMOP2148182	Beclomethasone 0.1 MG Metered Dose Inhaler [AeroBec] Box of 2 by 3M	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40974206	OMOP2172168	Beclomethasone 0.01 MG/ML Metered Dose Inhaler [Junik]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+40974217	OMOP2172179	Beclomethasone 0.2 MG Metered Dose Inhaler [Beclomet] Box of 80	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+40981323	OMOP2179285	Beclomethasone 0.25 MG Metered Dose Inhaler [Ventolair] Box of 2 by TEVA	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+40989129	OMOP2187091	Beclomethasone Metered Dose Inhaler [Beclomet]	Branded Drug Form	Drug	RxNorm Extension	Valid	Standard
+40993831	OMOP2191793	Beclomethasone 0.005 MG/ML Metered Dose Inhaler Box of 200	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+40993839	OMOP2191801	Beclomethasone 0.01 MG/ML Metered Dose Inhaler Box of 200	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+40993840	OMOP2191802	Beclomethasone 0.01 MG/ML Metered Dose Inhaler Box of 100	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+40993841	OMOP2191803	Beclomethasone 0.1 MG Metered Dose Inhaler Box of 2	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+41005570	OMOP2203532	Beclomethasone 0.005 MG/ML Metered Dose Inhaler [Junik] Box of 100	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41005579	OMOP2203541	Beclomethasone 0.25 MG/ACTUAT Metered Dose Inhaler [Ventolair]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41005581	OMOP2203543	Beclomethasone 0.1 MG Metered Dose Inhaler [Ventolair] Box of 1	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41005584	OMOP2203546	Beclomethasone 0.25 MG Metered Dose Inhaler [Ventolair] Box of 1	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41020064	OMOP2218026	Beclomethasone Metered Dose Inhaler [AeroBec]	Branded Drug Form	Drug	RxNorm Extension	Valid	Standard
+41024824	OMOP2222786	Beclomethasone 2 MG/ML Metered Dose Inhaler	Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+41024828	OMOP2222790	Beclomethasone 0.1 MG Metered Dose Inhaler Box of 1	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+41024836	OMOP2222798	Beclomethasone 0.05 MG Metered Dose Inhaler Box of 1	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+41036627	OMOP2234589	Beclomethasone 2 MG/ML Metered Dose Inhaler [Junik]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41036639	OMOP2234601	Beclomethasone 0.1 MG Metered Dose Inhaler [Ventolair] Box of 2	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41043726	OMOP2241688	Beclomethasone 0.05 MG Metered Dose Inhaler [Ventolair] Box of 100 by TEVA	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41043727	OMOP2241689	Beclomethasone 0.05 MG Metered Dose Inhaler [Ventolair] Box of 100 by 3M	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41043730	OMOP2241692	Beclomethasone 0.1 MG Metered Dose Inhaler [Qvar] Box of 200 by Kohlpharma	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41067866	OMOP2265828	Beclomethasone 1 MG/ML Metered Dose Inhaler [Junik]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41067876	OMOP2265838	Beclomethasone 0.1 MG Metered Dose Inhaler [AeroBec] Box of 200	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41075092	OMOP2273054	Beclomethasone 0.05 MG Metered Dose Inhaler [Ventolair] Box of 200 by 3M	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41075095	OMOP2273057	Beclomethasone 0.1 MG Metered Dose Inhaler [AeroBec] Box of 1 by 3M	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41087559	OMOP2285521	Beclomethasone 0.05 MG Metered Dose Inhaler	Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+41099345	OMOP2297307	Beclomethasone 0.01 MG/ML Metered Dose Inhaler [Junik] Box of 100	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41099346	OMOP2297308	Beclomethasone 0.01 MG/ML Metered Dose Inhaler [Junik] Box of 1	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41099349	OMOP2297311	Beclomethasone 0.1 MG Metered Dose Inhaler [AeroBec] Box of 1	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41099360	OMOP2297322	Beclomethasone 0.05 MG Metered Dose Inhaler [AeroBec] Box of 1	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41106543	OMOP2304505	Beclomethasone 0.1 MG Metered Dose Inhaler [Ventolair] Box of 200 by TEVA	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41114074	OMOP2312036	Beclomethasone Metered Dose Inhaler [Ventolair]	Branded Drug Form	Drug	RxNorm Extension	Valid	Standard
+41114075	OMOP2312037	Beclomethasone Metered Dose Inhaler [Junik]	Branded Drug Form	Drug	RxNorm Extension	Valid	Standard
+41118858	OMOP2316820	Beclomethasone 0.1 MG Metered Dose Inhaler Box of 100	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+41130719	OMOP2328681	Beclomethasone 0.005 MG/ML Metered Dose Inhaler [Junik] Box of 1	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41130729	OMOP2328691	Beclomethasone 0.1 MG Metered Dose Inhaler [Ventolair] Box of 100	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41130731	OMOP2328693	Beclomethasone 0.2 MG Metered Dose Inhaler [Beclo Sandoz] Box of 200	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41137965	OMOP2335927	Beclomethasone 0.05 MG Metered Dose Inhaler [AeroBec] Box of 1 by 3M	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41137966	OMOP2335928	Beclomethasone 0.1 MG Metered Dose Inhaler [Qvar] Box of 200 by Emra-Med	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41150352	OMOP2348314	Beclomethasone 0.01 MG/ML Metered Dose Inhaler Box of 1	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+41150356	OMOP2348318	Beclomethasone 0.25 MG Metered Dose Inhaler Box of 2	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+41162074	OMOP2360036	Beclomethasone 0.1 MG Metered Dose Inhaler [AeroBec] Box of 2	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41162078	OMOP2360040	Beclomethasone 0.1 MG Metered Dose Inhaler [Qvar]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41162083	OMOP2360045	Beclomethasone 0.2 MG Metered Dose Inhaler [Beclo Sandoz]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41169128	OMOP2367090	Beclomethasone 0.1 MG Metered Dose Inhaler [AeroBec] Box of 1 by TEVA	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41169129	OMOP2367091	Beclomethasone 0.05 MG Metered Dose Inhaler [Ventolair] Box of 1 by TEVA	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41176611	OMOP2374573	Beclomethasone Metered Dose Inhaler [Sanasthmyl]	Branded Drug Form	Drug	RxNorm Extension	Valid	Standard
+41176612	OMOP2374574	Beclomethasone Metered Dose Inhaler [Beclo Sandoz]	Branded Drug Form	Drug	RxNorm Extension	Valid	Standard
+41181412	OMOP2379374	Beclomethasone 0.2 MG Metered Dose Inhaler Box of 200	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+41193276	OMOP2391238	Beclomethasone 0.01 MG/ML Metered Dose Inhaler [Junik] Box of 200	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41212782	OMOP2410744	Beclomethasone 0.005 MG/ML Metered Dose Inhaler Box of 1	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+41212794	OMOP2410756	Beclomethasone 0.2 MG Metered Dose Inhaler Box of 120	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+41224291	OMOP2422253	Beclomethasone 0.05 MG Metered Dose Inhaler [Ventolair] Box of 100	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41224302	OMOP2422264	Beclomethasone 0.1 MG/ACTUAT Metered Dose Inhaler [AeroBec]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41224315	OMOP2422277	Beclomethasone 0.2 MG Metered Dose Inhaler [Beclomet]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41231561	OMOP2429523	Beclomethasone 0.05 MG Metered Dose Inhaler [Ventolair] Box of 200 by TEVA	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41231563	OMOP2429525	Beclomethasone 0.1 MG Metered Dose Inhaler [AeroBec] Box of 2 by TEVA	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41255307	OMOP2453269	Beclomethasone 0.005 MG/ML Metered Dose Inhaler [Junik]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41255324	OMOP2453286	Beclomethasone 0.1 MG Metered Dose Inhaler [Ventolair]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41262315	OMOP2460277	Beclomethasone 0.05 MG Metered Dose Inhaler [AeroBec] Box of 1 by TEVA	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41274603	OMOP2472565	Beclomethasone 0.005 MG/ML Metered Dose Inhaler	Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+41286331	OMOP2484293	Beclomethasone 0.5 MG/ML Metered Dose Inhaler [Junik]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41286335	OMOP2484297	Beclomethasone 0.1 MG Metered Dose Inhaler [AeroBec]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41293493	OMOP2491455	Beclomethasone 0.1 MG Metered Dose Inhaler [Ventolair] Box of 100 by TEVA	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41293494	OMOP2491456	Beclomethasone 0.1 MG Metered Dose Inhaler [Ventolair] Box of 100 by 3M	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41305778	OMOP2503740	Beclomethasone 0.05 MG Metered Dose Inhaler Box of 200	Clinical Drug Box	Drug	RxNorm Extension	Valid	Standard
+41305782	OMOP2503744	Beclomethasone 0.25 MG Metered Dose Inhaler	Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+41317638	OMOP2515600	Beclomethasone 0.005 MG/ML Metered Dose Inhaler [Junik] Box of 10	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41317643	OMOP2515605	Beclomethasone 0.25 MG Metered Dose Inhaler [Ventolair] Box of 200	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41317645	OMOP2515607	Beclomethasone 0.1 MG/ACTUAT Metered Dose Inhaler [Ventolair]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41317655	OMOP2515617	Beclomethasone 0.25 MG Metered Dose Inhaler [Ventolair] Box of 2	Branded Drug Box	Drug	RxNorm Extension	Valid	Standard
+41362022	OMOP2559984	10 ML Beclomethasone 0.005 MG/ML Metered Dose Inhaler [Junik] Box of 1 by Astellas	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41362275	OMOP2560237	10 ML Beclomethasone 0.01 MG/ML Metered Dose Inhaler	Quant Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+41362632	OMOP2560594	10 ML Beclomethasone 0.01 MG/ML Metered Dose Inhaler [Junik] Box of 100	Quant Branded Box	Drug	RxNorm Extension	Valid	Standard
+41363025	OMOP2560987	10 ML Beclomethasone 0.01 MG/ML Metered Dose Inhaler Box of 1	Quant Clinical Box	Drug	RxNorm Extension	Valid	Standard
+41364472	OMOP2562434	10 ML Beclomethasone 0.005 MG/ML Metered Dose Inhaler Box of 200	Quant Clinical Box	Drug	RxNorm Extension	Valid	Standard
+41364817	OMOP2562779	10 ML Beclomethasone 0.01 MG/ML Metered Dose Inhaler [Junik]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41365563	OMOP2563525	10 ML Beclomethasone 0.005 MG/ML Metered Dose Inhaler [Junik] Box of 10	Quant Branded Box	Drug	RxNorm Extension	Valid	Standard
+41365947	OMOP2563909	10 ML Beclomethasone 0.01 MG/ML Metered Dose Inhaler Box of 100	Quant Clinical Box	Drug	RxNorm Extension	Valid	Standard
+41366317	OMOP2564279	10 ML Beclomethasone 0.5 MG/ML Metered Dose Inhaler [Junik]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41366748	OMOP2564710	10 ML Beclomethasone 0.005 MG/ML Metered Dose Inhaler Box of 100	Quant Clinical Box	Drug	RxNorm Extension	Valid	Standard
+41367468	OMOP2565430	10 ML Beclomethasone 0.5 MG/ML Metered Dose Inhaler	Quant Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+41367815	OMOP2565777	10 ML Beclomethasone 2 MG/ML Metered Dose Inhaler [Junik]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41367817	OMOP2565779	10 ML Beclomethasone 0.01 MG/ML Metered Dose Inhaler [Junik] Box of 200	Quant Branded Box	Drug	RxNorm Extension	Valid	Standard
+41367818	OMOP2565780	10 ML Beclomethasone 0.01 MG/ML Metered Dose Inhaler [Junik] Box of 1	Quant Branded Box	Drug	RxNorm Extension	Valid	Standard
+41367820	OMOP2565782	10 ML Beclomethasone 1 MG/ML Metered Dose Inhaler [Junik]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41368198	OMOP2566160	10 ML Beclomethasone 0.005 MG/ML Metered Dose Inhaler Box of 1	Quant Clinical Box	Drug	RxNorm Extension	Valid	Standard
+41368200	OMOP2566162	10 ML Beclomethasone 0.01 MG/ML Metered Dose Inhaler Box of 200	Quant Clinical Box	Drug	RxNorm Extension	Valid	Standard
+41368581	OMOP2566543	10 ML Beclomethasone 0.005 MG/ML Metered Dose Inhaler [Junik] Box of 200	Quant Branded Box	Drug	RxNorm Extension	Valid	Standard
+41368582	OMOP2566544	10 ML Beclomethasone 0.005 MG/ML Metered Dose Inhaler [Junik] Box of 1	Quant Branded Box	Drug	RxNorm Extension	Valid	Standard
+41368583	OMOP2566545	10 ML Beclomethasone 0.005 MG/ML Metered Dose Inhaler [Junik]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41368986	OMOP2566948	10 ML Beclomethasone 0.005 MG/ML Metered Dose Inhaler Box of 10	Quant Clinical Box	Drug	RxNorm Extension	Valid	Standard
+41369385	OMOP2567347	10 ML Beclomethasone 0.005 MG/ML Metered Dose Inhaler [Junik] Box of 100	Quant Branded Box	Drug	RxNorm Extension	Valid	Standard
+41369772	OMOP2567734	10 ML Beclomethasone 1 MG/ML Metered Dose Inhaler	Quant Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+41371045	OMOP2569007	10 ML Beclomethasone 2 MG/ML Metered Dose Inhaler [Junik] by Astellas	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41371046	OMOP2569008	10 ML Beclomethasone 0.01 MG/ML Metered Dose Inhaler [Junik] Box of 1 by Astellas	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41371264	OMOP2569226	10 ML Beclomethasone 2 MG/ML Metered Dose Inhaler	Quant Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+41372060	OMOP2570022	10 ML Beclomethasone 0.005 MG/ML Metered Dose Inhaler	Quant Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+41372546	OMOP2570508	10 ML Beclomethasone 1 MG/ML Metered Dose Inhaler [Junik] by Astellas	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41373328	OMOP2571290	10 ML Beclomethasone 0.005 MG/ML Metered Dose Inhaler [Junik] Box of 10 by Astellas	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41373329	OMOP2571291	10 ML Beclomethasone 0.01 MG/ML Metered Dose Inhaler [Junik] Box of 200 by Astellas	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41521781	OMOP2719743	100 ACTUAT Beclomethasone 0.05 MG/ACTUAT Metered Dose Inhaler [Ventolair] by 3M	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41521782	OMOP2719744	100 ACTUAT Beclomethasone 0.05 MG/ACTUAT Metered Dose Inhaler	Quant Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+41521788	OMOP2719750	100 ACTUAT Beclomethasone 0.1 MG/ACTUAT Metered Dose Inhaler [Ventolair] by 3M	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41521794	OMOP2719756	100 ACTUAT Beclomethasone 0.05 MG/ACTUAT Metered Dose Inhaler [Ventolair]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41521800	OMOP2719762	100 ACTUAT Beclomethasone 0.05 MG/ACTUAT Metered Dose Inhaler [Ventolair] by TEVA	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41521803	OMOP2719765	100 ACTUAT Beclomethasone 0.1 MG/ACTUAT Metered Dose Inhaler	Quant Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+41521809	OMOP2719771	100 ACTUAT Beclomethasone 0.1 MG/ACTUAT Metered Dose Inhaler [Ventolair]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41521812	OMOP2719774	100 ACTUAT Beclomethasone 0.1 MG/ACTUAT Metered Dose Inhaler [Ventolair] by TEVA	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41522654	OMOP2720616	200 ACTUAT Beclomethasone 0.1 MG/ACTUAT Metered Dose Inhaler [Ventolair] by TEVA	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41522655	OMOP2720617	200 ACTUAT Beclomethasone 0.1 MG/ACTUAT Metered Dose Inhaler [Ventolair] by 3M	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41522664	OMOP2720626	200 ACTUAT Beclomethasone 0.1 MG/ACTUAT Metered Dose Inhaler [AeroBec]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41522684	OMOP2720646	200 ACTUAT Beclomethasone 0.1 MG/ACTUAT Metered Dose Inhaler [Ventolair]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41522690	OMOP2720652	200 ACTUAT Beclomethasone 0.25 MG/ACTUAT Metered Dose Inhaler	Quant Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+41522701	OMOP2720663	200 ACTUAT Beclomethasone 0.25 MG/ACTUAT Metered Dose Inhaler [Ventolair]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41522714	OMOP2720676	200 ACTUAT Beclomethasone 0.1 MG/ACTUAT Metered Dose Inhaler [Qvar] by Kohlpharma	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41522715	OMOP2720677	200 ACTUAT Beclomethasone 0.1 MG/ACTUAT Metered Dose Inhaler [Qvar] by Emra-Med	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+41522723	OMOP2720685	200 ACTUAT Beclomethasone 0.1 MG/ACTUAT Metered Dose Inhaler [Qvar]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+41522732	OMOP2720694	200 ACTUAT Beclomethasone 0.1 MG/ACTUAT Metered Dose Inhaler	Quant Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+41522801	OMOP2720763	200 ACTUAT Beclomethasone 0.1 MG/ACTUAT Metered Dose Inhaler [Qvar] by Orifarm Leverkus	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+42825062	53002143602	120 ACTUAT Beclomethasone Dipropionate 0.04 MG/ACTUAT Metered Dose Inhaler [Qvar]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+42825079	53002147702	120 ACTUAT Beclomethasone Dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+42841006	59310030241	Breath-Actuated 120 ACTUAT Beclomethasone Dipropionate 0.04 MG/ACTUAT Metered Dose Inhaler [Qvar]	11-digit NDC	Drug	NDC	Valid	Non-standard
+42841007	59310030481	Breath-Actuated 120 ACTUAT Beclomethasone Dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]	11-digit NDC	Drug	NDC	Valid	Non-standard
+42902388	1359501	Beclomethasone Dipropionate 0.042 MG/ACTUAT Metered Dose Inhaler [Beclovent]	Branded Drug	Drug	RxNorm	Valid	Standard
+42902704	1359817	Beclomethasone Dipropionate 0.042 MG/ACTUAT Metered Dose Inhaler [Vanceril]	Branded Drug	Drug	RxNorm	Valid	Standard
+42902871	1359984	Beclomethasone Dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler	Clinical Drug	Drug	RxNorm	Valid	Standard
+42902879	1359992	Beclomethasone Dipropionate 0.084 MG/ACTUAT Metered Dose Inhaler [Vanceril]	Branded Drug	Drug	RxNorm	Valid	Standard
+42902902	1360015	Beclomethasone Dipropionate 0.042 MG/ACTUAT Metered Dose Inhaler	Clinical Drug	Drug	RxNorm	Valid	Standard
+42902911	1360024	Beclomethasone Dipropionate 0.084 MG/ACTUAT Metered Dose Inhaler	Clinical Drug	Drug	RxNorm	Valid	Standard
+42902961	1360074	Beclomethasone Dipropionate 0.04 MG/ACTUAT Metered Dose Inhaler	Clinical Drug	Drug	RxNorm	Valid	Standard
+42903181	1360294	Beclomethasone Dipropionate 0.04 MG/ACTUAT Metered Dose Inhaler [Qvar]	Branded Drug	Drug	RxNorm	Valid	Standard
+42903290	1360403	Beclomethasone Dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]	Branded Drug	Drug	RxNorm	Valid	Standard
+44035355	OMOP1029986	Beclomethasone 0.05 MG/ACTUAT Metered Dose Inhaler [Qvar]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+44038652	OMOP1033283	Beclomethasone 0.05 MG/ACTUAT Metered Dose Inhaler [Vancenase AQ] by Schering-Plough	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44048469	OMOP1043100	Beclomethasone 0.1 MG/ACTUAT Metered Dose Inhaler [Qvar]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+44048470	OMOP1043101	Beclomethasone 0.05 MG/ACTUAT Metered Dose Inhaler [Vanceril]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+44051799	OMOP1046430	Beclomethasone 0.2 MG Metered Dose Inhaler [Beclovent Rotacaps] by Glaxo Canada	Marketed Product	Drug	RxNorm Extension	Invalid	Non-standard
+44057734	OMOP1052365	Beclomethasone Metered Dose Inhaler [Alti-Beclomethasone Dipropionate]	Branded Drug Form	Drug	RxNorm Extension	Valid	Standard
+44057735	OMOP1052366	Beclomethasone Metered Dose Inhaler [Beclovent Rotacaps]	Branded Drug Form	Drug	RxNorm Extension	Valid	Standard
+44059311	OMOP1053942	Beclomethasone 0.2 MG Metered Dose Inhaler	Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+44059312	OMOP1053943	Beclomethasone 0.1 MG Metered Dose Inhaler	Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+44061469	OMOP1056100	Beclomethasone 0.1 MG Metered Dose Inhaler [Beclovent Rotacaps]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+44064766	OMOP1059397	Beclomethasone 0.25 MG/ACTUAT Metered Dose Inhaler [Becloforte] by Glaxosmithkline	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44064767	OMOP1059398	Beclomethasone 0.1 MG/ACTUAT Metered Dose Inhaler [Qvar] by Valeant	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44077477	OMOP1072108	Beclomethasone 0.1 MG Metered Dose Inhaler [Beclovent Rotacaps] by Glaxosmithkline	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44083518	OMOP1078149	Beclomethasone Metered Dose Inhaler [Becloforte]	Branded Drug Form	Drug	RxNorm Extension	Valid	Standard
+44084997	OMOP1079628	Beclomethasone 0.05 MG/ACTUAT Metered Dose Inhaler	Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+44087067	OMOP1081698	Beclomethasone 0.05 MG/ACTUAT Metered Dose Inhaler [Alti-Beclomethasone Dipropionate]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+44090408	OMOP1085039	Beclomethasone 0.05 MG/ACTUAT Metered Dose Inhaler [Beclovent Aem] by Glaxosmithkline	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44090409	OMOP1085040	Beclomethasone 0.05 MG/ACTUAT Metered Dose Inhaler [Alti-Beclomethasone Dipropionate] by Altimed	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44097966	OMOP1092597	Beclomethasone 0.25 MG/ACTUAT Metered Dose Inhaler	Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+44097967	OMOP1092598	Beclomethasone 0.1 MG/ACTUAT Metered Dose Inhaler	Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+44100114	OMOP1094745	Beclomethasone 0.25 MG/ACTUAT Metered Dose Inhaler [Becloforte]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+44103416	OMOP1098047	Beclomethasone 0.2 MG Metered Dose Inhaler [Beclovent Rotacaps] by Glaxosmithkline	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44103418	OMOP1098049	Beclomethasone 0.1 MG Metered Dose Inhaler [Beclovent Rotacaps] by Glaxo Canada	Marketed Product	Drug	RxNorm Extension	Invalid	Non-standard
+44103419	OMOP1098050	Beclomethasone 0.05 MG/ACTUAT Metered Dose Inhaler [Vanceril] by Schering-Plough	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44103420	OMOP1098051	Beclomethasone 0.05 MG/ACTUAT Metered Dose Inhaler [Beclovent] by Glaxosmithkline	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44103421	OMOP1098052	Beclomethasone 0.05 MG/ACTUAT Metered Dose Inhaler by Pharmaco	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44109310	OMOP1103941	Beclomethasone Metered Dose Inhaler [Vancenase AQ]	Branded Drug Form	Drug	RxNorm Extension	Valid	Standard
+44112907	OMOP1107538	Beclomethasone 0.2 MG Metered Dose Inhaler [Beclovent Rotacaps]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+44112910	OMOP1107541	Beclomethasone 0.05 MG/ACTUAT Metered Dose Inhaler [Beclovent]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+44116212	OMOP1110843	Beclomethasone 0.25 MG/ACTUAT Metered Dose Inhaler [Becloforte] by Glaxo Canada	Marketed Product	Drug	RxNorm Extension	Invalid	Non-standard
+44122440	OMOP1117071	Beclomethasone Metered Dose Inhaler [Beclovent Aem]	Branded Drug Form	Drug	RxNorm Extension	Valid	Standard
+44126091	OMOP1120722	Beclomethasone 0.05 MG/ACTUAT Metered Dose Inhaler [Vancenase AQ]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+44126092	OMOP1120723	Beclomethasone 0.05 MG/ACTUAT Metered Dose Inhaler [Beclovent Aem]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+44129371	OMOP1124002	Beclomethasone 0.05 MG/ACTUAT Metered Dose Inhaler [Qvar] by Valeant	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44170234	OMOP3046957	Beclomethasone 0.1 MG/ACTUAT Metered Dose Inhaler [Junik]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+44217386	OMOP3094109	100 ACTUAT Beclomethasone 0.1 MG/ACTUAT Metered Dose Inhaler [Junik]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+44217402	OMOP3094125	100 ACTUAT Beclomethasone 0.1 MG/ACTUAT Metered Dose Inhaler [Junik] by Infectopharm	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44217404	OMOP3094127	100 ACTUAT Beclomethasone 0.1 MG/ACTUAT Metered Dose Inhaler [Junik] by Astellas	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44217808	OMOP3094531	200 ACTUAT Beclomethasone 0.04 MG/ACTUAT Metered Dose Inhaler by Aristo	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44217834	OMOP3094557	200 ACTUAT Beclomethasone 0.1 MG/ACTUAT Metered Dose Inhaler [Junik] by Astellas	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44217876	OMOP3094599	200 ACTUAT Beclomethasone 0.1 MG/ACTUAT Metered Dose Inhaler [Qvar] by Eurim-Pharm	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44217969	OMOP3094692	200 ACTUAT Beclomethasone 0.1 MG/ACTUAT Metered Dose Inhaler [Junik] by Infectopharm	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44218041	OMOP3094764	200 ACTUAT Beclomethasone 0.1 MG/ACTUAT Metered Dose Inhaler [Junik]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+44218160	OMOP3094883	200 ACTUAT Beclomethasone 0.04 MG/ACTUAT Metered Dose Inhaler by Chiesi	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44464877	50090134200	120 ACTUAT Beclomethasone Dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]	11-digit NDC	Drug	NDC	Valid	Non-standard
+44814258	1490658	50 ACTUAT Beclomethasone Dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+44814259	1490659	50 ACTUAT Beclomethasone Dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+44814264	1490773	120 ACTUAT Beclomethasone Dipropionate 0.04 MG/ACTUAT Metered Dose Inhaler	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+44814265	1490774	120 ACTUAT Beclomethasone Dipropionate 0.04 MG/ACTUAT Metered Dose Inhaler [Qvar]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+44814266	1490666	120 ACTUAT Beclomethasone Dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+44814267	1490668	120 ACTUAT Beclomethasone Dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+44814273	1490780	200 ACTUAT Beclomethasone Dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+44838745	00089017540	100 ACTUAT Beclomethasone Dipropionate 0.04 MG/ACTUAT Metered Dose Inhaler [Qvar]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+44849197	54569100400	200 ACTUAT Beclomethasone Dipropionate 0.042 MG/ACTUAT Metered Dose Inhaler [Beclovent]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+44852003	60346022676	200 ACTUAT Beclomethasone Dipropionate 0.042 MG/ACTUAT Metered Dose Inhaler [Vanceril]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+44855923	00089074121	100 ACTUAT Beclomethasone Dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+44855924	00089078977	100 ACTUAT Beclomethasone Dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+44868882	59310020240	100 ACTUAT Beclomethasone Dipropionate 0.04 MG/ACTUAT Metered Dose Inhaler [Qvar]	11-digit NDC	Drug	NDC	Valid	Non-standard
+44872876	00089074006	100 ACTUAT Beclomethasone Dipropionate 0.04 MG/ACTUAT Metered Dose Inhaler [Qvar]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+44891021	00247063417	200 ACTUAT Beclomethasone Dipropionate 0.042 MG/ACTUAT Metered Dose Inhaler [Vanceril]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+44925136	00247109417	200 ACTUAT Beclomethasone Dipropionate 0.042 MG/ACTUAT Metered Dose Inhaler [Beclovent]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+44941688	00173031298	200 ACTUAT Beclomethasone Dipropionate 0.042 MG/ACTUAT Metered Dose Inhaler [Beclovent]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+44958395	00173031278	200 ACTUAT Beclomethasone Dipropionate 0.042 MG/ACTUAT Metered Dose Inhaler [Beclovent]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+44969242	55175446501	200 ACTUAT Beclomethasone Dipropionate 0.042 MG/ACTUAT Metered Dose Inhaler [Beclovent]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+44975892	00247109488	200 ACTUAT Beclomethasone Dipropionate 0.042 MG/ACTUAT Metered Dose Inhaler [Beclovent]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+44991860	00085111201	120 ACTUAT Beclomethasone Dipropionate 0.084 MG/ACTUAT Metered Dose Inhaler	11-digit NDC	Drug	NDC	Invalid	Non-standard
+44991900	00089078976	100 ACTUAT Beclomethasone Dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+44991901	00089079274	100 ACTUAT Beclomethasone Dipropionate 0.04 MG/ACTUAT Metered Dose Inhaler [Qvar]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+44991902	00089079275	100 ACTUAT Beclomethasone Dipropionate 0.04 MG/ACTUAT Metered Dose Inhaler [Qvar]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45004955	59310017780	100 ACTUAT Beclomethasone Dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45007630	68258893308	100 ACTUAT Beclomethasone Dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45009469	00173036098	200 ACTUAT Beclomethasone Dipropionate 0.042 MG/ACTUAT Metered Dose Inhaler	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45019636	54569639000	100 ACTUAT Beclomethasone Dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45020033	54868585701	120 ACTUAT Beclomethasone Dipropionate 0.04 MG/ACTUAT Metered Dose Inhaler [Qvar]	11-digit NDC	Drug	NDC	Valid	Non-standard
+45026284	00089079276	100 ACTUAT Beclomethasone Dipropionate 0.04 MG/ACTUAT Metered Dose Inhaler [Qvar]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45031431	11517017504	100 ACTUAT Beclomethasone Dipropionate 0.04 MG/ACTUAT Metered Dose Inhaler [Qvar]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45031432	11517074006	100 ACTUAT Beclomethasone Dipropionate 0.04 MG/ACTUAT Metered Dose Inhaler [Qvar]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45043235	00085073604	200 ACTUAT Beclomethasone Dipropionate 0.084 MG/ACTUAT Metered Dose Inhaler [Vanceril]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45065409	11517074106	100 ACTUAT Beclomethasone Dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45082471	11517078907	100 ACTUAT Beclomethasone Dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45088198	54868585800	100 ACTUAT Beclomethasone Dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]	11-digit NDC	Drug	NDC	Valid	Non-standard
+45090227	59310020480	120 ACTUAT Beclomethasone Dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]	11-digit NDC	Drug	NDC	Valid	Non-standard
+45094760	00173046900	200 ACTUAT Beclomethasone Dipropionate 0.042 MG/ACTUAT Metered Dose Inhaler [Beclovent]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45100056	16590086071	100 ACTUAT Beclomethasone Dipropionate 0.04 MG/ACTUAT Metered Dose Inhaler [Qvar]	11-digit NDC	Drug	NDC	Valid	Non-standard
+45104971	54868184101	200 ACTUAT Beclomethasone Dipropionate 0.042 MG/ACTUAT Metered Dose Inhaler [Vanceril]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45111458	00089074106	100 ACTUAT Beclomethasone Dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45122576	55175443501	200 ACTUAT Beclomethasone Dipropionate 0.042 MG/ACTUAT Metered Dose Inhaler [Vanceril]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45126799	68115077507	100 ACTUAT Beclomethasone Dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45133330	11517017708	100 ACTUAT Beclomethasone Dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45138913	54868126901	200 ACTUAT Beclomethasone Dipropionate 0.042 MG/ACTUAT Metered Dose Inhaler [Beclovent]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45143796	68258896408	100 ACTUAT Beclomethasone Dipropionate 0.04 MG/ACTUAT Metered Dose Inhaler [Qvar]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45145189	00085111203	200 ACTUAT Beclomethasone Dipropionate 0.084 MG/ACTUAT Metered Dose Inhaler [Vanceril]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45162766	00173033601	200 ACTUAT Beclomethasone 0.042 MG/ACTUAT Metered Dose Inhaler [Beclovent]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45179353	00089074021	100 ACTUAT Beclomethasone Dipropionate 0.04 MG/ACTUAT Metered Dose Inhaler [Qvar]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45184549	11517074001	100 ACTUAT Beclomethasone Dipropionate 0.04 MG/ACTUAT Metered Dose Inhaler [Qvar]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45207574	54868585801	120 ACTUAT Beclomethasone Dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]	11-digit NDC	Drug	NDC	Valid	Non-standard
+45209636	59310017781	100 ACTUAT Beclomethasone Dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45213739	00089017780	100 ACTUAT Beclomethasone Dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45213743	00089074022	200 ACTUAT Beclomethasone 0.04 MG/ACTUAT Metered Dose Inhaler	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45222633	50580017540	100 ACTUAT Beclomethasone Dipropionate 0.04 MG/ACTUAT Metered Dose Inhaler [Qvar]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45225175	55175446601	200 ACTUAT Beclomethasone Dipropionate 0.042 MG/ACTUAT Metered Dose Inhaler [Beclovent]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45241346	54569454000	200 ACTUAT Beclomethasone Dipropionate 0.084 MG/ACTUAT Metered Dose Inhaler [Vanceril]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45241350	54569482200	200 ACTUAT Beclomethasone Dipropionate 0.084 MG/ACTUAT Metered Dose Inhaler [Vanceril]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45243904	59310017541	100 ACTUAT Beclomethasone Dipropionate 0.04 MG/ACTUAT Metered Dose Inhaler [Qvar]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45260957	59310020450	50 ACTUAT Beclomethasone Dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45270253	11517074101	100 ACTUAT Beclomethasone Dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45270254	11517078906	100 ACTUAT Beclomethasone Dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45275115	52959059801	200 ACTUAT Beclomethasone Dipropionate 0.084 MG/ACTUAT Metered Dose Inhaler [Vanceril]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45275517	54569006700	200 ACTUAT Beclomethasone Dipropionate 0.042 MG/ACTUAT Metered Dose Inhaler [Vanceril]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45277831	58016620700	200 ACTUAT Beclomethasone Dipropionate 0.042 MG/ACTUAT Metered Dose Inhaler [Beclovent]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45291132	50580017780	100 ACTUAT Beclomethasone Dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45295291	59310020485	50 ACTUAT Beclomethasone Dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45305000	16590086072	100 ACTUAT Beclomethasone Dipropionate 0.04 MG/ACTUAT Metered Dose Inhaler [Qvar]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45305001	16590086073	100 ACTUAT Beclomethasone Dipropionate 0.04 MG/ACTUAT Metered Dose Inhaler [Qvar]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45310177	54868585700	100 ACTUAT Beclomethasone Dipropionate 0.04 MG/ACTUAT Metered Dose Inhaler [Qvar]	11-digit NDC	Drug	NDC	Valid	Non-standard
+45311983	58016620701	200 ACTUAT Beclomethasone Dipropionate 0.042 MG/ACTUAT Metered Dose Inhaler [Beclovent]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45333217	00089074120	100 ACTUAT Beclomethasone Dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45344281	55045306300	100 ACTUAT Beclomethasone Dipropionate 0.04 MG/ACTUAT Metered Dose Inhaler [Qvar]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45350705	00173031288	200 ACTUAT Beclomethasone Dipropionate 0.042 MG/ACTUAT Metered Dose Inhaler [Beclovent]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45365260	66267130000	100 ACTUAT Beclomethasone Dipropionate 0.04 MG/ACTUAT Metered Dose Inhaler [Qvar]	11-digit NDC	Drug	NDC	Valid	Non-standard
+45377291	52959059601	200 ACTUAT Beclomethasone Dipropionate 0.042 MG/ACTUAT Metered Dose Inhaler [Vanceril]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45378451	55045369508	100 ACTUAT Beclomethasone Dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45380364	59310017540	100 ACTUAT Beclomethasone Dipropionate 0.04 MG/ACTUAT Metered Dose Inhaler [Qvar]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45871008	59310020212	120 ACTUAT Beclomethasone Dipropionate 0.04 MG/ACTUAT Metered Dose Inhaler [Qvar]	11-digit NDC	Drug	NDC	Valid	Non-standard
+45873140	59310020214	120 ACTUAT Beclomethasone Dipropionate 0.04 MG/ACTUAT Metered Dose Inhaler [Qvar]	11-digit NDC	Drug	NDC	Valid	Non-standard
+45901842	59310020412	120 ACTUAT Beclomethasone Dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]	11-digit NDC	Drug	NDC	Valid	Non-standard
+46363934	59310020414	120 ACTUAT Beclomethasone Dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]	11-digit NDC	Drug	NDC	Valid	Non-standard
+963842	1998771	Breath-Actuated 120 ACTUAT Beclomethasone Dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler	Clinical Drug	Drug	RxNorm	Valid	Standard
+963843	1998772	Breath-Actuated 120 ACTUAT Beclomethasone Dipropionate 0.08 MG/ACTUAT Metered Dose Inhaler [Qvar]	Branded Drug	Drug	RxNorm	Valid	Standard
+963844	1998773	Breath-Actuated 120 ACTUAT Beclomethasone Dipropionate 0.04 MG/ACTUAT Metered Dose Inhaler	Clinical Drug	Drug	RxNorm	Valid	Standard
+963845	1998774	Breath-Actuated 120 ACTUAT Beclomethasone Dipropionate 0.04 MG/ACTUAT Metered Dose Inhaler [Qvar]	Branded Drug	Drug	RxNorm	Valid	Standard

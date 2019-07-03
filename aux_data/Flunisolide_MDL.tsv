@@ -1,0 +1,52 @@
+Id	Code	Name	Concept Class Id	Domain	Vocabulary	Invalid Reason	Standard Concept
+1196533	828927	100 ACTUAT flunisolide 0.25 MG/ACTUAT Metered Dose Inhaler	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+1196534	828929	100 ACTUAT flunisolide 0.25 MG/ACTUAT Metered Dose Inhaler [AeroBid]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+1196536	828931	50 ACTUAT flunisolide 0.25 MG/ACTUAT Metered Dose Inhaler [AeroBid]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+19133320	828930	50 ACTUAT flunisolide 0.25 MG/ACTUAT Metered Dose Inhaler	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+40156382	828926	flunisolide Metered Dose Inhaler	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40156384	828928	flunisolide Metered Dose Inhaler [AeroBid]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+42706167	1245273	flunisolide Metered Dose Inhaler [Aerospan]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+42708372	1245270	60 ACTUAT flunisolide 0.08 MG/ACTUAT Metered Dose Inhaler	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+42708373	1245275	60 ACTUAT flunisolide 0.08 MG/ACTUAT Metered Dose Inhaler [Aerospan]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+42708374	1245276	120 ACTUAT flunisolide 0.08 MG/ACTUAT Metered Dose Inhaler	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+42708375	1245277	120 ACTUAT flunisolide 0.08 MG/ACTUAT Metered Dose Inhaler [Aerospan]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+42902459	1359572	flunisolide 0.08 MG/ACTUAT Metered Dose Inhaler	Clinical Drug	Drug	RxNorm	Valid	Standard
+42902499	1359612	flunisolide 0.25 MG/ACTUAT Metered Dose Inhaler [AeroBid]	Branded Drug	Drug	RxNorm	Valid	Standard
+42902602	1359715	flunisolide 0.08 MG/ACTUAT Metered Dose Inhaler [Aerospan]	Branded Drug	Drug	RxNorm	Valid	Standard
+42903279	1360392	flunisolide 0.25 MG/ACTUAT Metered Dose Inhaler	Clinical Drug	Drug	RxNorm	Valid	Standard
+44025804	OMOP1020435	flunisolide 0.25 MG/ACTUAT Metered Dose Inhaler [Bronalide] by Boehringer Ingelheim	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44026132	OMOP1020763	flunisolide Metered Dose Inhaler [Bronalide]	Branded Drug Form	Drug	RxNorm Extension	Valid	Standard
+44034641	OMOP1029272	flunisolide 0.25 MG/ACTUAT Metered Dose Inhaler [Bronalide]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+44410999	00037759012	120 ACTUAT flunisolide 0.08 MG/ACTUAT Metered Dose Inhaler [Aerospan]	11-digit NDC	Drug	NDC	Valid	Non-standard
+44415022	00037759063	60 ACTUAT flunisolide 0.08 MG/ACTUAT Metered Dose Inhaler [Aerospan]	11-digit NDC	Drug	NDC	Valid	Non-standard
+44443743	00037759006	60 ACTUAT flunisolide 0.08 MG/ACTUAT Metered Dose Inhaler [Aerospan]	11-digit NDC	Drug	NDC	Valid	Non-standard
+44855925	00089079600	50 ACTUAT flunisolide 0.25 MG/ACTUAT Metered Dose Inhaler [AeroBid]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+44909139	00456067099	100 ACTUAT flunisolide 0.25 MG/ACTUAT Metered Dose Inhaler [AeroBid]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+44956584	68115065201	100 ACTUAT flunisolide 0.25 MG/ACTUAT Metered Dose Inhaler [AeroBid]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+44976804	00456555063	60 ACTUAT flunisolide 0.08 MG/ACTUAT Metered Dose Inhaler [Aerospan]	11-digit NDC	Drug	NDC	Valid	Non-standard
+44990904	75989055063	60 ACTUAT flunisolide 0.078 MG/ACTUAT Metered Dose Inhaler [Aerospan]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+44991903	00089079798	50 ACTUAT flunisolide 0.25 MG/ACTUAT Metered Dose Inhaler [AeroBid]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45009065	00089079799	100 ACTUAT flunisolide 0.25 MG/ACTUAT Metered Dose Inhaler [AeroBid]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45010901	00456067299	100 ACTUAT flunisolide 0.25 MG/ACTUAT Metered Dose Inhaler [AeroBid]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45010909	00456555006	60 ACTUAT flunisolide 0.08 MG/ACTUAT Metered Dose Inhaler [Aerospan]	11-digit NDC	Drug	NDC	Valid	Non-standard
+45045084	00456555012	120 ACTUAT flunisolide 0.08 MG/ACTUAT Metered Dose Inhaler [Aerospan]	11-digit NDC	Drug	NDC	Valid	Non-standard
+45056405	60346028274	100 ACTUAT flunisolide 0.25 MG/ACTUAT Metered Dose Inhaler [AeroBid]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45087671	54569101300	100 ACTUAT flunisolide 0.25 MG/ACTUAT Metered Dose Inhaler [AeroBid]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45094344	00089079621	100 ACTUAT flunisolide 0.25 MG/ACTUAT Metered Dose Inhaler [AeroBid]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45139204	55045186803	100 ACTUAT flunisolide 0.25 MG/ACTUAT Metered Dose Inhaler [AeroBid]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45146126	00247065907	100 ACTUAT flunisolide 0.25 MG/ACTUAT Metered Dose Inhaler [AeroBid]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45164282	00456067298	100 ACTUAT flunisolide 0.25 MG/ACTUAT Metered Dose Inhaler [AeroBid]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45179355	00089079700	50 ACTUAT flunisolide 0.25 MG/ACTUAT Metered Dose Inhaler [AeroBid]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45179356	00089079721	100 ACTUAT flunisolide 0.25 MG/ACTUAT Metered Dose Inhaler [AeroBid]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45181146	00456067098	100 ACTUAT flunisolide 0.25 MG/ACTUAT Metered Dose Inhaler [AeroBid]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45189439	53002088099	100 ACTUAT flunisolide 0.25 MG/ACTUAT Metered Dose Inhaler [AeroBid]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45229927	75989055006	60 ACTUAT flunisolide 0.08 MG/ACTUAT Metered Dose Inhaler [Aerospan]	11-digit NDC	Drug	NDC	Valid	Non-standard
+45280737	68115065301	100 ACTUAT flunisolide 0.25 MG/ACTUAT Metered Dose Inhaler [AeroBid]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45300220	00247070307	100 ACTUAT flunisolide 0.25 MG/ACTUAT Metered Dose Inhaler [AeroBid]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45309081	52959013100	100 ACTUAT flunisolide 0.25 MG/ACTUAT Metered Dose Inhaler [AeroBid]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45310133	54868529400	100 ACTUAT flunisolide 0.25 MG/ACTUAT Metered Dose Inhaler [AeroBid]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45326953	54868188301	100 ACTUAT flunisolide 0.25 MG/ACTUAT Metered Dose Inhaler [AeroBid]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45344260	55045252007	100 ACTUAT flunisolide 0.25 MG/ACTUAT Metered Dose Inhaler [AeroBid]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45360845	54569397600	100 ACTUAT flunisolide 0.25 MG/ACTUAT Metered Dose Inhaler [AeroBid]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45378101	54868188310	100 ACTUAT flunisolide 0.25 MG/ACTUAT Metered Dose Inhaler [AeroBid]	11-digit NDC	Drug	NDC	Invalid	Non-standard
+45383397	75989055012	120 ACTUAT flunisolide 0.08 MG/ACTUAT Metered Dose Inhaler [Aerospan]	11-digit NDC	Drug	NDC	Valid	Non-standard

@@ -1,0 +1,61 @@
+Id	Code	Name	Concept Class Id	Domain	Vocabulary	Invalid Reason	Standard Concept
+35754211	OMOP2755672	Mometasone 0.22 MG/ACTUAT Metered Dose Inhaler [Asmanex]	Branded Drug	Drug	RxNorm Extension	Invalid	Non-standard
+35754938	OMOP2756399	Mometasone 0.2 MG/ACTUAT Metered Dose Inhaler [Asmanex] by Merck	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+35767377	OMOP2768838	Mometasone 0.2 MG/ACTUAT Metered Dose Inhaler [Asmanex] by Waymade	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+35770647	OMOP2772108	Mometasone 0.22 MG/ACTUAT Metered Dose Inhaler	Clinical Drug	Drug	RxNorm Extension	Invalid	Non-standard
+35798110	OMOP2799571	30 ACTUAT Mometasone 0.2 MG/ACTUAT Metered Dose Inhaler	Quant Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+35798111	OMOP2799572	30 ACTUAT Mometasone 0.2 MG/ACTUAT Metered Dose Inhaler [Asmanex] by Merck	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+35798112	OMOP2799573	30 ACTUAT Mometasone 0.2 MG/ACTUAT Metered Dose Inhaler [Asmanex]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+35798278	OMOP2799739	60 ACTUAT Mometasone 0.2 MG/ACTUAT Metered Dose Inhaler	Quant Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+35798301	OMOP2799762	60 ACTUAT Mometasone 0.2 MG/ACTUAT Metered Dose Inhaler [Asmanex] by Merck	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+35798302	OMOP2799763	60 ACTUAT Mometasone 0.2 MG/ACTUAT Metered Dose Inhaler [Asmanex] by Waymade	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+35798333	OMOP2799794	60 ACTUAT Mometasone 0.2 MG/ACTUAT Metered Dose Inhaler [Asmanex]	Quant Branded Drug	Drug	RxNorm Extension	Valid	Standard
+40223146	998041	120 ACTUAT FORMOTEROL FUMARATE DIHYDRATE 0.005 MG/ACTUAT / mometasone furoate 0.1 MG/ACTUAT Metered Dose Inhaler	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40223147	998045	120 ACTUAT FORMOTEROL FUMARATE DIHYDRATE 0.005 MG/ACTUAT / mometasone furoate 0.1 MG/ACTUAT Metered Dose Inhaler [Dulera 100/5]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40223148	998046	120 ACTUAT FORMOTEROL FUMARATE DIHYDRATE 0.005 MG/ACTUAT / mometasone furoate 0.2 MG/ACTUAT Metered Dose Inhaler	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40223149	998050	120 ACTUAT FORMOTEROL FUMARATE DIHYDRATE 0.005 MG/ACTUAT / mometasone furoate 0.2 MG/ACTUAT Metered Dose Inhaler [Dulera 200/5]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40223712	998040	formoterol / Mometasone Metered Dose Inhaler	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40223713	998044	formoterol / Mometasone Metered Dose Inhaler [Dulera 100/5]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40223714	998049	formoterol / Mometasone Metered Dose Inhaler [Dulera]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+42708510	1246308	120 ACTUAT formoterol fumarate 0.005 MG/ACTUAT / mometasone furoate 0.1 MG/ACTUAT Metered Dose Inhaler	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+42708511	1246310	120 ACTUAT formoterol fumarate 0.005 MG/ACTUAT / mometasone furoate 0.1 MG/ACTUAT Metered Dose Inhaler [Dulera]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+42708512	1246311	120 ACTUAT formoterol fumarate 0.005 MG/ACTUAT / mometasone furoate 0.2 MG/ACTUAT Metered Dose Inhaler	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+42708513	1246313	120 ACTUAT formoterol fumarate 0.005 MG/ACTUAT / mometasone furoate 0.2 MG/ACTUAT Metered Dose Inhaler [Dulera]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+42902501	1359614	formoterol fumarate 0.005 MG/ACTUAT / mometasone furoate 0.1 MG/ACTUAT Metered Dose Inhaler [Dulera]	Branded Drug	Drug	RxNorm	Valid	Standard
+42902603	1359716	formoterol fumarate 0.005 MG/ACTUAT / mometasone furoate 0.2 MG/ACTUAT Metered Dose Inhaler [Dulera]	Branded Drug	Drug	RxNorm	Valid	Standard
+42902950	1360063	formoterol fumarate 0.005 MG/ACTUAT / mometasone furoate 0.2 MG/ACTUAT Metered Dose Inhaler	Clinical Drug	Drug	RxNorm	Valid	Standard
+42903122	1360235	formoterol fumarate 0.005 MG/ACTUAT / mometasone furoate 0.1 MG/ACTUAT Metered Dose Inhaler	Clinical Drug	Drug	RxNorm	Valid	Standard
+44031147	OMOP1025778	formoterol / Mometasone Metered Dose Inhaler [Zenhale]	Branded Drug Form	Drug	RxNorm Extension	Valid	Standard
+44086365	OMOP1080996	formoterol 0.005 MG / Mometasone 0.1 MG Metered Dose Inhaler [Zenhale]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+44102228	OMOP1096859	formoterol 0.005 MG / Mometasone 0.1 MG Metered Dose Inhaler [Zenhale] by Merck	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44110189	OMOP1104820	formoterol 0.005 MG / Mometasone 0.1 MG Metered Dose Inhaler	Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+44112121	OMOP1106752	formoterol 0.005 MG / Mometasone 0.2 MG Metered Dose Inhaler [Zenhale]	Branded Drug	Drug	RxNorm Extension	Valid	Standard
+44123355	OMOP1117986	formoterol 0.005 MG / Mometasone 0.2 MG Metered Dose Inhaler	Clinical Drug	Drug	RxNorm Extension	Valid	Standard
+44128185	OMOP1122816	formoterol 0.005 MG / Mometasone 0.2 MG Metered Dose Inhaler [Zenhale] by Merck	Marketed Product	Drug	RxNorm Extension	Valid	Standard
+44464952	50090191600	60 ACTUAT formoterol fumarate 0.005 MG/ACTUAT / mometasone furoate 0.2 MG/ACTUAT Metered Dose Inhaler [Dulera]	11-digit NDC	Drug	NDC	Valid	Non-standard
+44817882	1536141	Mometasone Metered Dose Inhaler	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+44817883	1536143	Mometasone Metered Dose Inhaler [Asmanex]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+44818261	1536142	120 ACTUAT mometasone furoate 0.1 MG/ACTUAT Metered Dose Inhaler	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+44818262	1536144	120 ACTUAT mometasone furoate 0.1 MG/ACTUAT Metered Dose Inhaler [Asmanex]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+44818263	1536145	mometasone furoate 0.1 MG/ACTUAT Metered Dose Inhaler	Clinical Drug	Drug	RxNorm	Valid	Standard
+44818264	1536146	mometasone furoate 0.1 MG/ACTUAT Metered Dose Inhaler [Asmanex]	Branded Drug	Drug	RxNorm	Valid	Standard
+44818265	1536147	120 ACTUAT mometasone furoate 0.2 MG/ACTUAT Metered Dose Inhaler	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+44818266	1536148	120 ACTUAT mometasone furoate 0.2 MG/ACTUAT Metered Dose Inhaler [Asmanex]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+44818267	1536149	mometasone furoate 0.2 MG/ACTUAT Metered Dose Inhaler	Clinical Drug	Drug	RxNorm	Valid	Standard
+44818268	1536150	mometasone furoate 0.2 MG/ACTUAT Metered Dose Inhaler [Asmanex]	Branded Drug	Drug	RxNorm	Valid	Standard
+44838718	00085461002	120 ACTUAT formoterol fumarate 0.005 MG/ACTUAT / mometasone furoate 0.2 MG/ACTUAT Metered Dose Inhaler [Dulera]	11-digit NDC	Drug	NDC	Valid	Non-standard
+44974977	00085461001	120 ACTUAT formoterol fumarate 0.005 MG/ACTUAT / mometasone furoate 0.2 MG/ACTUAT Metered Dose Inhaler [Dulera]	11-digit NDC	Drug	NDC	Valid	Non-standard
+45077437	00085720607	60 ACTUAT formoterol fumarate 0.005 MG/ACTUAT / mometasone furoate 0.1 MG/ACTUAT Metered Dose Inhaler [Dulera]	11-digit NDC	Drug	NDC	Valid	Non-standard
+45094306	00085461006	60 ACTUAT formoterol fumarate 0.005 MG/ACTUAT / mometasone furoate 0.2 MG/ACTUAT Metered Dose Inhaler [Dulera]	11-digit NDC	Drug	NDC	Valid	Non-standard
+45145200	00085720601	120 ACTUAT formoterol fumarate 0.005 MG/ACTUAT / mometasone furoate 0.1 MG/ACTUAT Metered Dose Inhaler [Dulera]	11-digit NDC	Drug	NDC	Valid	Non-standard
+45145201	00085720608	60 ACTUAT formoterol fumarate 0.005 MG/ACTUAT / mometasone furoate 0.1 MG/ACTUAT Metered Dose Inhaler [Dulera]	11-digit NDC	Drug	NDC	Valid	Non-standard
+45247886	00085461005	60 ACTUAT formoterol fumarate 0.005 MG/ACTUAT / mometasone furoate 0.2 MG/ACTUAT Metered Dose Inhaler [Dulera]	11-digit NDC	Drug	NDC	Valid	Non-standard
+45299286	00085720602	120 ACTUAT formoterol fumarate 0.005 MG/ACTUAT / mometasone furoate 0.1 MG/ACTUAT Metered Dose Inhaler [Dulera]	11-digit NDC	Drug	NDC	Valid	Non-standard
+45861024	00085433402	120 ACTUAT mometasone furoate 0.2 MG/ACTUAT Metered Dose Inhaler [Asmanex]	11-digit NDC	Drug	NDC	Valid	Non-standard
+45871546	00085433401	120 ACTUAT mometasone furoate 0.2 MG/ACTUAT Metered Dose Inhaler [Asmanex]	11-digit NDC	Drug	NDC	Valid	Non-standard
+45873649	00085433301	120 ACTUAT mometasone furoate 0.1 MG/ACTUAT Metered Dose Inhaler [Asmanex]	11-digit NDC	Drug	NDC	Valid	Non-standard
+45873650	00085433302	120 ACTUAT mometasone furoate 0.1 MG/ACTUAT Metered Dose Inhaler [Asmanex]	11-digit NDC	Drug	NDC	Valid	Non-standard
+46276021	1660933	60 ACTUAT formoterol fumarate 0.005 MG/ACTUAT / mometasone furoate 0.1 MG/ACTUAT Metered Dose Inhaler	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+46276022	1660934	60 ACTUAT formoterol fumarate 0.005 MG/ACTUAT / mometasone furoate 0.1 MG/ACTUAT Metered Dose Inhaler [Dulera]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+46276023	1660937	60 ACTUAT formoterol fumarate 0.005 MG/ACTUAT / mometasone furoate 0.2 MG/ACTUAT Metered Dose Inhaler	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+46276024	1660938	60 ACTUAT formoterol fumarate 0.005 MG/ACTUAT / mometasone furoate 0.2 MG/ACTUAT Metered Dose Inhaler [Dulera]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
