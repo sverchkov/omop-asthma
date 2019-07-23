@@ -8,7 +8,7 @@ database_file <- config::get("database")
 asthma_conditions_file <- config::get("asthma_conditions_file")
 query_limit <- config::get("query_limit")
 asthma_concept_counts <- config::get("counts of asthma concepts in EHR")
-asthma_first_concept_counts <- conig::get("counts of first occurrences of asthma concepts in EHR")
+asthma_first_concept_counts <- config::get("counts of first occurrences of asthma concepts in EHR")
 
 # Validate required configuration parameters
 if (is.null(database_file)) stop("Did you specify a database in the config file?")
