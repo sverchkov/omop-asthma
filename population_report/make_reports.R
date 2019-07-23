@@ -8,7 +8,7 @@ database_file <- config::get("database")
 asthma_conditions_file <- config::get("asthma_conditions_file")
 query_limit <- config::get("query_limit")
 concept_counts_file <- config::get("counts of asthma concepts in EHR")
-first_concept_counts_file <- conig::get("counts of first occurrences of asthma concepts in EHR")
+first_concept_counts_file <- config::get("counts of first occurrences of asthma concepts in EHR")
 
 # Validate required configuration parameters
 if (is.null(database_file)) stop("Did you specify a database in the config file?")
@@ -59,3 +59,4 @@ first_asthma_records <- asthma_records %>% group_by(person_id) %>% first(the_dat
 sorted_named_first_concept_counts <- inner_join(first_asthma_counts, asthma_concept_names, by='concept_id') %>%
   arrange( desc(count) )
 write_csv(sorted_named_first_concept_counts, path=first_concept_counts_file)
+
