@@ -7,13 +7,14 @@ Sys.setenv(R_CONFIG_FILE="population_report/config.yml")
 database_file <- config::get("database")
 asthma_conditions_file <- config::get("asthma_conditions_file")
 query_limit <- config::get("query_limit")
-output <- config::get("output")
+asthma_concept_counts <- config::get("counts of asthma concepts in EHR")
+asthma_first_concept_counts <- conig::get("counts of first occurrences of asthma concepts in EHR")
 
 # Validate required configuration parameters
 if (is.null(database_file)) stop("Did you specify a database in the config file?")
 if (is.null(asthma_conditions_file)) stop("Did you specify an asthma conditions file in the config file?")
-if (is.null(output$concept_counts)) stop("Did you specify a concept counts output file in the config file?")
-if (is.null(output$first_concept_counts)) stop("Did you specify a first concept counts output file in the config file?")
+if (is.null(asthma_concept_counts)) stop("Did you specify a concept counts output file in the config file?")
+if (is.null(asthma_first_concept_counts)) stop("Did you specify a first concept counts output file in the config file?")
 
 # Load files
 asthma_codes <- read_tsv(asthma_conditions_file)
@@ -51,10 +52,10 @@ asthma_records <- union_all(
 asthma_concept_counts <- asthma_records %>% group_by(concept_id) %>% summarize(count=n()) %>% ungroup()
 sorted_named_concept_counts <- inner_join(asthma_concept_counts, asthma_concept_names, by='concept_id') %>%
   arrange( desc(count) )
-write_csv(sorted_named_concept_counts, path=output$concept_counts)
+write_csv(sorted_named_concept_counts, path=asthma_concept_counts)
 
 # Find and count the first occurrence for each observation type for each patient
 first_asthma_records <- asthma_records %>% group_by(person_id) %>% first(the_date)
 sorted_named_first_concept_counts <- inner_join(first_asthma_counts, asthma_concept_names, by='concept_id') %>%
   arrange( desc(count) )
-write_csv(sorted_named_first_concept_counts, path=output$first_concept_counts)
+write_csv(sorted_named_first_concept_counts, path=asthma_first_concept_counts)
