@@ -28,7 +28,7 @@ asthma_patients <- read_csv(patient_ages_file) %>%
   filter(age >= min_age_incl, age < max_age_excl)
 
 # Filter exposures to patients of interest
-patient_list <- asthma_patients %>% distinct(patient_id) %>% pull(patient_id)
+patient_list <- asthma_patients %>% distinct(person_id) %>% pull(person_id)
 exposures_of_interest <- drug_exposure %>%
   filter(person_id %in% patient_list) %>%
   group_by(drug_concept_id) %>%
