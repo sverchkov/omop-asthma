@@ -1,0 +1,56 @@
+---
+title: "Asthma cohort population report"
+author: "Yuriy Sverchkov"
+date: "7/24/2019"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+library(tidyverse)
+library(ggplot2)
+
+# Constants and configuration
+Sys.setenv(R_CONFIG_FILE=here::here("population_report","config.yml"))
+
+patient_data <- read_csv(here::here(config::get("patient ages at first diagnosis")))
+```
+
+# Breakdown by age and diagnosis
+
+```{r plot child population by age and diagnosis, echo=FALSE}
+age_bins = c(0:18)
+
+binned_data <- patient_data %>%
+  mutate(`Age range`=cut(age, age_bins, right=FALSE), Diagnosis=name) %>%
+  drop_na("Age range") %>%
+  group_by(`Age range`, Diagnosis) %>%
+  summarize(Count=n()) %>%
+  ungroup()
+
+small_text_pts=6
+
+ggplot(binned_data, aes(x=`Age range`, y=Count, fill=Diagnosis)) +
+  geom_col() +
+  ggtitle("Distribution of children's ages at first event of asthma") +
+  guides(
+    fill=guide_legend(
+      title="      ", title.position="right", # Kinda hacky, pushing the legend left with this.
+      label.theme=element_text(size=small_text_pts),
+      keyheight=small_text_pts, keywidth=small_text_pts, default.unit="points", ncol=3)) +
+  theme(legend.position="top", axis.text.x = element_text(angle=45))
+```
+
+```{r patient totals, results='asis', echo=FALSE}
+age_bins_all = c(0, 1:18, 25, 65, Inf)
+
+totals <- patient_data %>%
+  mutate(age_range=cut(age, age_bins_all, right=FALSE)) %>%
+  group_by(age_range) %>%
+  summarize(count=n()) %>%
+  ungroup()
+
+knitr::kable(totals, caption="Number of cases with asthma events across all age groups")
+```
+
+# Ranking of drugs given to patients
+
