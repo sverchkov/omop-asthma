@@ -30,7 +30,7 @@ asthma_patients <- read_csv(patient_ages_file) %>%
 # Filter exposures to patients of interest
 patient_list <- asthma_patients %>% distinct(patient_id) %>% pull(patient_id)
 exposures_of_interest <- drug_exposure %>%
-  filter(patient_id %in% patient_list) %>%
+  filter(person_id %in% patient_list) %>%
   group_by(drug_concept_id) %>%
   summarize(count=n()) %>%
   ungroup() %>%
