@@ -8,7 +8,6 @@ database_file <- config::get("database")
 #aux_path <- config::get("aux data")
 #ics_files <- config::get("tables of ICS drugs")
 query_limit <- config::get("query_limit")
-known_ics_ehr_file <- here::here(config::get("table of ICS drugs in EHR"))
 patient_ages_file <- here::here(config::get("patient ages at first diagnosis"))
 ranked_drugs_file <- here::here(config::get("ranked drug list"))
 min_age_incl <- 0
@@ -19,9 +18,6 @@ con <- DBI::dbConnect(RSQLite::SQLite(), database_file, flags=RSQLite::SQLITE_RO
 
 # Get drug exposures
 drug_exposure <- tbl(con, 'drug_exposure')
-
-# Get known drugs
-known_drugs <-read_tsv(known_ics_ehr_file)
 
 # Asthma patients of interest
 asthma_patients <- read_csv(patient_ages_file) %>%
@@ -34,9 +30,7 @@ exposures_of_interest <- drug_exposure %>%
   group_by(drug_concept_id) %>%
   summarize(count=n()) %>%
   ungroup() %>%
-  collect()
+  collect() %>%
+  arrange(desc(count))
 
-annotated_exposures <- left_join(exposures_of_interest, known_drugs, by=c('drug_concept_id'='Id')) %>%
-  arrange(count)
-
-write_csv(annotated_exposures, ranked_drugs_file)
+write_csv(exposures_of_interest, ranked_drugs_file)
