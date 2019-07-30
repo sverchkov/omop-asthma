@@ -28,9 +28,9 @@ patient_list <- asthma_patients %>% distinct(person_id) %>% pull(person_id)
 exposures_of_interest <- drug_exposure %>%
   filter(person_id %in% patient_list) %>%
   group_by(drug_concept_id) %>%
-  summarize(count=n()) %>%
+  summarize(n_records=n(), n_patients=n_distinct(person_id)) %>%
   ungroup() %>%
   collect() %>%
-  arrange(desc(count))
+  arrange(desc(n_patients))
 
 write_csv(exposures_of_interest, ranked_drugs_file)
